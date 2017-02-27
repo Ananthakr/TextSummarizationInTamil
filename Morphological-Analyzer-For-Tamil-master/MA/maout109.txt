@@ -1,0 +1,163 @@
+<﻿ஒரிதழ்த்>:
+
+<தாமரை:(B.N:INDIANUM>:
+<Error>
+
+<SUFFRUTICOSNUM>:
+<Error>
+
+<தாது>:
+தாது < Noun > 
+<புஸ்டிக்கு>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > க்கு < Dative Case > 
+<ட்+உ+இ+க்கு>
+<unknown>
+
+<ஒரிதழ்>:
+<unknown>
+
+<தாமரைகயிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+தாமரை < Noun > க் < Sandhi > அயில் < Noun > ஐ < Accusative Case > 
+<தாமரை+க்+அயில்+ஐ>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<சுத்தம்>:
+சுத்தம் < Noun > 
+<பார்த்து,ஒரு>:
+<unknown>
+
+<கைப்பிடி>:
+கைப்பிடி < Verb > 
+<கைப்பிடி>
+கைப்பிடி < Noun > 
+<கைப்பிடி>
+
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<வாயில்>:
+வாயில் < Noun > 
+<போட்டு>:
+போட்டு < Particle > 
+<மென்று>:
+என்று < Conjunction Suffix > 
+<என்று>
+<unknown>
+
+<தின்று>:
+தின் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தின்+ற்+உ>
+
+<விட்டு>:
+விட்டு < Postposition > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<டம்ளர்>:
+டம்ளர் < Noun > 
+<அளவு>:
+அளவு < Noun > 
+<காய்ச்சின்>:
+காய்ச்சு < Verb > இன் < Genitive Case > 
+<காய்ச்சு+இன்>
+
+<பாலை>:
+பாலை < Noun > 
+<உடனே>:
+உடனே < Particle > 
+<உடனே>
+உடனே < Adverb > 
+<உடனே>
+
+<குடித்துவிட>:
+குடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > விட < Postposition > 
+<குடி+த்த்+உ+விட>
+
+<வேண்டும்.தொடர்ந்து>:
+
+<21>:
+21 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<சிறுனீர்த்>:
+சிறு < Verb > ன் < Past Tense Marker > ஈர் < Second Person Singular Suffix > த் < Sandhi > 
+<சிறு+ன்+ஈர்+த்>
+
+<தாரை>:
+தார் < Noun > ஐ < Accusative Case > 
+<கோளாறு>:
+கோளாறு < Adjective > 
+<நீங்க>:
+நீங்கு < Verb > அ < Infinitive Suffix > 
+<நீங்கு+அ>
+
+<கைப்பிடியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<ஒரிதழ்>:
+<unknown>
+
+<தாமரை>:
+தாமரை < Noun > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<ஆய்ந்துஅரைத்து,ஒரு>:
+<unknown>
+
+<டம்ளர்>:
+டம்ளர் < Noun > 
+<மோரில்>:
+மோர் < Noun > இல் < Locative Case > 
+<கரைத்து>:
+கரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+த்த்+உ>
+
+<காலை>:
+காலை < DateTime > 
+<வேளையில்>:
+வேளை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<மட்டும்>:
+மட்டும் < Particle > 
+<தொடர்ந்து>:
+தொடர்ந்து < Adverb > 
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<சிறுனீர்>:
+சிறு < Verb > ன் < Past Tense Marker > ஈர் < Second Person Singular Suffix > 
+<சிறு+ன்+ஈர்>
+
+<தாரை>:
+தார் < Noun > ஐ < Accusative Case > 
+<கோளாறுகள்>:
+கோள் < Noun > ஆ < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > கள் < Plural Suffix > 
+<கோள்+ஆ+ற்+உ+கள்>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

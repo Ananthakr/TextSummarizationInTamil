@@ -1,0 +1,105 @@
+<﻿ஆறாத>:
+
+<விரணங்களுக்குக்>:
+கள் < Plural Suffix > உக்கு < Dative Case > க் < Sandhi > 
+<கள்+உக்கு+க்>
+<unknown>
+
+<களிம்பு>:
+களிம்பு < Noun > 
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<விராகனெடை-2>:
+<unknown>
+
+<இலிங்கம்>:
+இலிங்கம் < Entity > 
+<விரானிகடை-2>:
+<unknown>
+
+<கெந்தகம்>:
+<unknown>
+
+<விரானிகடை-2>:
+<unknown>
+
+<ஆக>:
+ஆக < Conjunction > 
+<ஆக>
+ஆக < Particle > 
+<ஆக>
+ஆக < Postposition > 
+<ஆக>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<போதிய>:
+போதிய < Adjective > 
+<அளவு>:
+அளவு < Noun > 
+<பசுவின்>:
+வ் < Sandhi > இன் < Genitive Case > 
+<வ்+இன்>
+<unknown>
+
+<வெண்ணெய்>:
+வெண்ணெய் < Entity > 
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<களிம்பு>:
+களிம்பு < Noun > 
+<பதத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<2-3>:
+<unknown>
+
+<நாள்>:
+நாள் < DateTime > 
+<அரைத்துச்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ச் < Sandhi > 
+<அரை+த்த்+உ+ச்>
+
+<சிமிழியில்>:
+
+<அடைத்து>:
+அடை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அடை+த்த்+உ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<விரணங்களின்>:
+கள் < Plural Suffix > இன் < Genitive Case > 
+<கள்+இன்>
+<unknown>
+
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<தடவிவர>:
+தடவு < Verb > இ < Past Tense Marker > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<தடவு+இ+வா+அ>
+
+<விரைவில்>:
+விரைவில் < Adverb > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

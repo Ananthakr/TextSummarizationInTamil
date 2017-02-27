@@ -1,0 +1,523 @@
+<﻿சோற்றுக்>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<ற்+உ+க்>
+<unknown>
+
+<கற்றாழைக்கு>:
+கற்றாழை < Noun > க்கு < Dative Case > 
+<சித்த>:
+சித்த < Adjectival Noun > 
+<மருத்துவர்கள்>:
+மருத்துவர் < Noun > கள் < Plural Suffix > 
+<கொடுத்திருக்கும்>:
+கொடு < Adjectival Noun > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > இரு < Auxiliary Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+த்த்+உ+இரு+க்க்+உம்>
+
+<மதிப்பே>:
+மதிப்பு < Noun > ஏ < Clitic > 
+<தனிதான்>:
+தனி < Noun > தான் < Clitic > 
+<.>:
+<unknown>
+
+<மூலிகைகள்>:
+மூலிகை < Noun > கள் < Plural Suffix > 
+<உலகத்தில்>:
+உலகம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<ராஜ>:
+ராஜ < Entity > 
+<மரியாதையுடன்>:
+மரியாதை < Noun > ய் < Sandhi > உடன் < Associative Case > 
+<வலம்>:
+வலம் < Noun > 
+<வரும்>:
+வரும் < Adjective > 
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<சோற்றுக்கற்றாழை>:
+சோற்றுக்கற்றாழை < Noun > 
+<அதற்கு>:
+அது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<முற்றிலும்>:
+முற்றிலும் < Adverb > 
+<தகுதி>:
+தகுதி < Noun > 
+<உடையதுதான்>:
+உடை < Noun > ய் < Sandhi > அது < Genitive Case > தான் < Clitic > 
+<.>:
+<unknown>
+
+<எளிதாக>:
+எளிது < Noun > ஆக < Adverbial Suffix > 
+<எளிது+ஆக>
+
+<கிடைக்கக்கூடிய>:
+கிடை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > க் < Sandhi > கூடு < Auxiliary Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<கிடை+க்க்+அ+க்+கூடு+இ+ய்+அ>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<மூலிகை>:
+மூலிகை < Noun > 
+<ஏராளமான>:
+ஏராளம் < Noun > ஆன < Adjectival Suffix > 
+<மருத்துவக்குணங்களை>:
+கள் < Plural Suffix > ஐ < Accusative Case > 
+<கள்+ஐ>
+மருத்துவ < Adjectival Noun > க் < Sandhi > குணம் < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<மருத்துவ+க்+குணம்+கள்+ஐ>
+
+<கொண்டது>:
+கொள் < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > 
+<கொள்+ட்+உ+அது>
+
+<.>:
+<unknown>
+
+<தீய>:
+தீய < Adjective > 
+<சக்திகள்>:
+சக்தி < Noun > கள் < Plural Suffix > 
+<கண்>:
+கண் < Particle > 
+<கண்>
+கண் < Noun > 
+<கண்>
+
+<திருஷ்டி>:
+திருஷ்டி < Noun > 
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<அண்டவிடாது>:
+அண்டு < Verb > அ < Relative Participle Suffix > விடாது < Negative Finite Verb Suffix > 
+<அண்டு+அ+விடாது>
+
+<என்ற>:
+என்ற < Particle > 
+<நம்பிக்கையின்>:
+நம்பிக்கை < Noun > ய் < Sandhi > இன் < Genitive Case > 
+<காரணமாக>:
+காரணம் < Noun > ஆக < Adverbial Suffix > 
+<காரணம்+ஆக>
+
+<வீட்டின்>:
+வீடு < Noun > இன் < Genitive Case > 
+<முன்புறம்>:
+முன்புறம் < Noun > 
+<வளர்க்கப்படுகிற>:
+வளர் < Verb > க்க் < Sandhi > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > கிறு < Present Tense Marker > அ < Relative Participle Suffix > 
+<வளர்+க்க்+அ+ப்+படு+கிறு+அ>
+
+<அல்ல>:
+அல்ல < Negative Finite Verb > 
+<அல்ல>
+அல்ல < Verb > 
+<அல்ல>
+
+<கட்டித்>:
+கட்டி < Noun > த் < Sandhi > 
+<தொங்க>:
+தொங்க < Entity > 
+<விடப்படுகிற>:
+விடு < Verb > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > கிறு < Present Tense Marker > அ < Relative Participle Suffix > 
+<விடு+அ+ப்+படு+கிறு+அ>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<செடி>:
+செடி < Noun > 
+<மாட்டுத்>:
+மாட்டு < Verb > த் < Sandhi > 
+<தொழுவங்களில்>:
+தொழுவம் < Noun > கள் < Plural Suffix > இல் < Locative Case > 
+<கால்நடைகளுக்கு>:
+கால்நடை < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<உண்ணி>:
+உண்ணி < Noun > 
+<பற்றாமலிருப்பதற்காகவும்>:
+
+<தொங்க>:
+தொங்க < Entity > 
+<விடப்படுவது>:
+விடு < Verb > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > வ் < Sandhi > அது < Genitive Case > 
+<விடு+அ+ப்+படு+வ்+அது>
+
+<உண்டு>:
+உண்டு < Finite Verb > 
+<.>:
+<unknown>
+
+<கற்றாழையின்>:
+கற்றாழை < Noun > ய் < Sandhi > இன் < Genitive Case > 
+<சோற்றைத்>:
+சோறு < Noun > ஐ < Accusative Case > த் < Sandhi > 
+<தலையில்>:
+தலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தேய்த்து>:
+தேய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தேய்+த்த்+உ>
+
+<அரை>:
+அரை < Verb > 
+<மணி>:
+மணி < Entity > 
+<நேரம்>:
+நேரம் < Noun > 
+<ஊற>:
+ஊறு < Noun > அ < Infinitive Suffix > 
+<ஊறு+அ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<குளிக்க>:
+குளி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<குளி+க்க்+அ>
+
+<தலையில்>:
+தலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<ஏற்படும்>:
+ஏற்படு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஏற்படு+உம்>
+
+<பொடுகு>:
+பொடுகு < Noun > 
+<சிரங்கு>:
+சிரங்கு < Noun > 
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<சோற்றுக்>:
+சோறு < Noun > ற் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<சோறு+ற்+உ+க்>
+
+<கற்றாழை>:
+கற்றாழை < Noun > 
+<மடலை>:
+மடல் < Noun > ஐ < Accusative Case > 
+<இரண்டாகப்>:
+இரண்டாகப் < charNumbers > 
+<பிளந்து>:
+பிள < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிள+ந்த்+உ>
+
+<உள்ளே>:
+உள்ளே < Adverb > 
+<சிறிதளவு>:
+சிறிதளவு < Noun > 
+<வெந்தயத்தை>:
+வெந்தயம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<மூடி>:
+மூடி < Noun > 
+<விடவும்>:
+விட < Particle > வ் < Sandhi > உம் < Clitic > 
+<.>:
+<unknown>
+
+<இரண்டு>:
+இரண்டு < charNumbers > 
+<நாட்கள்>:
+நாள் < Noun > கள் < Plural Suffix > 
+<கழித்து>:
+கழித்து < Adverb > 
+<ஊறிய>:
+ஊறு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<ஊறு+இ+ய்+அ>
+
+<அந்த>:
+அந்த < Demonstrative Adjective > 
+<வெந்தயத்தை>:
+வெந்தயம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெயில்>:
+எண்ணெய் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<தேய்த்து>:
+தேய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தேய்+த்த்+உ>
+
+<குளிக்க>:
+குளி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<குளி+க்க்+அ>
+
+<நரை>:
+நரை < Verb > 
+<நரை>
+நரை < Noun > 
+<நரை>
+
+<முடியும்>:
+முடி < Noun > ய் < Sandhi > உம் < Clitic > 
+<கறுப்பாகும்>:
+கறுப்பு < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<கறுப்பு+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<வாடிச்>:
+வாடி < Noun > ச் < Sandhi > 
+<சருகான>:
+சருகு < Noun > ஆன < Adjectival Suffix > 
+<கற்றாழை>:
+கற்றாழை < Noun > 
+<மடலை>:
+மடல் < Noun > ஐ < Accusative Case > 
+<தீயில்>:
+தீ < Noun > ய் < Sandhi > இல் < Locative Case > 
+<கருக்கி>:
+கருக்கு < Verb > இ < Past Tense Marker > 
+<கருக்கு+இ>
+
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெயோடு>:
+எண்ணெய் < Noun > ஓடு < Associative Case > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<தீப்>:
+தீ < Adjective > ப் < Sandhi > 
+<தீ+ப்>
+தீ < Noun > ப் < Sandhi > 
+<தீ+ப்>
+
+<புண்களில்>:
+புண் < Noun > கள் < Plural Suffix > இல் < Locative Case > 
+<மீது>:
+மீது < Particle > 
+<பூசி>:
+பூசி < Verb > 
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<விரைவில்>:
+விரைவில் < Adverb > 
+<புண்>:
+புண் < Noun > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<கற்றாழை>:
+கற்றாழை < Noun > 
+<மடலில்>:
+மடல் < Noun > இல் < Locative Case > 
+<சிறு>:
+சிறு < Adjective > 
+<சிறு>
+சிறு < Verb > 
+<சிறு>
+
+<துண்டு>:
+துண்டு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இரண்டாக>:
+இரண்டாக < charNumbers > 
+<பிளந்து>:
+பிள < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிள+ந்த்+உ>
+
+<சோற்றுப்>:
+சோறு < Noun > ற் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<சோறு+ற்+உ+ப்>
+
+<பகுதியை>:
+பகுதி < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<தீயில்>:
+தீ < Noun > ய் < Sandhi > இல் < Locative Case > 
+<வாட்டி>:
+வாட்டு < Verb > இ < Past Tense Marker > 
+<வாட்டு+இ>
+
+<உடல்>:
+உடல் < Noun > 
+<பொறுக்கும்>:
+பொறுக்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<பொறுக்கு+உம்>
+
+<சூட்டில்>:
+சூடு < Noun > இல் < Locative Case > 
+<அடிப்பட்ட>:
+அடி < Noun > ப் < Sandhi > பட்டு < Auxiliary Verb > அ < Relative Participle Suffix > 
+<அடி+ப்+பட்டு+அ>
+
+<இடத்தில்>:
+இடம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<இதை>:
+இது < Pronoun > ஐ < Accusative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<வலி>:
+வலி < Verb > 
+<வலி>
+வலி < Noun > 
+<வலி>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<மட்டுமல்ல>:
+மட்டுமல்ல < Particle > 
+<இரத்தக்>:
+இரத்த < Adjectival Noun > க் < Sandhi > 
+<கட்டும்>:
+கட்டு < Verb > உம் < Clitic > 
+<கட்டு+உம்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<இச்>:
+இ < Pronoun > ச் < Sandhi > 
+<இ+ச்>
+இ < Demonstrative Adjective > ச் < Sandhi > 
+<இ+ச்>
+
+<செடியின்>:
+செடி < Noun > ய் < Sandhi > இன் < Genitive Case > 
+<மடலில்>:
+மடல் < Noun > இல் < Locative Case > 
+<உள்ள>:
+உள்ள < Postposition > 
+<சோற்றை>:
+சோறு < Noun > ஐ < Accusative Case > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<நன்கு>:
+நன்கு < Adverb > 
+<அலசி>:
+அலசு < Verb > இ < Past Tense Marker > 
+<அலசு+இ>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<சாப்பிட்டு>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சாப்பிடு+ட்+உ>
+
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<குடல்>:
+குடல் < Noun > 
+<புண்>:
+புண் < Noun > 
+<மூல>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<நோய்>:
+நோய் < Noun > 
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<மலச்>:
+மலர் < Entity > ச் < Sandhi > 
+<சிக்கல்>:
+சிக்கல் < Noun > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+
+<மஞ்சள்காமாலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<நோய்க்கும்>:
+நோய் < Noun > க்கு < Dative Case > உம் < Clitic > 
+<சோற்றுக்கற்றாழை>:
+சோற்றுக்கற்றாழை < Noun > 
+<மருந்தாக>:
+மருந்து < Noun > ஆக < Adverbial Suffix > 
+<மருந்து+ஆக>
+
+<பயன்படுகிறது>:
+பயன்படு < Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<பயன்படு+கிறு+அது>
+
+<.>:
+<unknown>
+
+<தவிர>:
+தவிர < Postposition > 
+<கூந்தல்>:
+கூந்தல் < Noun > 
+<தைலம்>:
+தைலம் < Noun > 
+<அழகு>:
+அழகு < Noun > 
+<சாதனப்>:
+சாதன < Entity > ப் < Sandhi > 
+<பொருள்களில்>:
+பொருள் < Noun > கள் < Plural Suffix > இல் < Locative Case > 
+<இது>:
+இது < Pronoun > 
+<சேர்க்கப்படுவதால்>:
+சேர் < Verb > க்க் < Sandhi > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > வ் < Sandhi > அதால் < Conditional Suffix > 
+<சேர்+க்க்+அ+ப்+படு+வ்+அதால்>
+
+<பொருளின்>:
+பொருள் < Noun > இன் < Genitive Case > 
+<தரமும்>:
+தரம் < Noun > உம் < Clitic > 
+<வீரியமும்>:
+வீரியம் < Noun > உம் < Clitic > 
+<மட்டுமல்ல>:
+மட்டுமல்ல < Particle > 
+<மருத்துவதன்மையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<அதிகரிக்கிறது>:
+அதிகரி < Verb > க்கிறு < Present Tense Marker > அது < Genitive Case > 
+<அதிகரி+க்கிறு+அது>
+
+<.>:
+<unknown>
+

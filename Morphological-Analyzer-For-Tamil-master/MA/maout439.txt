@@ -1,0 +1,34 @@
+<﻿உடைத்த>:
+
+<கட்டில்>:
+கட்டில் < Noun > 
+<சலம்>:
+சலம் < Noun > 
+<வற்ற>:
+வற்று < Verb > அ < Relative Participle Suffix > 
+<வற்று+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<வேப்பம்பட்டையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<தேங்காய்ப்பூவும்>:
+தேங்காய்ப்பூ < Noun > வ் < Sandhi > உம் < Clitic > 
+<பொன்னிறமாக>:
+பொன்னிறம் < Noun > ஆக < Adverbial Suffix > 
+<பொன்னிறம்+ஆக>
+
+<வறுத்துக்>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<வறு+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

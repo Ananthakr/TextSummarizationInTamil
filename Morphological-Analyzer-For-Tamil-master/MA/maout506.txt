@@ -1,0 +1,100 @@
+<﻿ஒடு>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<புங்கம்>:
+புங்கம் < Entity > 
+<பால்>:
+பால் < Particle > 
+<பால்>
+பால் < Postposition > 
+<பால்>
+பால் < Noun > 
+<பால்>
+
+<தேங்காய்ப்பால்>:
+தேங்காய் < Noun > ப்பு < Verb > ஆல் < Instrumental Case > 
+<தேங்காய்+ப்பு+ஆல்>
+
+<சமன்>:
+சமன் < Noun > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<பிறந்துவரும்>:
+பிற < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<பிற+ந்த்+உ+வா+உம்>
+
+<வேளை>:
+வேளை < Noun > 
+<இருசீரகம்>:
+<unknown>
+
+<ஓமம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<வெண்குந்திருக்கம்>:
+<unknown>
+
+<பொடிசெய்து>:
+பொடி < Verb > செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+செய்+த்+உ>
+
+<போட்டு>:
+போட்டு < Particle > 
+<மெழுகுபதம்>:
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<கடுகை>:
+கடுகு < Noun > ஐ < Accusative Case > 
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<3>:
+3 < Numbers > 
+<ஆம்>:
+ஆம் < DateTime > 
+<நாள்>:
+நாள் < DateTime > 
+<எண்ணெயை>:
+எண்ணெய் < Noun > ஐ < Accusative Case > 
+<பஞ்சில்>:
+பஞ்ச் < Entity > இல் < Locative Case > 
+<தோய்த்து>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தோய்+த்த்+உ>
+
+<புண்ணிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

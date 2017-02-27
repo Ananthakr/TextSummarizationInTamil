@@ -1,0 +1,56 @@
+<﻿லிங்கச்>:
+அ < Infinitive Suffix > ச் < Sandhi > 
+<அ+ச்>
+<unknown>
+
+<சோர்வுக்கு>:
+சோர்வு < Noun > உக்கு < Dative Case > 
+<எட்டிக்>:
+எட்டி < Adverb > க் < Sandhi > 
+<கொட்டை>:
+கொட்டை < Noun > 
+<அமுக்கனாங்கிழங்கு>:
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<சமனெடையாக>:
+சமன் < Noun > எடை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<சமன்+எடை+ய்+ஆக>
+
+<பசு>:
+<unknown>
+
+<வெண்ணெயிலரைத்து>:
+வெண்ணெய் < Noun > இல் < Locative Case > அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வெண்ணெய்+இல்+அரை+த்த்+உ>
+<unknown>
+
+<லிங்க>:
+லிங்கன் < Entity > 
+<நரம்புமீது>:
+நரம்பு < Noun > மீது < Postposition > 
+<7-நாள்>:
+ஆள் < Third Person Femime Singular Suffix > 
+<ஆள்>
+<unknown>
+
+<தேய்த்துவர>:
+தேய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<தேய்+த்த்+உ+வா+அ>
+
+<சோர்வு>:
+சோர்வு < Noun > 
+<நீங்கி>:
+நீங்கு < Verb > இ < Past Tense Marker > 
+<நீங்கு+இ>
+
+<வலிவு>:
+வலிவு < Noun > 
+<தரும்>:
+தா < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தா+உம்>
+
+<.>:
+<unknown>
+

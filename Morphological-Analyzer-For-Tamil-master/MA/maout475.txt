@@ -1,0 +1,140 @@
+<﻿காதுக்குள்ளே>:
+அ < Infinitive Suffix > ஆது < Future Negative Suffix > உக்கு < Dative Case > உள் < Postposition > ள் < Sandhi > ஏ < Clitic > 
+<அ+ஆது+உக்கு+உள்+ள்+ஏ>
+<unknown>
+
+<கட்டி>:
+கட்டி < Noun > 
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<காத்தோட்டி>:
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<குருத்தம்>:
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<காண்டை>:
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<நெல்லிவேர்>:
+
+<வட்டுவேர்>:
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<வெளுத்தற்பிசின்>:
+இன் < Genitive Case > 
+<இன்>
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<முருங்கை>:
+முருங்கை < Noun > 
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<வீதம்>:
+வீதம் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தூள்>:
+தூள் < Noun > 
+<பண்ணி>:
+பண்ணு < Verb > இ < Past Tense Marker > 
+<பண்ணு+இ>
+
+<வேப்பெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<வெற்றிமலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<வெடிபதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<இறக்கவும்>:
+இறக்க < Adjectival Noun > வ் < Sandhi > உம் < Clitic > 
+<இறக்க+வ்+உம்>
+
+<.>:
+<unknown>
+
+<இரண்டொரு>:
+<unknown>
+
+<துளிவீதம்>:
+துளி < Noun > வீதம் < Noun > 
+<துளி+வீதம்>
+
+<காதில்>:
+காது < Noun > இல் < Locative Case > 
+<விட்டுவர>:
+விடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<விடு+ட்+உ+வா+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

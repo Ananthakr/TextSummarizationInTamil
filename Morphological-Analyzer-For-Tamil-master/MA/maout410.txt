@@ -1,0 +1,100 @@
+<﻿கட்டுவியாதிக்கு>:
+
+<துவர்>:
+துவர் < Verb > 
+<துவர்>
+துவர் < Noun > 
+<துவர்>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<இரசம்=5>:
+<Error>
+
+<கி.>:
+<unknown>
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<கடுகு>:
+கடுகு < Noun > 
+<இயங்கம>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<சம>:
+சம < Adjectival Noun > 
+<அளவு>:
+அளவு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<ஒடுவடுக்கிச்>:
+
+<சாறு>:
+சாறு < Noun > 
+<பருத்தியிலைச்>:
+ஐ < Accusative Case > ச் < Sandhi > 
+<ஐ+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<ஒதியம்பட்டைச்சாறு>:
+ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ச்+சா+ற்+உ>
+<unknown>
+
+<சித்திரப்பாலாவிச்சாறு>:
+இ < Past Tense Marker > ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+ச்+சா+ற்+உ>
+<unknown>
+
+<என்பன>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > 
+<என்+ப்+அன>
+
+<விட்டரைத்து>:
+
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<மெழுகுபதம்>:
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<கட்டு>:
+கட்டு < Verb > 
+<புண்ணும்>:
+புண் < Noun > ண் < Sandhi > உம் < Clitic > 
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

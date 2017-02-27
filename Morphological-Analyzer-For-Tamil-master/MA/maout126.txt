@@ -1,0 +1,129 @@
+<﻿நாரத்தை>:
+அத்து < Oblique > ஐ < Accusative Case > 
+<அத்து+ஐ>
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<மர>:
+மர < Verb > 
+<இனத்தைச்>:
+இனம் < Noun > அத்து < Oblique > ஐ < Accusative Case > ச் < Sandhi > 
+<சார்ந்தது>:
+சார் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > 
+<சார்+ந்த்+உ+அது>
+
+<எலுமிச்சை>:
+எலுமிச்சை < Noun > 
+<மரத்தை>:
+மரம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+<ஒத்ததாக>:
+ஒத்து < Noun > அது < Genitive Case > ஆக < Postposition > 
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<கணைக்காய்ச்சல்>:
+கணை < Noun > க் < Sandhi > காய்ச்சல் < Noun > 
+<கணை+க்+காய்ச்சல்>
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இதற்கு>:
+இது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<நாரத்தை>:
+நாரத்தை < Noun > 
+<இலை>:
+இலை < Noun > 
+<நெல்லி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<புளிய>:
+புளி < Verb > ய் < Sandhi > அ < Relative Participle Suffix > 
+<புளி+ய்+அ>
+
+<இலை>:
+இலை < Noun > 
+<இலந்தை>:
+இலந்தை < Noun > 
+<இலை>:
+இலை < Noun > 
+<ஆகியவற்றை>:
+ஆகிய < Particle > அற்று < Oblique > ஐ < Accusative Case > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<தட்டி>:
+தட்டி < Noun > 
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைக்க>:
+வைக்கம் < Entity > 
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<ஆறிய>:
+ஆறு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<ஆறு+இ+ய்+அ>
+
+<பிறகு>:
+பிறகு < Postposition > 
+<பிறகு>
+பிறகு < Adverb > 
+<பிறகு>
+பிறகு < Noun > 
+<பிறகு>
+
+<அதனுடன்>:
+அதன் < Demonstrative Adjective > உடன் < Particle > 
+<அதன்+உடன்>
+அதன் < Demonstrative Adjective > உடன் < Particle > 
+<அதன்+உடன்>
+அது < Pronoun > அன் < Euphonic > உடன் < Associative Case > 
+<அது+அன்+உடன்>
+
+<சிறிது>:
+சிறிது < Adverb > 
+<சிறிது>
+சிறிது < Noun > 
+<சிறிது>
+
+<தேன்>:
+தேன் < Noun > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<உட்கொள்ள>:
+உட்கொள் < Verb > ள் < Sandhi > அ < Infinitive Suffix > 
+<உட்கொள்+ள்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

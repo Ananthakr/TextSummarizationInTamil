@@ -1,0 +1,138 @@
+<﻿அரையாப்புக்>:
+
+<களிம்பு>:
+களிம்பு < Noun > 
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<விராகனிடை>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > ன் < Past Tense Marker > இடு < Auxiliary Verb > ஐ < Accusative Case > 
+<ஆகு+அ+ன்+இடு+ஐ>
+<unknown>
+
+<11/4>:
+<unknown>
+
+<கெவுரிபாஷாணம்>:
+<unknown>
+
+<11/4>:
+<unknown>
+
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<11/4>:
+<unknown>
+
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<11/4>:
+<unknown>
+
+<மிருதார்சிங்கு>:
+<unknown>
+
+<11/4>:
+<unknown>
+
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<11/4>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<பச்சை>:
+பச்சை < Noun > 
+<வெட்டாக>:
+வெட்டு < Noun > ஆக < Adverbial Suffix > 
+<வெட்டு+ஆக>
+
+<நிறுத்தெடுத்துக்>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<நிறு+த்த்+உ+எடு+த்த்+உ+க்>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<ஒருபலம்>:
+ஒரு < Adjectival Noun > பலம் < Noun > 
+<ஒரு+பலம்>
+
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<பின்பு>:
+பின்பு < Particle > 
+<பின்பு>
+பின்பு < Adverb > 
+<பின்பு>
+பின்பு < Noun > 
+<பின்பு>
+
+<ஜலம்விட்டு>:
+ஜலம் < Noun > விட்டு < Postposition > 
+<கழுவியெடுத்து>:
+கழுவு < Verb > இ < Past Tense Marker > ய் < Sandhi > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கழுவு+இ+ய்+எடு+த்த்+உ>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<கடி>:
+கடி < Verb > 
+<கடி>
+கடி < Noun > 
+<கடி>
+
+<விஷங்களுக்கும்>:
+விஷம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<சூலை>:
+சூலை < Noun > 
+<அரையாப்பு>:
+
+<இவைகளுக்கு>:
+இவைகள் < Pronoun > உக்கு < Dative Case > 
+<சீலையிற்றடவி>:
+
+<மேற்போட>:
+மே < Noun > ற் < Past Tense Marker > போடு < Auxiliary Verb > அ < Relative Participle Suffix > 
+<மே+ற்+போடு+அ>
+
+<சகலவிஷமும்>:
+சகல < Adjectival Noun > விஷம் < Noun > உம் < Clitic > 
+<நீங்கும்>:
+நீங்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நீங்கு+உம்>
+
+<இரணம்>:
+இரணம் < Noun > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<கட்டியுடையும்>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ட்+உ+ஐ+ய்+உம்>
+<unknown>
+
+<ஏழுமுறை>:
+ஏழுமுறை < charNumbers > 
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விட்டுக்>:
+விட்டு < Postposition > க் < Sandhi > 
+<கழுவும்>:
+கழு < Noun > வ் < Sandhi > உம் < Clitic > 
+<.>:
+<unknown>
+

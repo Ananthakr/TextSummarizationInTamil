@@ -1,0 +1,110 @@
+<﻿கரப்பானுக்கு>:
+
+<மேல்பூசு>:
+
+<மருந்து>:
+மருந்து < Noun > 
+<ஏலம்>:
+ஏலம் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<1/4>:
+<unknown>
+
+<சீரகம்>:
+சீரகம் < Noun > 
+<1/4>:
+<unknown>
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<மூன்றையும்>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ற்+உ+ஐ+ய்+உம்>
+<unknown>
+
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+<காற்படி>:
+காறு < Verb > படி < Postposition > 
+<காறு+படி>
+
+<நல்லெண்ணையில்>:
+ய் < Sandhi > இல் < Locative Case > 
+<ய்+இல்>
+<unknown>
+
+<போட்டு>:
+போட்டு < Particle > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<சூரியபுடம்>:
+<unknown>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<மறு>:
+மறு < Adjective > 
+<மறு>
+மறு < Verb > 
+<மறு>
+மறு < Noun > 
+<மறு>
+
+<நாள்>:
+நாள் < DateTime > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<கரப்பான்>:
+கரப்பான் < Noun > 
+<மீது>:
+மீது < Particle > 
+<பூசிக்>:
+பூசி < Verb > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<ஆனால்>:
+ஆனால் < Conjunction > 
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<பூசிக்>:
+பூசி < Verb > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

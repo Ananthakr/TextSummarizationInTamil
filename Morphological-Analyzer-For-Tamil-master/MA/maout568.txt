@@ -1,0 +1,129 @@
+<﻿புழுவெட்டுத்>:
+
+<தைலம்>:
+தைலம் < Noun > 
+<சரக்கு:->:
+<Error>
+
+<அரசம்வேர்ப்பட்டை>:
+
+<அத்திவேர்பட்டை>:
+அத்தி < Noun > வேர் < Verb > பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<அத்தி+வேர்+பட்டு+ஐ>
+
+<எட்டிவேர்ப்பட்டை>:
+
+<செய்பாகம்:->:
+<Error>
+
+<மேற்கூறிய>:
+மேற்கூறிய < Adjective > 
+<பட்டைகளை>:
+பட்டை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<கொண்டுவந்து>:
+கொண்டுவா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொண்டுவா+ந்த்+உ>
+
+<நிழலிலேயே>:
+நிழல் < Noun > இல் < Locative Case > ஏ < Clitic > ய் < Sandhi > ஏ < Clitic > 
+<4-5>:
+<unknown>
+
+<நாள்>:
+நாள் < DateTime > 
+<உலர்த்திச்>:
+உலர்த்து < Verb > இ < Past Tense Marker > ச் < Sandhi > 
+<உலர்த்து+இ+ச்>
+
+<சிறுதுண்டுகளாக>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > 
+<ஆகு+அ>
+<unknown>
+
+<நறுக்கி>:
+நறுக்கு < Verb > இ < Past Tense Marker > 
+<நறுக்கு+இ>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<ஒருவீசை>:
+ஒரு < Adjectival Noun > வீசை < Noun > 
+<ஒரு+வீசை>
+
+<வீதம்>:
+வீதம் < Noun > 
+<ஒருபழகின>:
+
+<மட்குவயில்>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > இல் < Locative Case > 
+<அ+ய்+இல்>
+<unknown>
+
+<போட்டு>:
+போட்டு < Particle > 
+<முறைப்படி>:
+முறைப்பு < Noun > அடி < Clitic > 
+<குழித்தைலம்>:
+குழி < Noun > த் < Sandhi > தைலம் < Noun > 
+<குழி+த்+தைலம்>
+
+<வாங்கவும்.இதை>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<இ+த்+உ+ஐ>
+<unknown>
+
+<ஆறாத>:
+ஆறு < Noun > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > 
+<ஆறு+அ+ஆது+அ>
+
+<விரணங்களுக்குத்>:
+கள் < Plural Suffix > உக்கு < Dative Case > த் < Sandhi > 
+<கள்+உக்கு+த்>
+<unknown>
+
+<தடவ>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > வ் < Sandhi > அ < Relative Participle Suffix > 
+<அ+ட்+உ+அ+வ்+அ>
+<unknown>
+
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<புழுவெட்டால்>:
+புழுவெட்டு < Noun > ஆல் < Instrumental Case > 
+<முடி>:
+முடி < Verb > 
+<முடி>
+முடி < Noun > 
+<முடி>
+
+<உதிருமிடத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<தடவ>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > வ் < Sandhi > அ < Relative Participle Suffix > 
+<அ+ட்+உ+அ+வ்+அ>
+<unknown>
+
+<முடி>:
+முடி < Verb > 
+<முடி>
+முடி < Noun > 
+<முடி>
+
+<உதிராமல்>:
+உதிர் < Verb > அ < Infinitive Suffix > ஆமல் < Negative Conditional Suffix Suffix > 
+<உதிர்+அ+ஆமல்>
+
+<செழிப்பாக>:
+செழிப்பு < Noun > ஆக < Adverbial Suffix > 
+<செழிப்பு+ஆக>
+
+<வளரும்>:
+வளர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+உம்>
+
+<.>:
+<unknown>
+

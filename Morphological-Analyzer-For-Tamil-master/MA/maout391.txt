@@ -1,0 +1,75 @@
+<﻿நாக்குப்பிளவையும்>:
+அ < Infinitive Suffix > வ் < Sandhi > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<அ+வ்+ஐ+ய்+உம்>
+<unknown>
+
+<மருந்தும்>:
+மருந்து < Noun > உம் < Clitic > 
+<முத்தற்காசு>:
+<unknown>
+
+<நன்னாரி>:
+நன்னாரி < Noun > 
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<சந்தனம்>:
+சந்தனம் < Noun > 
+<ஆவாரைவேர்>:
+
+<பூலாவேர்>:
+
+<கற்பூரவள்ளி>:
+
+<மதுரம்>:
+மதுரம் < Noun > 
+<சித்திரத்தை>:
+சித்திரம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+<கைப்பு>:
+கைப்பு < Verb > 
+<கைப்பு>
+கைப்பு < Noun > 
+<கைப்பு>
+
+<நெல்லி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<சவ்வியம்>:
+<unknown>
+
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<நீர்விட்டரைத்து>:
+
+<நல்லெண்ணெயிற்கரைத்து>:
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<உள்ளுக்குக்>:
+உள்ளுக்கு < Adverb > க் < Sandhi > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<நாக்கிலும்>:
+நாக்கு < Noun > இல் < Locative Case > உம் < Clitic > 
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

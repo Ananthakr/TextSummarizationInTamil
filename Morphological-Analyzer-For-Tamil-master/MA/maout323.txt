@@ -1,0 +1,174 @@
+<﻿சர்வ>:
+வ் < Future Tense Marker > அ < Relative Participle Suffix > 
+<வ்+அ>
+<unknown>
+
+<ரணங்களுக்கு>:
+ரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<வேறுமுறை>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<ற்+உ+ஐ>
+<unknown>
+
+<முலாம்>:
+முலாம் < Noun > 
+<மாசிக்காய்>:
+மாசிக்காய் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<1/2>:
+<unknown>
+
+<பால்துத்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<லிங்கம்>:
+லிங்கம் < Entity > 
+<1/2>:
+<unknown>
+
+<கெந்தி>:
+கெந்து < Verb > இ < Past Tense Marker > 
+<கெந்து+இ>
+
+<1/2>:
+<unknown>
+
+<சிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1/2>:
+<unknown>
+
+<பூரம்>:
+பூரம் < Noun > 
+<1/2>:
+<unknown>
+
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<1/2>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<பசுவின்>:
+வ் < Sandhi > இன் < Genitive Case > 
+<வ்+இன்>
+<unknown>
+
+<வெண்ணை>:
+ண் < Sandhi > ஐ < Accusative Case > 
+<ண்+ஐ>
+<unknown>
+
+<விட்டு>:
+விட்டு < Postposition > 
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<வரைக்கும்>:
+வரைக்கும் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<பனிநீர்>:
+ஈர் < Second Person Singular Suffix > 
+<ஈர்>
+<unknown>
+
+<விட்டு>:
+விட்டு < Postposition > 
+<ஆட்டிக்கழுவி>:
+
+<குற்றம்>:
+குற்றம் < Noun > 
+<போக்கி>:
+போக்கு < Verb > இ < Past Tense Marker > 
+<போக்கு+இ>
+
+<முலாந்>:
+<unknown>
+
+<திரண்டுவரும்>:
+திரள் < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<திரள்+ட்+உ+வா+உம்>
+
+<போது>:
+போது < Particle > 
+<போது>
+போது < Postposition > 
+<போது>
+போது < Verb > 
+<போது>
+போது < Noun > 
+<போது>
+
+<முலானை>:
+முலா < Adjectival Noun > ன் < Past Tense Marker > ஐ < Accusative Case > 
+<முலா+ன்+ஐ>
+
+<வழித்து>:
+வழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வழி+த்த்+உ>
+
+<டப்பியில்>:
+டப்பி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அடக்கஞ்செய்து>:
+செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+<unknown>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<சகல>:
+சகல < Adjectival Noun > 
+<ரணங்களுக்கும்>:
+ரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<முலானைப்>:
+முலா < Adjectival Noun > ன் < Past Tense Marker > ஐ < Accusative Case > ப் < Sandhi > 
+<முலா+ன்+ஐ+ப்>
+
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

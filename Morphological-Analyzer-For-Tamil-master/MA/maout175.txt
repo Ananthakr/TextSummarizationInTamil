@@ -1,0 +1,123 @@
+<﻿சூரத்து>:
+
+<ஆவாரை>:
+ஆ < Verb > வ் < Future Tense Marker > ஆர் < Pronominal Third Person Singular > ஐ < Accusative Case > 
+<ஆ+வ்+ஆர்+ஐ>
+
+<தரையோடு>:
+தரை < Noun > ய் < Sandhi > ஓடு < Associative Case > 
+<படரும்>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அ+ட்+அர்+உம்>
+<unknown>
+
+<கொடி>:
+கொடி < Noun > 
+<வகையைச்>:
+வகை < Noun > ய் < Sandhi > ஐ < Accusative Case > ச் < Sandhi > 
+<சர்ர்ந்தது>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > 
+<ந்த்+உ+அது>
+<unknown>
+
+<.>:
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<ஆவாரைப்>:
+ஆ < Verb > வ் < Future Tense Marker > ஆர் < Pronominal Third Person Singular > ஐ < Accusative Case > ப் < Sandhi > 
+<ஆ+வ்+ஆர்+ஐ+ப்>
+
+<போலவே>:
+போல < Particle > வ் < Sandhi > ஏ < Clitic > 
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<தேக>:
+தேக < Adjectival Noun > 
+<அரிப்பு>:
+அரிப்பு < Noun > 
+<நீங்க>:
+நீங்கு < Verb > அ < Infinitive Suffix > 
+<நீங்கு+அ>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலையுடன்>:
+இலை < Noun > ய் < Sandhi > உடன் < Associative Case > 
+<நீரடி>:
+நீர் < Noun > அடி < Clitic > 
+<முத்துப்பருப்பு>:
+
+<இலை>:
+இலை < Noun > 
+<ஆகியவற்றைச்>:
+ஆகிய < Particle > அற்று < Oblique > ஐ < Accusative Case > ச் < Sandhi > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<உப்புடன்>:
+உப்பு < Noun > உடன் < Associative Case > 
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<உடல்>:
+உடல் < Noun > 
+<முழுவதும்>:
+முழுவதும் < Noun > 
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<அரை>:
+அரை < Verb > 
+<மணி>:
+மணி < Entity > 
+<நேரம்>:
+நேரம் < Noun > 
+<கழித்து>:
+கழித்து < Adverb > 
+<குளிக்க>:
+குளி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<குளி+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<இவ்வாறு>:
+இவ்வாறு < Adverb > 
+<3>:
+3 < Numbers > 
+<நாட்கள்>:
+நாள் < Noun > கள் < Plural Suffix > 
+<செய்ய>:
+செய் < Verb > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > 
+<செய்+ய்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

@@ -1,0 +1,69 @@
+<﻿சகல>:
+
+<புண்ணுக்கும்>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > உம் < Clitic > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<கைப்பு>:
+கைப்பு < Verb > 
+<கைப்பு>
+கைப்பு < Noun > 
+<கைப்பு>
+
+<களிப்பாக்கு>:
+களிப்பாக்கு < Noun > 
+<வேம்பாடல்>:
+
+<காஞ்சுரைவேர்>:
+
+<60கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<அவித்து>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அவி+த்த்+உ>
+
+<குடினீரிட்டு>:
+
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<சேர்த்துக்>:
+சேர்த்து < Adverb > க் < Sandhi > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<புண்ணிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

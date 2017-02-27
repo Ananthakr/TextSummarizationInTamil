@@ -1,0 +1,127 @@
+<﻿வில்வ>:
+
+<மரம்(Aegle>:
+<Error>
+
+<Marmelos>:
+<Error>
+
+<இது>:
+இது < Pronoun > 
+<‘சிவத்துருமம்’>:
+<unknown>
+
+<‘கூவிளம்;>:
+<Error>
+
+<என்றும்>:
+என்றும் < Adverb > 
+<அழைக்கப்படுகிறது>:
+அழை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<அழை+க்க்+அ+ப்+படு+கிறு+அது>
+
+<.>:
+<unknown>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<3>:
+3 < Numbers > 
+<நாட்கள்>:
+நாள் < Noun > கள் < Plural Suffix > 
+<சாப்பிட்டால்>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<சாப்பிடு+ட்+உ+ஆல்>
+
+<பசி>:
+பசி < Verb > 
+<பசி>
+பசி < Noun > 
+<பசி>
+
+<மந்தம்>:
+மந்தம் < Noun > 
+<மாறி>:
+மாறு < Verb > இ < Past Tense Marker > 
+<மாறு+இ>
+
+<நல்ல>:
+நல்ல < Adjective > 
+<பசி>:
+பசி < Verb > 
+<பசி>
+பசி < Noun > 
+<பசி>
+
+<ஏற்படும்>:
+ஏற்படு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஏற்படு+உம்>
+
+<.>:
+<unknown>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<வடிகட்டி>:
+வடிகட்டி < Noun > 
+<பாதியாக>:
+பாதி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<பாதி+ய்+ஆக>
+
+<காலையிலும்>:
+காலையிலும் < DateTime > 
+<மாலையிலும்>:
+மாலை < Noun > ய் < Sandhi > இல் < Locative Case > உம் < Clitic > 
+<21>:
+21 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<சாப்பிட்டு>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சாப்பிடு+ட்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<பித்தக்>:
+பித்த < Adjectival Noun > க் < Sandhi > 
+<கோளாறுகளும்>:
+கோள் < Noun > ஆ < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > கள் < Plural Suffix > உம் < Clitic > 
+<கோள்+ஆ+ற்+உ+கள்+உம்>
+
+<பூரணமாகக்>:
+பூரணம் < Noun > ஆக < Adverbial Suffix > க் < Sandhi > 
+<பூரணம்+ஆக+க்>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

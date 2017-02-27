@@ -1,0 +1,46 @@
+<﻿வேறு>:
+
+<நற்சுரயிலையை>:
+ய் < Sandhi > ஐ < Accusative Case > 
+<ய்+ஐ>
+<unknown>
+
+<வாட்டி>:
+வாட்டு < Verb > இ < Past Tense Marker > 
+<வாட்டு+இ>
+
+<பிழிந்து>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிழி+ந்த்+உ>
+
+<1-கசளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<வெங்காரமும்>:
+வெங்காரம் < Noun > உம் < Clitic > 
+<பொரித்து>:
+பொரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொரி+த்த்+உ>
+
+<சர்க்கரையுங்>:
+<unknown>
+
+<கூட்டிக்>:
+கூட்டு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<கூட்டு+இ+க்>
+
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<கல்>:
+கல் < Noun > 
+<விழும்>:
+விழு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<விழு+உம்>
+
+<.>:
+<unknown>
+

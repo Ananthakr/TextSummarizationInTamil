@@ -1,0 +1,42 @@
+<﻿கொடுக்கன்>:
+கொடு < Auxiliary Verb > க்க < Infinitive Suffix > ன் < Past Tense Marker > 
+<கொடு+க்க+ன்>
+<unknown>
+
+<குத்தினால்>:
+குத்து < Noun > இன் < Euphonic > ஆல் < Instrumental Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<காஞ்சுரம்>:
+<unknown>
+
+<பட்டை>:
+பட்டை < Noun > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<சமன்>:
+சமன் < Noun > 
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<அரைத்துக்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<அரை+த்த்+உ+க்>
+
+<கடிவாயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

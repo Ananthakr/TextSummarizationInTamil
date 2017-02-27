@@ -1,0 +1,38 @@
+<﻿கலங்கின>:
+
+<கண்ணுக்கு>:
+கண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<ஊமத்தயிலையைக்>:
+ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<ய்+ஐ+க்>
+<unknown>
+
+<கசக்கி>:
+கசக்கு < Verb > இ < Past Tense Marker > 
+<கசக்கு+இ>
+
+<3-துளி>:
+
+<கண்ணில்விட்டு>:
+கண் < Noun > ண் < Sandhi > இல் < Locative Case > விட்டு < Postposition > 
+<நின்ற>:
+நில் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<நில்+ற்+உ+அ>
+
+<திப்பிலியும்>:
+திப்பிலி < Noun > ய் < Sandhi > உம் < Clitic > 
+<3-மிளகு>:
+
+<வத்தரைத்து>:
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,171 @@
+<﻿குட்டி>:
+
+<விளா(B.N:FERONIA>:
+<Error>
+
+<ELEPHANTUM>:
+<Error>
+
+<விளா>:
+ஆ < Clitic > 
+<ஆ>
+<unknown>
+
+<மரத்தின்>:
+மரம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<இளஞ்ச்செடியே>:
+எடு < Auxiliary Verb > இ < Past Tense Marker > ய் < Sandhi > ஏ < Clitic > 
+<எடு+இ+ய்+ஏ>
+<unknown>
+
+<குட்டி>:
+குட்டி < Adjective > 
+<குட்டி>
+குட்டி < Noun > 
+<குட்டி>
+
+<விளா>:
+ஆ < Clitic > 
+<ஆ>
+<unknown>
+
+<எனப்படும்.இது>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+த்+உ>
+<unknown>
+
+<தரையோடு>:
+தரை < Noun > ய் < Sandhi > ஓடு < Associative Case > 
+<படர்ந்து>:
+
+<நடுவில்>:
+நடுவில் < Postposition > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<நீண்ட>:
+நீண்ட < Adjective > 
+<கிளை>:
+கிளை < Verb > 
+<கிளை>
+கிளை < Noun > 
+<கிளை>
+
+<விட்டிருக்கும்.இதன்>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > ன் < Past Tense Marker > 
+<இ+த்+உ+அ+ன்>
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<விளா>:
+ஆ < Clitic > 
+<ஆ>
+<unknown>
+
+<இலையைப்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > ப் < Sandhi > 
+<போலவே>:
+போல < Particle > வ் < Sandhi > ஏ < Clitic > 
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<குழந்தைகளுக்கு>:
+குழந்தை < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<நோய்>:
+நோய் < Noun > 
+<வராமலிருக்க>:
+இரு < Auxiliary Verb > க்க < Infinitive Suffix > 
+<இரு+க்க>
+<unknown>
+
+<குட்டி>:
+குட்டி < Adjective > 
+<குட்டி>
+குட்டி < Noun > 
+<குட்டி>
+
+<விளா>:
+ஆ < Clitic > 
+<ஆ>
+<unknown>
+
+<இலையைக்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<தினசரி>:
+தினசரி < Adjective > 
+<தினசரி>
+தினசரி < Noun > 
+<தினசரி>
+
+<குழந்தையைக்>:
+குழந்தை < Noun > ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<கு|ளிப்பாட்டும்>:
+<Error>
+
+<பொழுது>:
+பொழுது < Particle > 
+<பொழுது>
+பொழுது < Postposition > 
+<பொழுது>
+பொழுது < Noun > 
+<பொழுது>
+
+<இதை>:
+இது < Pronoun > ஐ < Accusative Case > 
+<தேய்த்து>:
+தேய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தேய்+த்த்+உ>
+
+<குளிப்>:
+குளி < Verb > ப் < Sandhi > 
+<குளி+ப்>
+குளி < Noun > ப் < Sandhi > 
+<குளி+ப்>
+
+<பாட்டி>:
+பாட்டி < Noun > 
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<குழந்தைக்கு>:
+குழந்தை < Noun > க்கு < Dative Case > 
+<எந்த>:
+எந்த < Interrogative Adjective > 
+<விதமான>:
+விதம் < Noun > ஆன < Adjectival Suffix > 
+<நோயும்>:
+நோய் < Noun > உம் < Clitic > 
+<வராது>:
+வா < Verb > அ < Infinitive Suffix > ஆது < Future Negative Suffix > 
+<வா+அ+ஆது>
+
+<.>:
+<unknown>
+

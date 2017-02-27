@@ -1,0 +1,61 @@
+<﻿வேறுமுறை>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<ற்+உ+ஐ>
+<unknown>
+
+<மேகத்திற்கு>:
+மேகம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<பரங்கிப்பட்டை>:
+இ < Past Tense Marker > ப் < Sandhi > பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<இ+ப்+பட்டு+ஐ>
+<unknown>
+
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+<வஸ்திரகாயஞ்செய்துவைதுவைத்துக்>:
+செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > வை < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > வைத்து < Postposition > க் < Sandhi > 
+<செய்+த்+உ+வை+த்+உ+வைத்து+க்>
+<unknown>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வேளையொன்றுக்கு>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > உக்கு < Dative Case > 
+<ற்+உ+உக்கு>
+<unknown>
+
+<இரண்டு>:
+இரண்டு < charNumbers > 
+<காசியிடை>:
+காசு < Noun > இ < Past Tense Marker > ய் < Sandhi > இடு < Auxiliary Verb > ஐ < Accusative Case > 
+<காசு+இ+ய்+இடு+ஐ>
+
+<ஆழாக்குப்>:
+ஆழாக்கு < Noun > ப் < Sandhi > 
+<பசும்பாலில்>:
+பசும்பால் < Noun > இல் < Locative Case > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<காய்ச்சிக்>:
+காய்ச்சு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<காய்ச்சு+இ+க்>
+
+<குடிக்க>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<குடி+க்க்+அ>
+
+<மேகம்>:
+மேகம் < Noun > 
+<21-ம்>:
+21-ம் < charNumbers > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

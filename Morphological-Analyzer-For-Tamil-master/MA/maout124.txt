@@ -1,0 +1,139 @@
+<﻿எரிணத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<கறுத்த>:
+கறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<கறு+த்த்+உ+அ>
+
+<குளிர்ந்த>:
+குளிர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<குளிர்+ந்த்+உ+அ>
+
+<நீர்>:
+நீர் < Pronoun > 
+<நீர்>
+நீர் < Verb > 
+<நீர்>
+நீர் < Noun > 
+<நீர்>
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<சுட்டகரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<சுட்டகரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1/2>:
+<unknown>
+
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<1/2>:
+<unknown>
+
+<கெந்தகம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<நீலம்>:
+நீலம் < Noun > 
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஐந்து>:
+ஐந்து < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<கள்வார்ந்து>:
+
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<குப்பியிலடைத்து>:
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<எரிச்சலுடைய>:
+எரிச்சல் < Noun > உடைய < Genitive Case > 
+<எவ்வித>:
+எவ்வு < Verb > இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<எவ்வு+இ+த்+உ+அ>
+
+<இரணங்களுக்கும்>:
+இரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<நீரை>:
+நீர் < Noun > ஐ < Accusative Case > 
+<சீலையில்>:
+சீலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<நனைத்து>:
+நனை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நனை+த்த்+உ>
+
+<மேலே>:
+மேலே < Adverb > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<குளிர்ச்சியாக>:
+குளிர்ச்சி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<குளிர்ச்சி+ய்+ஆக>
+
+<விருக்கும்>:
+உக்கு < Dative Case > உம் < Clitic > 
+<உக்கு+உம்>
+<unknown>
+
+<சகல>:
+சகல < Adjectival Noun > 
+<இரணங்களும்>:
+இரணம் < Noun > கள் < Plural Suffix > உம் < Clitic > 
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

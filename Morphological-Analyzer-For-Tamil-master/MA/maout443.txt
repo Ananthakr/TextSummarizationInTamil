@@ -1,0 +1,91 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<வியாதிக்குச்>:
+வியாதி < Noun > க்கு < Dative Case > ச் < Sandhi > 
+<சந்தப்பாணம்>:
+<unknown>
+
+<ஓடுநீங்கிய>:
+ஓடு < Noun > நீங்கு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<ஓடு+நீங்கு+இ+ய்+அ>
+
+<ஆமணக்கம்விதை>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<இ+த்+உ+ஐ>
+<unknown>
+
+<புங்கங்கொட்டை>:
+கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<கொடு+ட்+உ+ஐ>
+<unknown>
+
+<முருக்கங்கொட்டை>:
+கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<கொடு+ட்+உ+ஐ>
+<unknown>
+
+<வேப்பங்கொட்டை>:
+கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<கொடு+ட்+உ+ஐ>
+<unknown>
+
+<பழந்தேங்காய்ப்பூ>:
+<unknown>
+
+<நெற்பொரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<இளவறுப்பாய்>:
+அ < Infinitive Suffix > ற் < Past Tense Marker > உ < Verbal Participle Suffix > ப்ப் < Future Tense Marker > ஆய் < Second Person Singular Suffix > 
+<அ+ற்+உ+ப்ப்+ஆய்>
+<unknown>
+
+<வறுத்து>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வறு+த்த்+உ>
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விடாமல்>:
+விடு < Verb > அ < Infinitive Suffix > ஆமல் < Negative Conditional Suffix Suffix > 
+<விடு+அ+ஆமல்>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<இளகி>:
+இளகு < Verb > இ < Past Tense Marker > 
+<இளகு+இ>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<கசியுமட்டும்>:
+மட்டும் < Clitic > 
+<மட்டும்>
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கட்டுமேலே>:
+கட்டு < Verb > மேல் < Postposition > ஏ < Clitic > 
+<கட்டு+மேல்+ஏ>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

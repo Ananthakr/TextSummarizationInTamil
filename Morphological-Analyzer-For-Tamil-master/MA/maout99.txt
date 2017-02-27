@@ -1,0 +1,142 @@
+<﻿புகையிலை(B.N:NICOTIANA>:
+<Error>
+
+<TABACCUM>:
+<Error>
+
+<பிரம்ம>:
+பிரம்ம < Entity > 
+<பத்திரம்>:
+<unknown>
+
+<எனப்படும்>:
+என் < Pronoun > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<என்+அ+ப்+படு+உம்>
+
+<புகையிலை>:
+புகையிலை < Noun > 
+<பற்றி>:
+பற்றி < Postposition > 
+<எல்லோருக்கும்>:
+எல்லோர் < Noun > உக்கு < Dative Case > உம் < Clitic > 
+<தெரியும்>:
+தெரி < Verb > ய் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<தெரி+ய்+உம்>
+
+<.>:
+<unknown>
+
+<வேனல்>:
+வே < Verb > ன் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<வே+ன்+அல்>
+
+<கட்டிய>:
+கட்டு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<கட்டு+இ+ய்+அ>
+
+<உடைய>:
+உடைய < Adjective > 
+<உடைய>
+உடைய < Postposition > 
+<உடைய>
+
+<சில>:
+சில < Adjective > 
+<வகை>:
+வகை < Noun > 
+<வேனல்>:
+வே < Verb > ன் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<வே+ன்+அல்>
+
+<கட்டிகள்>:
+கட்டி < Noun > கள் < Plural Suffix > 
+<என்னமருந்து>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ந்த்+உ>
+<unknown>
+
+<போட்டாலும்>:
+போட்டு < Particle > ஆல் < Instrumental Case > உம் < Clitic > 
+<உடையாது.இப்படிப்பட்ட>:
+
+<கட்டிகளைக்>:
+கட்டி < Noun > கள் < Plural Suffix > ஐ < Accusative Case > க் < Sandhi > 
+<உடைக்க>:
+உடை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<உடை+க்க்+அ>
+
+<உடைக்க>:
+உடை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<உடை+க்க்+அ>
+
+<நன்கு>:
+நன்கு < Adverb > 
+<பயன்படுகிறது.புகையிலையில்>:
+ய் < Sandhi > இல் < Locative Case > 
+<ய்+இல்>
+<unknown>
+
+<இலேசாக>:
+இலேசு < Noun > ஆக < Adverbial Suffix > 
+<இலேசு+ஆக>
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<தடவி>:
+தடவு < Verb > இ < Past Tense Marker > 
+<தடவு+இ>
+
+<சிற்றாமணக்கெண்ணெயைத்>:
+ய் < Verbal Participle Suffix > ஐ < Accusative Case > த் < Sandhi > 
+<ய்+ஐ+த்>
+<unknown>
+
+<த்டவி>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > இ < Past Tense Marker > 
+<அ+வ்+இ>
+<unknown>
+
+<தணலில்>:
+தணல் < Noun > இல் < Locative Case > 
+<வாட்டிக்>:
+வாட்டு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<வாட்டு+இ+க்>
+
+<கட்டியின்>:
+கட்டி < Noun > ய் < Sandhi > இன் < Genitive Case > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<போட்டு>:
+போட்டு < Particle > 
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<கட்டி>:
+கட்டி < Noun > 
+<பழுத்து>:
+பழு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பழு+த்த்+உ>
+
+<உடைந்து>:
+உடை < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<உடை+ந்த்+உ>
+
+<இரத்தம்,சீழ்>:
+<unknown>
+
+<வெளியேறி>:
+வெளியேறு < Verb > இ < Past Tense Marker > 
+<வெளியேறு+இ>
+
+<விடும்>:
+விடு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<விடு+உம்>
+
+<.>:
+<unknown>
+

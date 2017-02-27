@@ -1,0 +1,70 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<வியாதியில்>:
+வியாதி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<காய்ச்சல்>:
+காய்ச்சல் < Noun > 
+<திமிர்வாதம்>:
+திமிர் < Noun > வாதம் < Noun > 
+<திமிர்+வாதம்>
+
+<கழுத்து>:
+கழுத்து < Noun > 
+<தலை>:
+தலை < Noun > 
+<விறைப்பு>:
+விறைப்பு < Noun > 
+<ஏற்பட்டால்>:
+ஏற்பட்டு < Verb > ஆல் < Instrumental Case > 
+<ஏற்பட்டு+ஆல்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<கந்தகம்>:
+கந்தகம் < Noun > 
+<துத்தம்>:
+<unknown>
+
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<எருக்கம்பால்>:
+ஆல் < Instrumental Case > 
+<ஆல்>
+<unknown>
+
+<விட்டரைத்து>:
+
+<தூளாக>:
+தூள் < Noun > ஆக < Adverbial Suffix > 
+<தூள்+ஆக>
+
+<உலர்த்தி>:
+உலர்த்து < Verb > இ < Past Tense Marker > 
+<உலர்த்து+இ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<நாசியில்>:
+நாசி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<ஊதவும்>:
+ஊது < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<ஊது+அ+வ்+உம்>
+

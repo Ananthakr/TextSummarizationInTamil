@@ -1,0 +1,73 @@
+<﻿திருவடிப்>:
+த் < Past Tense Marker > உ < Verbal Participle Suffix > இரு < Auxiliary Verb > வ் < Sandhi > அடி < Clitic > ப் < Sandhi > 
+<த்+உ+இரு+வ்+அடி+ப்>
+<unknown>
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<வெள்ளைக்குந்திருக்கம்>:
+<unknown>
+
+<பொடி>:
+பொடி < Verb > 
+<பொடி>
+பொடி < Noun > 
+<பொடி>
+
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<சேர்த்தரைத்து>:
+
+<துணியிற்பூசி>:
+
+<புண்ணில்>:
+புண் < Noun > ண் < Sandhi > இல் < Locative Case > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<ஒடுவடக்கி>:
+
+<இலை>:
+இலை < Noun > 
+<மஞ்சவண்ணா>:
+ண் < Sandhi > ஆ < Clitic > 
+<ண்+ஆ>
+<unknown>
+
+<இலை,சமன்>:
+அ < Infinitive Suffix > ன் < Past Tense Marker > 
+<அ+ன்>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<பொன்னிறமாக>:
+பொன்னிறம் < Noun > ஆக < Adverbial Suffix > 
+<பொன்னிறம்+ஆக>
+
+<வறுத்துக்>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<வறு+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

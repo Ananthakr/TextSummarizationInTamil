@@ -1,0 +1,78 @@
+<﻿புண்கள்>:
+
+<புரைகள்>:
+
+<மாறத்>:
+மாறு < Noun > அ < Infinitive Suffix > த் < Sandhi > 
+<மாறு+அ+த்>
+
+<தைலம்>:
+தைலம் < Noun > 
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<விரானிகடை>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ட்+உ+ஐ>
+<unknown>
+
+<1/2>:
+<unknown>
+
+<சாம்பிராணி>:
+சாம்பிராணி < Noun > 
+<1/2>:
+<unknown>
+
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<1/2>:
+<unknown>
+
+<கெந்தகம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<மயில்துத்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<பால்துத்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<நீலம்>:
+நீலம் < Noun > 
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஏழுதினுசுகளையும்>:
+ஏழுதினுசுகளையும் < charNumbers > 
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<ஒருமண்>:
+ஒரு < Adjectival Noun > மண் < Noun > 
+<ஒரு+மண்>
+
+<பாண்டத்தில்>:
+பாண்டம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<.>:
+<unknown>
+

@@ -1,0 +1,39 @@
+<﻿பற்பூச்சிக்கு>:
+இ < Past Tense Marker > க்கு < Dative Case > 
+<இ+க்கு>
+<unknown>
+
+<மருந்து>:
+மருந்து < Noun > 
+<சித்தரத்தை>:
+சித்தரத்தை < Noun > 
+<கற்ப்பூரம்>:
+<unknown>
+
+<மிளகு>:
+மிளகு < Noun > 
+<பொரிகாரம்>:
+பொரி < Noun > காரம் < Noun > 
+<பொரி+காரம்>
+
+<வெற்றிலைச்சாறு>:
+வெற்றிலை < Noun > ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வெற்றிலை+ச்+சா+ற்+உ>
+
+<விட்டரைத்து>:
+
+<குளிகை>:
+குளிகை < Noun > 
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<கொடுப்பில்>:
+
+<அடக்கவும்>:
+அட < Particle > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அட+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

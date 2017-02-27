@@ -1,0 +1,70 @@
+<﻿மேகத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<பச்சிலை>:
+பச்சிலை < Noun > 
+<வன்னியிலையை>:
+ய் < Sandhi > ஐ < Accusative Case > 
+<ய்+ஐ>
+<unknown>
+
+<யறுத்து>:
+
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<எருமை>:
+எருமை < Noun > 
+<தயிரில்>:
+தயிர் < Noun > இல் < Locative Case > 
+<புன்னக்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<பிரமானம்>:
+<unknown>
+
+<காலையில்>:
+காலையில் < DateTime > 
+<3-நாள்>:
+ஆள் < Third Person Femime Singular Suffix > 
+<ஆள்>
+<unknown>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<மேகத்தினாலுண்டாகிய>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஆகு < Auxiliary Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<ட்+உ+ஆகு+இ+ய்+அ>
+<unknown>
+
+<வியாதிகள்>:
+வியாதி < Noun > கள் < Plural Suffix > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<கடும்பத்தியம்>:
+<unknown>
+
+<.>:
+<unknown>
+

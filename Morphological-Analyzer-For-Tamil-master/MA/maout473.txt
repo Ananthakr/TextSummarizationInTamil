@@ -1,0 +1,38 @@
+<﻿தீராத>:
+தீர் < Auxiliary Verb > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > 
+<தீர்+அ+ஆது+அ>
+<unknown>
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<பூவரசம்>:
+<unknown>
+
+<சருகு>:
+சருகு < Noun > 
+<சுட்டு>:
+சுட்டு < Verb > 
+<சுட்டு>
+சுட்டு < Noun > 
+<சுட்டு>
+
+<தேனும்>:
+தேன் < Noun > உம் < Clitic > 
+<நல்லெண்ணெயும்>:
+நல்லெண்ணெய் < Noun > உம் < Clitic > 
+<விட்டு>:
+விட்டு < Postposition > 
+<கல்வத்திலிட்டரைத்து>:
+
+<குளம்பாக்கிப்>:
+குளம்பு < Noun > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > ப் < Sandhi > 
+<குளம்பு+ஆக்கு+இ+ப்>
+
+<புண்ணிற்போடவும்>:
+ற் < Past Tense Marker > போடு < Auxiliary Verb > அ < Relative Participle Suffix > வ் < Sandhi > உம் < Clitic > 
+<ற்+போடு+அ+வ்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

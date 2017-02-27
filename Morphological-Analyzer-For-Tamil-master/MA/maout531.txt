@@ -1,0 +1,88 @@
+<﻿பவுத்திரத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<சுடர்த்தைலம்>:
+சுடர் < Noun > த் < Sandhi > தைலம் < Noun > 
+<சுடர்+த்+தைலம்>
+
+<வெள்ளைப்>:
+வெள்ளை < Noun > ப் < Sandhi > 
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<கெந்தகம்>:
+<unknown>
+
+<5கி.>:
+<unknown>
+
+<பெருமருந்து>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ந்த்+உ>
+<unknown>
+
+<10கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<எல்லாம்>:
+எல்லாம் < Demonstrative Adjective > 
+<எல்லாம்>
+எல்லாம் < Postposition > 
+<எல்லாம்>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<சீலையில்>:
+சீலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தடவி>:
+தடவு < Verb > இ < Past Tense Marker > 
+<தடவு+இ>
+
+<பசுநெய்யில்>:
+ய் < Verbal Participle Suffix > ய் < Sandhi > இல் < Locative Case > 
+<ய்+ய்+இல்>
+<unknown>
+
+<தோய்த்து>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தோய்+த்த்+உ>
+
+<எரித்து>:
+எரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<எரி+த்த்+உ>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<சீலையில்>:
+சீலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தடவி>:
+தடவு < Verb > இ < Past Tense Marker > 
+<தடவு+இ>
+
+<புண்ணில்>:
+புண் < Noun > ண் < Sandhi > இல் < Locative Case > 
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

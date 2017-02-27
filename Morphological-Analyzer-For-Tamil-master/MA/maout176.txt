@@ -1,0 +1,106 @@
+<﻿செந்நாயுருவி>:
+வ் < Future Tense Marker > இ < Past Tense Marker > 
+<வ்+இ>
+<unknown>
+
+<மாதவிடாய்>:
+மாதவிடாய் < Noun > 
+<வயிற்றுவலி>:
+வயிற்றுவலி < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலைகளை>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<காலை>:
+காலை < DateTime > 
+<வேளை>:
+வேளை < Noun > 
+<மட்டும்>:
+மட்டும் < Particle > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<வயிற்று>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > இற்று < Past Tense Marker > 
+<அ+ய்+இற்று>
+<unknown>
+
+<வலி>:
+வலி < Verb > 
+<வலி>
+வலி < Noun > 
+<வலி>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<வாட>:
+வாடு < Verb > அ < Relative Participle Suffix > 
+<வாடு+அ>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலைகளை>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<நறுக்கி>:
+நறுக்கு < Verb > இ < Past Tense Marker > 
+<நறுக்கு+இ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<வேப்பெண்ணெய்>:
+வேப்பெண்ணெய் < Noun > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<வீக்கத்தின்>:
+வீக்கம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<கட்டி>:
+கட்டி < Noun > 
+<வைத்தால்>:
+வைத்து < Particle > ஆல் < Instrumental Case > 
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<வாடும்>:
+வாடு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வாடு+உம்>
+
+<.>:
+<unknown>
+

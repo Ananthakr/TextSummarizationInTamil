@@ -1,0 +1,138 @@
+<﻿வெள்ளைச்>:
+ள் < Sandhi > ஐ < Accusative Case > ச் < Sandhi > 
+<ள்+ஐ+ச்>
+<unknown>
+
+<சாறணை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<Moniera>:
+<Error>
+
+<Sp>:
+<Error>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<வேரை>:
+வேர் < Noun > ஐ < Accusative Case > 
+<நெருப்பில்>:
+நெருப்பு < Noun > இல் < Locative Case > 
+<வதக்கிச்>:
+வதக்கு < Verb > இ < Past Tense Marker > ச் < Sandhi > 
+<வதக்கு+இ+ச்>
+
+<சாறு>:
+சாறு < Noun > 
+<பிழிந்து>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிழி+ந்த்+உ>
+
+<சில>:
+சில < Adjective > 
+<துளிகளை>:
+துளி < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<மூக்கில்>:
+மூக்கு < Noun > இல் < Locative Case > 
+<விட்டால்>:
+விடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<விடு+ட்+உ+ஆல்>
+
+<ஒற்றைத்>:
+ஒற்றை < Noun > த் < Sandhi > 
+<தலவலி>:
+
+<உடனே>:
+உடனே < Particle > 
+<உடனே>
+உடனே < Adverb > 
+<உடனே>
+
+<நீங்கும்>:
+நீங்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நீங்கு+உம்>
+
+<.>:
+<unknown>
+
+<கண்>:
+கண் < Particle > 
+<கண்>
+கண் < Noun > 
+<கண்>
+
+<கோளாறுகள்>:
+கோள் < Noun > ஆ < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > கள் < Plural Suffix > 
+<கோள்+ஆ+ற்+உ+கள்>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலையைக்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<கசக்கிப்>:
+கசக்கு < Verb > இ < Past Tense Marker > ப் < Sandhi > 
+<கசக்கு+இ+ப்>
+
+<பிழிந்து>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிழி+ந்த்+உ>
+
+<மூன்று>:
+மூன்று < charNumbers > 
+<தேக்கரண்டி>:
+தேக்கரண்டி < Noun > 
+<வீதம்>:
+வீதம் < Noun > 
+<உள்ளுக்குக்>:
+உள்ளுக்கு < Adverb > க் < Sandhi > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<வயிற்றுப்>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > இற்று < Past Tense Marker > ப் < Sandhi > 
+<அ+ய்+இற்று+ப்>
+<unknown>
+
+<போக்கு>:
+போக்கு < Verb > 
+<போக்கு>
+போக்கு < Noun > 
+<போக்கு>
+
+<உடல்>:
+உடல் < Noun > 
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<பாண்டு>:
+பாண்டு < Entity > 
+<ரோகம்>:
+ரோகம் < Noun > 
+<குன்ம>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<வலி>:
+வலி < Verb > 
+<வலி>
+வலி < Noun > 
+<வலி>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+

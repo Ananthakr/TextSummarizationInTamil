@@ -1,0 +1,82 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<வியாதிக்குக்>:
+வியாதி < Noun > க்கு < Dative Case > க் < Sandhi > 
+<குளிகை-வெளிப்பிரயோகம்>:
+<unknown>
+
+<சேங்கொட்டை>:
+கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<கொடு+ட்+உ+ஐ>
+<unknown>
+
+<வெள்ளைப்பாஷாணம்>:
+வெள்ளை < Noun > ப் < Sandhi > பாஷாணம் < Noun > 
+<வெள்ளை+ப்+பாஷாணம்>
+
+<கௌரிப்பாஷாணம்>:
+<unknown>
+
+<நாவி>:
+
+<துருசு>:
+<unknown>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5>:
+5 < Numbers > 
+<கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<களற்சிச்>:
+இ < Past Tense Marker > ச் < Sandhi > 
+<இ+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<விட்டரைத்து>:
+
+<மிளகுப்>:
+மிளகு < Noun > ப் < Sandhi > 
+<பிரயாணம்>:
+பிரயாணம் < Noun > 
+<குளிகை>:
+குளிகை < Noun > 
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<ஊமத்தை>:
+ஊமத்தை < Noun > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<வாட்டி>:
+வாட்டு < Verb > இ < Past Tense Marker > 
+<வாட்டு+இ>
+
+<மேலே>:
+மேலே < Adverb > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<எந்தக்>:
+எந்த < Interrogative Adjective > க் < Sandhi > 
+<கட்டுவியாதியும்>:
+கட்டு < Verb > வ் < Future Tense Marker > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > ஆது < Future Negative Suffix > இ < Past Tense Marker > ய் < Sandhi > உம் < Clitic > 
+<கட்டு+வ்+ய்+அ+ஆது+இ+ய்+உம்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 

@@ -1,0 +1,112 @@
+<﻿விஷ்ணுகிராந்தி(Evolvulus>:
+<Error>
+
+<Alsinoides>:
+<Error>
+
+<இது>:
+இது < Pronoun > 
+<‘அபராசி’>:
+இ < Past Tense Marker > ச் < Sandhi > 
+<இ+ச்>
+<unknown>
+
+<எனவும்>:
+என < Particle > வ் < Sandhi > உம் < Clitic > 
+<அழைக்கப்படுகிறது>:
+அழை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<அழை+க்க்+அ+ப்+படு+கிறு+அது>
+
+<.>:
+<unknown>
+
+<இதைச்>:
+இது < Pronoun > ஐ < Accusative Case > ச் < Sandhi > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<சுண்டக்>:
+சுண்டு < Verb > அ < Relative Participle Suffix > க் < Sandhi > 
+<சுண்டு+அ+க்>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<காலை>:
+காலை < DateTime > 
+<மாலையாக>:
+மாலை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<மாலை+ய்+ஆக>
+
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<வயிற்றுப்போக்கு>:
+வயிற்றுப்போக்கு < Noun > 
+<நிற்கும்>:
+நில் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நில்+உம்>
+
+<.>:
+<unknown>
+
+<வீரிய>:
+வீரிய < Adjectival Noun > 
+<விருத்தி>:
+விருத்தி < Noun > 
+<உண்டாக>:
+உண்டாகு < Verb > அ < Infinitive Suffix > 
+<உண்டாகு+அ>
+
+<விஷ்ணுகிராந்தியுடன்>:
+
+<3>:
+3 < Numbers > 
+<பூண்டு>:
+பூண்டு < Noun > 
+<சீரகம்>:
+சீரகம் < Noun > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<மை>:
+மை < Noun > 
+<போல>:
+போல < Particle > 
+<போல>
+போல < Postposition > 
+<போல>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கொடுத்தால்>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<கொடு+த்த்+உ+ஆல்>
+
+<நரம்புத்>:
+நரம்பு < Noun > த் < Sandhi > 
+<தளர்ச்சி>:
+தளர்ச்சி < Noun > 
+<நீங்கும்>:
+நீங்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நீங்கு+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,23 @@
+<﻿வேறு>:
+
+<நெருஞ்சிக்>:
+நெருஞ்சி < Noun > க் < Sandhi > 
+<காயும்,வெள்ளறுகும்>:
+
+<பசும்பாலிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொள்ள>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,104 @@
+<﻿கன்னப்>:
+ன் < Past Tense Marker > அ < Relative Participle Suffix > ப் < Sandhi > 
+<ன்+அ+ப்>
+<unknown>
+
+<புற்று>:
+புற்று < Noun > 
+<பல்புற்று>:
+பல் < Noun > புற்று < Noun > 
+<பல்+புற்று>
+<unknown>
+
+<இவற்றுக்கு>:
+இ < Pronoun > அற்று < Oblique > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<செப்புத்>:
+செப்பு < Adjective > த் < Sandhi > 
+<செப்பு+த்>
+செப்பு < Noun > த் < Sandhi > 
+<செப்பு+த்>
+
+<தகடுகாய்ச்சிப்>:
+
+<பொறுக்கும்>:
+பொறுக்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<பொறுக்கு+உம்>
+
+<சூட்டில்>:
+சூடு < Noun > இல் < Locative Case > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<புற்றில்>:
+புற்று < Noun > இல் < Locative Case > 
+<சுடவும்>:
+சுடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<சுடு+அ+வ்+உம்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<எருக்கலம்பூ>:
+<unknown>
+
+<நெல்லிக்கெந்தகம்>:
+<unknown>
+
+<இரசம்>:
+<unknown>
+
+<வகை>:
+வகை < Noun > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<இரசத்தைச்>:
+அத்து < Oblique > ஐ < Accusative Case > ச் < Sandhi > 
+<அத்து+ஐ+ச்>
+<unknown>
+
+<சுசுத்தி>:
+த்த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<த்த்+உ+இ>
+<unknown>
+
+<பண்ணி>:
+பண்ணு < Verb > இ < Past Tense Marker > 
+<பண்ணு+இ>
+
+<சேர்த்தரைத்து>:
+
+<வேப்பெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொதிப்பித்து>:
+கொதிப்பு < Noun > இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொதிப்பு+இ+த்த்+உ>
+
+<துணியிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<தோய்த்துப்>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<தோய்+த்த்+உ+ப்>
+
+<புண்ணிற்போடவும்>:
+ற் < Past Tense Marker > போடு < Auxiliary Verb > அ < Relative Participle Suffix > வ் < Sandhi > உம் < Clitic > 
+<ற்+போடு+அ+வ்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

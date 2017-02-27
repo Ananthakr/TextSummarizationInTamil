@@ -1,0 +1,77 @@
+<﻿மேக>:
+
+<சுரத்திற்கு>:
+சுரம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<கியாழம்>:
+<unknown>
+
+<பனவெல்லம்>:
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<1/4>:
+<unknown>
+
+<நிலக்குமிழ்வேர்>:
+
+<1/4>:
+<unknown>
+
+<இவைகளைத்தட்டி>:
+
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலத்தில்போட்டு>:
+போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<போடு+ட்+உ>
+<unknown>
+
+<காற்படியாக>:
+
+<வற்றக்காய்ச்சி>:
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வெகு>:
+வெகு < Particle > 
+<நாளாக>:
+நாள் < Noun > ஆக < Adverbial Suffix > 
+<நாள்+ஆக>
+
+<தங்கியிருந்த>:
+தங்கு < Verb > இ < Past Tense Marker > ய் < Sandhi > இரு < Auxiliary Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<தங்கு+இ+ய்+இரு+ந்த்+உ+அ>
+
+<மேக>:
+மேக < Adjectival Noun > 
+<சுரமானது>:
+சுரம் < Noun > ஆன < Adjectival Suffix > து < Pronominal Neuter Singular > 
+<சுரம்+ஆன+து>
+
+<உடனே>:
+உடனே < Particle > 
+<உடனே>
+உடனே < Adverb > 
+<உடனே>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

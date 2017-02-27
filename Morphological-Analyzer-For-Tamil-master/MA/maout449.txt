@@ -1,0 +1,92 @@
+<﻿புண்ணுக்குத்>:
+
+<துவர்>:
+துவர் < Verb > 
+<துவர்>
+துவர் < Noun > 
+<துவர்>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<கைப்பு>:
+கைப்பு < Verb > 
+<கைப்பு>
+கைப்பு < Noun > 
+<கைப்பு>
+
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<-5>:
+-5 < Numbers > 
+<கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<அத்திவேர்>:
+அத்தி < Noun > வேர் < Verb > 
+<அத்தி+வேர்>
+
+<ஆவாரைவேர்>:
+
+<.>:
+<unknown>
+
+<நீர்ப்பூலாவேர்>:
+
+<ஒதியம்பட்டை>:
+பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<பட்டு+ஐ>
+<unknown>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<துவைத்து>:
+வைத்து < Postposition > 
+<வைத்து>
+<unknown>
+
+<அவித்துப்>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அவி+த்த்+உ+ப்>
+
+<பிழிந்து>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிழி+ந்த்+உ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<கரைத்து>:
+கரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+த்த்+உ>
+
+<பஞ்சில்>:
+பஞ்ச் < Entity > இல் < Locative Case > 
+<தோய்த்து>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தோய்+த்த்+உ>
+
+<புண்ணில்>:
+புண் < Noun > ண் < Sandhi > இல் < Locative Case > 
+<போட்டுவரவும்>:
+போடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+ட்+உ+வா+அ+வ்+உம்>
+

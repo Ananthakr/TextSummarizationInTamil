@@ -1,0 +1,89 @@
+<﻿வேங்கை>:
+
+<தைலம்>:
+தைலம் < Noun > 
+<வேங்கைப்>:
+வேங்கை < Noun > ப் < Sandhi > 
+<பலம்>:
+பலம் < Noun > 
+<பத்து>:
+பத்து < charNumbers > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<தூணி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<நீரில்>:
+நீர் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அடுப்பேற்றி>:
+
+<யெட்டொன்றாய்>:
+ற் < Past Tense Marker > ஆய் < Second Person Singular Suffix > 
+<ற்+ஆய்>
+<unknown>
+
+<வற்றக்>:
+வற்று < Verb > அ < Relative Participle Suffix > க் < Sandhi > 
+<வற்று+அ+க்>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<கியாழத்தை>:
+அத்து < Oblique > ஐ < Accusative Case > 
+<அத்து+ஐ>
+<unknown>
+
+<வடித்துக்>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<வடி+த்த்+உ+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<யெலுமிச்சம்பழம்>:
+<unknown>
+
+<ஒன்றை>:
+ஒன்று < Noun > ஐ < Accusative Case > 
+<பிழிந்து>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிழி+ந்த்+உ>
+
+<மெழுகு>:
+மெழுகு < Verb > 
+<மெழுகு>
+மெழுகு < Noun > 
+<மெழுகு>
+
+<பதமாக>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > 
+<ஆகு+அ>
+<unknown>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<மூழ்க>:
+மூழ்கு < Verb > அ < Infinitive Suffix > 
+<மூழ்கு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 

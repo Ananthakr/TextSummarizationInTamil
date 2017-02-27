@@ -1,0 +1,140 @@
+<﻿நெல்லிக்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<என்ன>:
+என்ன < Interrogative Noun > 
+<இருக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+<unknown>
+
+<விட்டமின்>:
+விட்டம் < Noun > இன் < Genitive Case > 
+<சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<செல்லுலோஸ்>:
+<unknown>
+
+<கார்போ>:
+கார் < Noun > போ < Auxiliary Verb > 
+<கார்+போ>
+
+<ஹைட்ரேட்>:
+ட் < Past Tense Marker > 
+<ட்>
+<unknown>
+
+<கால்சியம்>:
+<unknown>
+
+<பாஸ்பரஸ்>:
+<unknown>
+
+<இரும்புச்>:
+இரும்பு < Noun > ச் < Sandhi > 
+<சத்து>:
+சத்து < Noun > 
+<மற்றும்>:
+மற்றும் < Particle > 
+<நிகோடினிக்>:
+இ < Past Tense Marker > க் < Sandhi > 
+<இ+க்>
+<unknown>
+
+<ஆசிட்>:
+ஆசி < Noun > ட் < Past Tense Marker > 
+<ஆசி+ட்>
+
+<யாருக்கு>:
+யார் < Interrogative Noun > உக்கு < Dative Case > 
+<நல்லது>:
+நல்லது < Noun > 
+<பிளட்>:
+பிள < Verb > ட் < Past Tense Marker > 
+<பிள+ட்>
+
+<பிரஷர்>:
+அர் < Third Person Plural Suffix > 
+<அர்>
+<unknown>
+
+<சர்க்கரை>:
+சர்க்கரை < Entity > 
+<நோயாளிகளுக்கு>:
+நோயாளி < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<மிகவும்>:
+மிகவும் < Adverb > 
+<நல்லது>:
+நல்லது < Noun > 
+<.>:
+<unknown>
+
+<எல்லோருக்கும்>:
+எல்லோர் < Noun > உக்கு < Dative Case > உம் < Clitic > 
+<உகந்த>:
+உகந்த < Adjective > 
+<அமிர்தக்கனி>:
+இ < Past Tense Marker > 
+<இ>
+அமிர்த < Adjectival Noun > க் < Sandhi > கனி < Noun > 
+<அமிர்த+க்+கனி>
+
+<.>:
+<unknown>
+
+<பலன்கள்>:
+பலன் < Noun > கள் < Plural Suffix > 
+<இளமையை>:
+இளமை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<நீடிக்கச்>:
+நீடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > ச் < Sandhi > 
+<நீடி+க்க்+அ+ச்>
+
+<செய்யும்>:
+செய் < Verb > ய் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<செய்+ய்+உம்>
+
+<.>:
+<unknown>
+
+<தலைமுடி>:
+தலை < Noun > முடி < Auxiliary Verb > 
+<தலை+முடி>
+
+<தோல்>:
+தோல் < Verb > 
+<தோல்>
+தோல் < Noun > 
+<தோல்>
+
+<கண்>:
+கண் < Particle > 
+<கண்>
+கண் < Noun > 
+<கண்>
+
+<பார்வையை>:
+பார்வை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<பாதுகாக்கும்>:
+பாதுகா < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<பாதுகா+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<இதயம்>:
+இதயம் < Noun > 
+<நுரையீரலை>:
+நுரையீரல் < Noun > ஐ < Accusative Case > 
+<வலுவூட்டும்>:
+வலுவூட்டு < Verb > உம் < Clitic > 
+<வலுவூட்டு+உம்>
+
+<.>:
+<unknown>
+

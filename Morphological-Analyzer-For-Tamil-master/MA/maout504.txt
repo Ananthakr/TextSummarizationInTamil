@@ -1,0 +1,65 @@
+<﻿ஒடு>:
+
+<புரைக்கு>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<மிளகு>:
+மிளகு < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<சதகுப்பை>:
+சதகுப்பை < Noun > 
+<ஓமம்>:
+<unknown>
+
+<கருஞ்சீரகம்>:
+கருஞ்சீரகம் < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<எருக்கம்பூச்சாறும்>:
+ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<ச்+சா+ற்+உ+உம்>
+<unknown>
+
+<தேங்காயெண்ணெயும்>:
+தேங்காய் < Noun > எண்ணெய் < Noun > உம் < Clitic > 
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

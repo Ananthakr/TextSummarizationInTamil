@@ -1,0 +1,104 @@
+<﻿ஆணுடம்பில்>:
+இல் < Locative Case > 
+<இல்>
+<unknown>
+
+<வரும்>:
+வரும் < Adjective > 
+<புண்ணுக்குச்>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > ச் < Sandhi > 
+<சேர்வை>:
+சேர் < Verb > வ் < Future Tense Marker > ஐ < Accusative Case > 
+<சேர்+வ்+ஐ>
+
+<குந்திருக்கம்-5கி.>:
+<unknown>
+
+<இரசம்-2.5கி.>:
+<unknown>
+
+<பருத்தியிலைச்>:
+ஐ < Accusative Case > ச் < Sandhi > 
+<ஐ+ச்>
+<unknown>
+
+<சாற்றில்>:
+சாறு < Noun > இல் < Locative Case > 
+<சுத்தி>:
+சுத்தி < Noun > 
+<பன்னிக்>:
+இ < Past Tense Marker > க் < Sandhi > 
+<இ+க்>
+<unknown>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<இத்துடன்>:
+த்த் < Past Tense Marker > உ < Verbal Participle Suffix > உடன் < Associative Case > 
+<த்த்+உ+உடன்>
+
+<துருசு>:
+<unknown>
+
+<தேன்மெழுகு>:
+தேன் < Noun > மெழுகு < Noun > 
+<தேன்+மெழுகு>
+<unknown>
+
+<கொஞ்சம்>:
+கொஞ்சம் < Adverb > 
+<கொஞ்சம்>
+கொஞ்சம் < Noun > 
+<கொஞ்சம்>
+
+<கூட்டிக்>:
+கூட்டு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<கூட்டு+இ+க்>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<பருத்தியிலைச்சாறு>:
+ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ச்+சா+ற்+உ>
+<unknown>
+
+<விட்டரைத்து>:
+
+<பின்>:
+பின் < Adjective > 
+<பின்>
+பின் < Postposition > 
+<பின்>
+பின் < Adverb > 
+<பின்>
+பின் < Noun > 
+<பின்>
+
+<பசுவெண்ணெய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விட்டரைத்து>:
+
+<துணியிற்பூசிப்>:
+
+<புண்ணிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

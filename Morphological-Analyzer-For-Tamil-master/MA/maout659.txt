@@ -1,0 +1,118 @@
+<﻿வேறு>:
+
+<வீக்கங்களுக்கு>:
+வீக்கம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<பற்று>:
+பற்று < Verb > 
+<பற்று>
+பற்று < Noun > 
+<பற்று>
+
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<கெந்தகம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<1/2>:
+<unknown>
+
+<நேர்வாளம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<கரும்பவளம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<அபினி>:
+அபினி < Noun > 
+<1/2>:
+<unknown>
+
+<கருஞ்சீரகம்>:
+கருஞ்சீரகம் < Noun > 
+<1/2>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<நிருத்தெடுத்து>:
+இரு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இரு+த்த்+உ+எடு+த்த்+உ>
+<unknown>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<பொற்றாலைக்>:
+பொறு < Verb > ற் < Past Tense Marker > ஆல் < Conditional Suffix > ஐ < Accusative Case > க் < Sandhi > 
+<பொறு+ற்+ஆல்+ஐ+க்>
+
+<கரிப்பான்>:
+கரி < Verb > ப்ப் < Future Tense Marker > ஆன் < Third Person Masculine Singular Suffix > 
+<கரி+ப்ப்+ஆன்>
+
+<சார்விட்டு>:
+சார் < Noun > விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கட்டிகள்>:
+கட்டி < Noun > கள் < Plural Suffix > 
+<சூலை>:
+சூலை < Noun > 
+<பிளவை>:
+பிளவை < Noun > 
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<இவைகட்கு>:
+<unknown>
+
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<பூசிக்கொண்டு>:
+பூசி < Verb > க் < Sandhi > கொண்டு < Postposition > 
+<பூசி+க்+கொண்டு>
+
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<வீக்கங்கள்>:
+வீக்கம் < Noun > கள் < Plural Suffix > 
+<வாடும்>:
+வாடு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வாடு+உம்>
+
+<கட்டிகள்>:
+கட்டி < Noun > கள் < Plural Suffix > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

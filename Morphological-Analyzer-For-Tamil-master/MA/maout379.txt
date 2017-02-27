@@ -1,0 +1,116 @@
+<﻿சர்வ>:
+வ் < Future Tense Marker > அ < Relative Participle Suffix > 
+<வ்+அ>
+<unknown>
+
+<வீக்கத்திற்கு>:
+வீக்கம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<கொடும்>:
+கொடும் < Adjective > 
+<பற்று>:
+பற்று < Verb > 
+<பற்று>
+பற்று < Noun > 
+<பற்று>
+
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<கெந்தகம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<வெங்காயம்>:
+வெங்காயம் < Noun > 
+<1/2>:
+<unknown>
+
+<நேர்வாளம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஐந்து>:
+ஐந்து < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<திருகுகள்ளிச்>:
+திருகு < Noun > கள்ளி < Noun > ச் < Sandhi > 
+<திருகு+கள்ளி+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கட்டிகள்>:
+கட்டி < Noun > கள் < Plural Suffix > 
+<சூலவாதக்>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > க் < Sandhi > 
+<அ+வ்+அ+ஆது+அ+க்>
+<unknown>
+
+<கட்டிகள்>:
+கட்டி < Noun > கள் < Plural Suffix > 
+<மேல்வீக்கம்>:
+மேல் < Noun > வீக்கம் < Noun > 
+<மேல்+வீக்கம்>
+
+<பிளவை>:
+பிளவை < Noun > 
+<பவுத்திரம்>:
+<unknown>
+
+<இவைகட்கு>:
+<unknown>
+
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<பூசிக்>:
+பூசி < Verb > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<வீக்கங்கள்>:
+வீக்கம் < Noun > கள் < Plural Suffix > 
+<வாடும்>:
+வாடு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வாடு+உம்>
+
+<கட்டிகள்>:
+கட்டி < Noun > கள் < Plural Suffix > 
+<கரையும்>:
+கரை < Noun > ய் < Sandhi > உம் < Clitic > 
+<.>:
+<unknown>
+

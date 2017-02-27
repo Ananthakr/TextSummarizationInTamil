@@ -1,0 +1,96 @@
+<﻿சர்வ>:
+வ் < Future Tense Marker > அ < Relative Participle Suffix > 
+<வ்+அ>
+<unknown>
+
+<ரணங்களுக்கும்>:
+ரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<மேற்பூசும்>:
+
+<மருந்து>:
+மருந்து < Noun > 
+<முருங்கையிலைசாறு>:
+சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சா+ற்+உ>
+<unknown>
+
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+<வீசம்>:
+வீசம் < Noun > 
+<மின்னையிலைசாறு>:
+சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சா+ற்+உ>
+<unknown>
+
+<தும்பையிலைச்>:
+ஐ < Accusative Case > ச் < Sandhi > 
+<ஐ+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<அவுரியிலைச்சாறு>:
+ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ச்+சா+ற்+உ>
+<unknown>
+
+<வேப்பின்ச்சாறு>:
+
+<செருப்படைச்சாறு>:
+
+<பேயத்திச்சாறு>:
+இ < Past Tense Marker > ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+ச்+சா+ற்+உ>
+<unknown>
+
+<கொடிவேலிச்சாறு>:
+இ < Past Tense Marker > ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+ச்+சா+ற்+உ>
+<unknown>
+
+<கருநொச்சிலைசாறு>:
+சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சா+ற்+உ>
+<unknown>
+
+<கையாந்தகரைச்சாறு>:
+
+<இவைகளைக்>:
+இவைகள் < Pronoun > ஐ < Accusative Case > க் < Sandhi > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<எவ்வித>:
+எவ்வு < Verb > இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<எவ்வு+இ+த்+உ+அ>
+
+<இரணங்களுக்கும்>:
+இரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<பூசிக்>:
+பூசி < Verb > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

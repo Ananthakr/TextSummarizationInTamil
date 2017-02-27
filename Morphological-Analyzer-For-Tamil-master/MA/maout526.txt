@@ -1,0 +1,51 @@
+<﻿அரையாப்புக்கு>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<கொடிவேலிவேர்>:
+
+<பனங்கட்டி>:
+கட்டு < Auxiliary Verb > இ < Past Tense Marker > 
+<கட்டு+இ>
+<unknown>
+
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<இவற்ரை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<எண்ணெயிற்கலக்கி>:
+அ < Infinitive Suffix > க்க் < Sandhi > இ < Past Tense Marker > 
+<அ+க்க்+இ>
+<unknown>
+
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<சூரியபுடம்>:
+<unknown>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<கட்டியிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+

@@ -1,0 +1,72 @@
+<﻿சுண்டை>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<ட்+உ+ஐ>
+<unknown>
+
+<சுண்டைக்காய்>:
+சுண்டைக்காய் < Noun > 
+<செடியை>:
+செடி < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சில>:
+சில < Adjective > 
+<இடங்களில்>:
+இடம் < Noun > கள் < Plural Suffix > இல் < Locative Case > 
+<தான்>:
+தான் < Pronoun > 
+<தான்>
+தான் < Particle > 
+<தான்>
+
+<காண>:
+காண் < Verb > அ < Infinitive Suffix > 
+<காண்+அ>
+
+<முடியும்>:
+முடி < Noun > ய் < Sandhi > உம் < Clitic > 
+<.>:
+<unknown>
+
+<இதனை>:
+இது < Pronoun > அன் < Euphonic > ஐ < Accusative Case > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<வேப்பெண்ணெய்>:
+வேப்பெண்ணெய் < Noun > 
+<விடு>:
+விடு < Verb > 
+<கலக்கி>:
+கலக்கு < Verb > இ < Past Tense Marker > 
+<கலக்கு+இ>
+
+<சாப்பிட்டு>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சாப்பிடு+ட்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<குறையும்.இது>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+த்+உ>
+<unknown>
+
+<இரும்புச்>:
+இரும்பு < Noun > ச் < Sandhi > 
+<சத்து>:
+சத்து < Noun > 
+<நிறைந்தது>:
+நிறை < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > 
+<நிறை+ந்த்+உ+அது>
+
+<.>:
+<unknown>
+

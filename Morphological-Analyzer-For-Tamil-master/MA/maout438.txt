@@ -1,0 +1,104 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<இரத்தங்காண்>:
+
+<இரத்த>:
+இரத்த < Adjectival Noun > 
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<என்பவற்றுக்கு>:
+அ < Relative Participle Suffix > அற்று < Oblique > உக்கு < Dative Case > 
+<அ+அற்று+உக்கு>
+<unknown>
+
+<மருந்து>:
+மருந்து < Noun > 
+<.>:
+<unknown>
+
+<1>:
+1 < Numbers > 
+<.>:
+<unknown>
+
+<மாவிலங்கம்>:
+<unknown>
+
+<பட்டையை>:
+பட்டை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<இடித்துக்கட்டவும்>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > கட்டு < Auxiliary Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<இடி+த்த்+உ+க்+கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<2>:
+2 < Numbers > 
+<.>:
+<unknown>
+
+<திருக்கொண்டல்>:
+திரு < Noun > க் < Sandhi > கொள் < Auxiliary Verb > ட் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<திரு+க்+கொள்+ட்+அல்>
+
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<3>:
+3 < Numbers > 
+<.>:
+<unknown>
+
+<கொடிக்கள்ளியைப்>:
+
+<புழுங்க>:
+புழுங்கு < Verb > அ < Infinitive Suffix > 
+<புழுங்கு+அ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<அனலில்>:
+அனல் < Noun > இல் < Locative Case > 
+<வாட்டி>:
+வாட்டு < Verb > இ < Past Tense Marker > 
+<வாட்டு+இ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

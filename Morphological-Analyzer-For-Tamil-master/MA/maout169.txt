@@ -1,0 +1,206 @@
+<﻿சிலந்தி>:
+அ < Infinitive Suffix > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<அ+ந்த்+உ+இ>
+<unknown>
+
+<நாயகம்>:
+நாய் < Noun > அகம் < Noun > 
+<நாய்+அகம்>
+
+<தோட்டம்>:
+தோட்டம் < Noun > 
+<நந்தவனம்>:
+நந்தவனம் < Noun > 
+<ரஸ்தாவின்>:
+ரஸ்தா < Noun > வ் < Sandhi > இன் < Genitive Case > 
+<ஓரத்தில்>:
+ஓரம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<செடிகள்>:
+செடி < Noun > கள் < Plural Suffix > 
+<அடர்ந்துள்ள>:
+அடர் < Verb > ந்த் < Past Tense Marker > உள்ள < Adjectival Suffix > 
+<அடர்+ந்த்+உள்ள>
+
+<இடம்>:
+இடம் < Adjective > 
+<இடம்>
+இடம் < Noun > 
+<இடம்>
+
+<ஆகிய>:
+ஆகிய < Particle > 
+<இடங்களில்>:
+இடம் < Noun > கள் < Plural Suffix > இல் < Locative Case > 
+<பச்சைபசேலென்ற>:
+
+<இலைகளுடன்>:
+இலை < Noun > கள் < Plural Suffix > உடன் < Associative Case > 
+<வளரும்>:
+வளர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+உம்>
+
+<சிறு>:
+சிறு < Adjective > 
+<சிறு>
+சிறு < Verb > 
+<சிறு>
+
+<செடி.இதன்>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > ன் < Past Tense Marker > 
+<இ+த்+உ+அ+ன்>
+<unknown>
+
+<மலர்கள்>:
+மலர் < Noun > கள் < Plural Suffix > 
+<ஊதா>:
+ஊதா < Noun > 
+<நிறமாக>:
+நிறம் < Noun > ஆக < Adverbial Suffix > 
+<நிறம்+ஆக>
+
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<காய்>:
+காய் < Verb > 
+<காய்>
+காய் < Noun > 
+<காய்>
+
+<முற்றி>:
+முற்று < Verb > இ < Past Tense Marker > 
+<முற்று+இ>
+
+<பழுத்தப்பின்>:
+
+<அது>:
+அது < Pronoun > 
+<தானே>:
+தான் < Pronoun > ஏ < Clitic > 
+<வெடிக்கும்>:
+வெடி < Noun > க்கு < Dative Case > உம் < Clitic > 
+<.>:
+<unknown>
+
+<உடலில்>:
+உடல் < Noun > இல் < Locative Case > 
+<தோன்றும்>:
+தோன்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தோன்று+உம்>
+
+<கட்டிகளை>:
+கட்டி < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<குணப்படுத்த>:
+குணப்படுத்து < Verb > அ < Relative Participle Suffix > 
+<குணப்படுத்து+அ>
+
+<உடலில்>:
+உடல் < Noun > இல் < Locative Case > 
+<எங்காவது>:
+எங்கு < Adverb > ஆவது < Clitic > 
+<எங்கு+ஆவது>
+
+<கட்டி>:
+கட்டி < Noun > 
+<தோன்றினால்>:
+தோன்று < Verb > இன் < Euphonic > ஆல் < Instrumental Case > 
+<தோன்று+இன்+ஆல்>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<நைத்து>:
+நை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நை+த்த்+உ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<டம்ளர்>:
+டம்ளர் < Noun > 
+<அளவு>:
+அளவு < Noun > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<பாலில்>:
+பால் < Noun > இல் < Locative Case > 
+<கலந்துகுடித்து>:
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<கட்டிகளை>:
+கட்டி < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<ஆற்றிவிடும்>:
+ஆற்று < Verb > இ < Past Tense Marker > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஆற்று+இ+விடு+உம்>
+
+<.>:
+<unknown>
+
+<நீரிழிவு>:
+நீரிழிவு < Noun > 
+<நோய்>:
+நோய் < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலைகளை>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<நைத்து>:
+நை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நை+த்த்+உ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அதனுடன்>:
+அதன் < Demonstrative Adjective > உடன் < Particle > 
+<அதன்+உடன்>
+அதன் < Demonstrative Adjective > உடன் < Particle > 
+<அதன்+உடன்>
+அது < Pronoun > அன் < Euphonic > உடன் < Associative Case > 
+<அது+அன்+உடன்>
+
+<படும்>:
+படு < Particle > உம் < Clitic > 
+<பாலினைக்>:
+பால் < Noun > இன் < Euphonic > ஐ < Accusative Case > க் < Sandhi > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<காலை>:
+காலை < DateTime > 
+<மாலையாக>:
+மாலை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<மாலை+ய்+ஆக>
+
+<40>:
+40 < Numbers > 
+<நாட்கள்>:
+நாள் < Noun > கள் < Plural Suffix > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

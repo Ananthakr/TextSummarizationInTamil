@@ -1,0 +1,76 @@
+<﻿மூக்கில்>:
+க்க் < Sandhi > இல் < Locative Case > 
+<க்க்+இல்>
+<unknown>
+
+<இரத்தம்>:
+இரத்தம் < Noun > 
+<நிற்க>:
+நிற்க < Conjunction > 
+<மூக்கினிடமாக>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > 
+<ஆகு+அ>
+<unknown>
+
+<நின்று>:
+நில் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நில்+ற்+உ>
+
+<மிகுதியாய்>:
+மிகுதி < Noun > ய் < Sandhi > ஆய் < Adverbial Suffix > 
+<மிகுதி+ய்+ஆய்>
+
+<இரத்தம்>:
+இரத்தம் < Noun > 
+<போகிறதற்கு>:
+போ < Verb > கிறு < Present Tense Marker > அதற்கு < Dative Case > 
+<போ+கிறு+அதற்கு>
+
+<4>:
+4 < Numbers > 
+<கிறேயின்>:
+ய் < Sandhi > இன் < Genitive Case > 
+<ய்+இன்>
+<unknown>
+
+<துரிசை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<அவுன்சு>:
+<unknown>
+
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<கலக்கி>:
+கலக்கு < Verb > இ < Past Tense Marker > 
+<கலக்கு+இ>
+
+<மூக்கினுள்>:
+மூக்கு < Noun > இன் < Euphonic > உள் < Postposition > 
+<விடவேண்டும்,ஆனால்>:
+ஆனால் < Conjunction Suffix > 
+<ஆனால்>
+<unknown>
+
+<இதுப்படிகாரத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<தாழ்ச்சியாய்யிருக்குமென>:
+ன் < Past Tense Marker > அ < Relative Participle Suffix > 
+<ன்+அ>
+<unknown>
+
+<வறிக>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<.>:
+<unknown>
+

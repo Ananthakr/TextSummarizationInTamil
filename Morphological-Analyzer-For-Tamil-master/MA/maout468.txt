@@ -1,0 +1,79 @@
+<﻿நீர்மாந்தத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<கியாழம்>:
+<unknown>
+
+<நீலிவேர்>:
+நீலி < Noun > வேர் < Verb > 
+<நீலி+வேர்>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<செல்லியம்>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<இரண்டையும்>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ட்+உ+ஐ+ய்+உம்>
+<unknown>
+
+<நிறுத்து>:
+நிறுத்து < Verb > 
+<தட்டி>:
+தட்டி < Noun > 
+<அரைபடி>:
+ஐ < Accusative Case > படி < Postposition > 
+<ஐ+படி>
+<unknown>
+
+<ஜலத்தில்>:
+ஜலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அரிக்கால்படியாய்>:
+படு < Auxiliary Verb > இ < Past Tense Marker > ய் < Sandhi > ஆய் < Second Person Singular Suffix > 
+<படு+இ+ய்+ஆய்>
+<unknown>
+
+<வற்றக்காய்ச்சி>:
+
+<வடித்தக்>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > க் < Sandhi > 
+<வடி+த்த்+உ+அ+க்>
+
+<கியாழத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<சங்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<கொடுக்கத்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > த் < Sandhi > 
+<கொடு+க்க்+அ+த்>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,106 @@
+<﻿தாமரைப்பூ>:
+<unknown>
+
+<ரோஜாமொட்டு>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ட்+உ>
+<unknown>
+
+<பூமிசக்கரைக்கிழங்கு>:
+<unknown>
+
+<கோரைக்கிழங்கு>:
+கோரை < Noun > க் < Sandhi > கிழங்கு < Noun > 
+<கோரை+க்+கிழங்கு>
+
+<செம்பரத்தம்>:
+<unknown>
+
+<பூ>:
+பூ < Noun > 
+<கொத்தமல்லி>:
+கொத்தமல்லி < Noun > 
+<அரைக்கீரை>:
+அரைக்கீரை < Noun > 
+<விதை>:
+விதை < Verb > 
+<விதை>
+விதை < Noun > 
+<விதை>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<சம>:
+சம < Adjectival Noun > 
+<அளவு>:
+அளவு < Noun > 
+<எடை>:
+எடை < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரைப்படி>:
+படி < Postposition > 
+<படி>
+<unknown>
+
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<வற்றக்>:
+வற்று < Verb > அ < Relative Participle Suffix > க் < Sandhi > 
+<வற்று+அ+க்>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<பால்>:
+பால் < Particle > 
+<பால்>
+பால் < Postposition > 
+<பால்>
+பால் < Noun > 
+<பால்>
+
+<மிளகுத்தூள்>:
+மிளகு < Noun > த் < Sandhi > தூள் < Noun > 
+<மிளகு+த்+தூள்>
+
+<சித்தரத்தை>:
+சித்தரத்தை < Noun > 
+<இவற்றோடு>:
+இ < Pronoun > அற்று < Oblique > ஓடு < Associative Case > 
+<கோழி>:
+கோழி < Noun > 
+<முட்டை>:
+முட்டை < Entity > 
+<வெள்ளைக்>:
+வெள்ளை < Noun > க் < Sandhi > 
+<கரு>:
+கரு < Noun > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<காரசாரம்>:
+<unknown>
+
+<நீக்கவும்>:
+நீ < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<நீ+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

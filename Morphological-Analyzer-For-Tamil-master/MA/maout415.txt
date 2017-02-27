@@ -1,0 +1,137 @@
+<﻿முறிவு>:
+
+<நெரிவுக்கும்>:
+நெரி < Verb > வ் < Future Tense Marker > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<நெரி+வ்+க்க்+உம்>
+
+<மரத்தாலே>:
+மரம் < Noun > அத்து < Oblique > ஆல் < Instrumental Case > ஏ < Clitic > 
+<விழுந்தவைகளுக்கும்>:
+விழு < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > வ் < Sandhi > ஐ < Pronomianl Neuter Plural > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<விழு+ந்த்+உ+அ+வ்+ஐ+கள்+உக்கு+உம்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<வேப்பங்கொழுந்து>:
+
+<நொச்சிக்கொழுந்து>:
+நொச்சி < Noun > க் < Sandhi > கொழுந்து < Noun > 
+<நொச்சி+க்+கொழுந்து>
+<unknown>
+
+<சாரணைவேர்>:
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<வெள்ளைப்பூடு>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ட்+உ>
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரைத்துக்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<அரை+த்த்+உ+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<கத்தரிப்>:
+கத்தரி < Verb > ப் < Sandhi > 
+<கத்தரி+ப்>
+கத்தரி < Noun > ப் < Sandhi > 
+<கத்தரி+ப்>
+
+<பிஞ்சு>:
+பிஞ்சு < Noun > 
+<துவைத்த>:
+துவை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<துவை+த்த்+உ+அ>
+
+<சாறும்>:
+சாறு < Noun > உம் < Clitic > 
+<கோழிக்குஞ்சு>:
+கோழி < Noun > க் < Sandhi > குஞ்சு < Noun > 
+<கோழி+க்+குஞ்சு>
+
+<துவைத்த>:
+துவை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<துவை+த்த்+உ+அ>
+
+<சாறும்>:
+சாறு < Noun > உம் < Clitic > 
+<எலுமிச்சம்புளி>:
+
+<சாராயம்>:
+சாராயம் < Noun > 
+<கோழிமுட்டை>:
+
+<வெண்கரு>:
+<unknown>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<மரத்தாலே>:
+மரம் < Noun > அத்து < Oblique > ஆல் < Instrumental Case > ஏ < Clitic > 
+<விழுந்தவைகளுக்குக்>:
+விழு < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > வை < Auxiliary Verb > கள் < Plural Suffix > உக்கு < Dative Case > க் < Sandhi > 
+<விழு+ந்த்+உ+அ+வை+கள்+உக்கு+க்>
+
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<நல்லது>:
+நல்லது < Noun > 
+<.>:
+<unknown>
+
+<குளிர்>:
+குளிர் < Verb > 
+<குளிர்>
+குளிர் < Noun > 
+<குளிர்>
+
+<கூதல்>:
+த் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<த்+அல்>
+<unknown>
+
+<மாறாட்டம்>:
+<unknown>
+
+<வாதம்>:
+வாதம் < Noun > 
+<சரீர>:
+
+<முழுவதும்>:
+முழுவதும் < Noun > 
+<பரந்த>:
+பரந்த < Adjective > 
+<விதனமும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

@@ -1,0 +1,55 @@
+<﻿நரம்பு>:
+<unknown>
+
+<வந்த>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<வா+ந்த்+உ+அ>
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<கருங்கொள்ளுமா>:
+கொள் < Auxiliary Verb > ள் < Sandhi > உம் < Third Future Neuter Singular OR RP > ஆ < Clitic > 
+<கொள்+ள்+உம்+ஆ>
+<unknown>
+
+<பொடிசெய்து>:
+பொடி < Verb > செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+செய்+த்+உ>
+
+<நரம்பு>:
+நரம்பு < Noun > 
+<மேலே>:
+மேலே < Adverb > 
+<போட்டு>:
+போட்டு < Particle > 
+<மூவரட்டை>:
+மூவர் < Noun > அடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<மூவர்+அடு+ட்+உ+ஐ>
+
+<பருத்திச்>:
+பருத்தி < Noun > ச் < Sandhi > 
+<சாகத்தை>:
+அத்து < Oblique > ஐ < Accusative Case > 
+<அத்து+ஐ>
+<unknown>
+
+<நரம்பு>:
+நரம்பு < Noun > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<தாரையில்>:
+ய் < Sandhi > இல் < Locative Case > 
+<ய்+இல்>
+<unknown>
+
+<விடவும்>:
+விட < Particle > வ் < Sandhi > உம் < Clitic > 
+<.>:
+<unknown>
+

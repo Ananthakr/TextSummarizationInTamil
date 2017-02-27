@@ -1,0 +1,57 @@
+<﻿பற்புழுவுக்கு>:
+
+<மருந்து>:
+மருந்து < Noun > 
+<வட்டுப்பழக்கத்தை>:
+அத்து < Oblique > ஐ < Accusative Case > 
+<அத்து+ஐ>
+<unknown>
+
+<அவித்து>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அவி+த்த்+உ>
+
+<தும்பைச்>:
+தும்பை < Noun > ச் < Sandhi > 
+<சாற்றில்>:
+சாறு < Noun > இல் < Locative Case > 
+<பிசறி>:
+பிசறு < Verb > இ < Past Tense Marker > 
+<பிசறு+இ>
+
+<பல்லடியில்>:
+
+<அடக்கவும்>:
+அட < Particle > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அட+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<புறத்திலும்>:
+புறம் < Noun > அத்து < Oblique > இல் < Locative Case > உம் < Clitic > 
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<குழைத்துப்>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<குழை+த்த்+உ+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பூச்சி>:
+பூச்சி < Noun > 
+<விழும்>:
+விழு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<விழு+உம்>
+
+<.>:
+<unknown>
+

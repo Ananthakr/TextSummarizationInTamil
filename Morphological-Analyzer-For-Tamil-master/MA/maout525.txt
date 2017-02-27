@@ -1,0 +1,65 @@
+<﻿அரையாப்பு>:
+
+<பவுந்திரம்>:
+பவுந்திரம் < Noun > 
+<தொடைவாழை>:
+ஐ < Accusative Case > 
+<ஐ>
+தொடை < Noun > வாழை < Noun > 
+<தொடை+வாழை>
+
+<கண்ட>:
+கண்ட < Adjective > 
+<மாலை>:
+மாலை < Noun > 
+<பிளவை>:
+பிளவை < Noun > 
+<மற்றும்>:
+மற்றும் < Particle > 
+<கட்டு>:
+கட்டு < Verb > 
+<சகலத்துக்கும்>:
+சகலம் < Noun > அத்து < Oblique > உக்கு < Dative Case > உம் < Clitic > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<கயாளம்>:
+<unknown>
+
+<போட்டு>:
+போட்டு < Particle > 
+<நாளூறி>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<ற்+உ+இ>
+<unknown>
+
+<மெழுகுபதம்>:
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<உள்ளும்>:
+உள் < Noun > ள் < Sandhi > உம் < Clitic > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வீக்கத்திலும்>:
+வீக்கம் < Noun > அத்து < Oblique > இல் < Locative Case > உம் < Clitic > 
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<எந்தக்கட்டும்>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > க் < Sandhi > கட்டு < Auxiliary Verb > உம் < Clitic > 
+<ந்த்+உ+அ+க்+கட்டு+உம்>
+<unknown>
+
+<வற்றும்>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வற்று+உம்>
+
+<.>:
+<unknown>
+

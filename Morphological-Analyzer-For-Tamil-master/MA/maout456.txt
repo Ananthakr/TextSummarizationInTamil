@@ -1,0 +1,158 @@
+<﻿வாய்க்குள்ளும்>:
+வ் < Future Tense Marker > ஆய் < Second Person Singular Suffix > க்கு < Dative Case > உள் < Postposition > ள் < Sandhi > உம் < Clitic > 
+<வ்+ஆய்+க்கு+உள்+ள்+உம்>
+<unknown>
+
+<கண்டத்திலும்>:
+கண்டம் < Noun > அத்து < Oblique > இல் < Locative Case > உம் < Clitic > 
+<வரும்>:
+வரும் < Adjective > 
+<வீரணம்>:
+<unknown>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<சகலதுக்கும்>:
+
+<ஒத்தடமும்>:
+ஒத்தடம் < Noun > உம் < Clitic > 
+<பூச்சு>:
+பூச்சு < Noun > 
+<மருந்தும்>:
+மருந்து < Noun > உம் < Clitic > 
+<வெருங்கிழங்கும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<காஞ்சுரம்>:
+<unknown>
+
+<பட்டையும்>:
+பட்டை < Noun > ய் < Sandhi > உம் < Clitic > 
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<வசம்பும்>:
+வசம்பு < Noun > உம் < Clitic > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<பொட்டணி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கட்டி>:
+கட்டி < Noun > 
+<அவித்து>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அவி+த்த்+உ>
+
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<காஞ்சுரந்துளிர்>:
+
+<முதிரந்துளிர்>:
+
+<முருங்கைத்துளிர்>:
+முருங்கை < Noun > த் < Sandhi > துளிர் < Noun > 
+<முருங்கை+த்+துளிர்>
+<unknown>
+
+<என்பவற்றைச்>:
+அ < Relative Participle Suffix > அற்று < Oblique > ஐ < Accusative Case > ச் < Sandhi > 
+<அ+அற்று+ஐ+ச்>
+<unknown>
+
+<சிறுநீர்விட்டரைத்து>:
+
+<பசுவின்>:
+வ் < Sandhi > இன் < Genitive Case > 
+<வ்+இன்>
+<unknown>
+
+<நெய்விட்டுக்>:
+நெய் < Noun > விட்டு < Postposition > க் < Sandhi > 
+<குழைத்துப்>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<குழை+த்த்+உ+ப்>
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<அமுக்கிராய்க்>:
+ஆய் < Second Person Singular Suffix > க் < Sandhi > 
+<ஆய்+க்>
+<unknown>
+
+<கிழங்கு>:
+கிழங்கு < Noun > 
+<ஆனைப்பல்லு>:
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கருங்கறையான்>:
+
+<மண்>:
+மண் < Noun > 
+<குரக்கன்>:
+அ < Infinitive Suffix > க்க் < Sandhi > அ < Infinitive Suffix > ன் < Past Tense Marker > 
+<அ+க்க்+அ+ன்>
+<unknown>
+
+<பொரி>:
+பொரி < Verb > 
+<பொரி>
+பொரி < Noun > 
+<பொரி>
+
+<தோடம்புளி>:
+
+<விட்டரைத்து>:
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<கன்ன>:
+கல் < Noun > ன் < Past Tense Marker > அ < Relative Participle Suffix > 
+<கல்+ன்+அ>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<விதனம்>:
+<unknown>
+
+<உளைவு>:
+உளை < Verb > வ் < Future Tense Marker > 
+<உளை+வ்>
+
+<கடுப்பு>:
+கடுப்பு < Noun > 
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

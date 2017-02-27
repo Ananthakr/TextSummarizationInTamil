@@ -1,0 +1,93 @@
+<﻿நச்சுக்காளான்>:
+
+<குளிகை>:
+குளிகை < Noun > 
+<கற்ப்பூரம்>:
+<unknown>
+
+<சித்தரத்தை>:
+சித்தரத்தை < Noun > 
+<நச்சுக்காளான்>:
+நச்சு < Noun > க் < Sandhi > காளான் < Noun > 
+<நச்சு+க்+காளான்>
+<unknown>
+
+<நல்வேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<சம>:
+சம < Adjectival Noun > 
+<அளவில்>:
+அளவில் < Particle > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<கரிப்பான்>:
+கரி < Verb > ப்ப் < Future Tense Marker > ஆன் < Third Person Masculine Singular Suffix > 
+<கரி+ப்ப்+ஆன்>
+
+<சாறுவிட்டரைத்து>:
+
+<குன்றிமணிப்>:
+குன்றிமணி < Noun > ப் < Sandhi > 
+<பிரமானம்>:
+<unknown>
+
+<குளிகை>:
+குளிகை < Noun > 
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<கொள்ளவும்>:
+அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அ+வ்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+
+<புண்ணைத்>:
+புண் < Noun > ண் < Sandhi > ஐ < Accusative Case > த் < Sandhi > 
+<தொடவாங்கல்>:
+<unknown>
+
+<வலிப்பு>:
+வலிப்பு < Noun > 
+<முதலியவற்றுக்கு>:
+
+<வேப்பெண்ணெயைக்>:
+வேப்பெண்ணெய் < Noun > ஐ < Accusative Case > க் < Sandhi > 
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<இறக்கி>:
+இறக்கு < Verb > இ < Past Tense Marker > 
+<இறக்கு+இ>
+
+<ஆறவைத்து>:
+ஆறு < Noun > அ < Infinitive Suffix > வைத்து < Postposition > 
+<ஆறு+அ+வைத்து>
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<குளிகையை>:
+குளிகை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<உரைத்துக்>:
+உரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<உரை+த்த்+உ+க்>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+

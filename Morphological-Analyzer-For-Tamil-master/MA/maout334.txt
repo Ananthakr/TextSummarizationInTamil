@@ -1,0 +1,129 @@
+<﻿மஞ்சட்>:
+
+<காரசீலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<விரானிகடை>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ட்+உ+ஐ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<கெவுரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<1/4>:
+<unknown>
+
+<வீரம்>:
+வீரம் < Noun > 
+<1/4>:
+<unknown>
+
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<1/4>:
+<unknown>
+
+<மிருதார்சிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<1/4>:
+<unknown>
+
+<கர்க்கட>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<அ+ட்+உ+அ>
+<unknown>
+
+<கசிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஏழுதினுசுகளையும்>:
+ஏழுதினுசுகளையும் < charNumbers > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<கோழிமுட்டையைக்>:
+ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<ய்+ஐ+க்>
+<unknown>
+
+<கொண்டுவந்து>:
+கொண்டுவா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொண்டுவா+ந்த்+உ>
+
+<சிகப்பு>:
+சிகப்பு < Noun > 
+<அம்பிலியைப்>:
+இ < Past Tense Marker > ய் < Sandhi > ஐ < Accusative Case > ப் < Sandhi > 
+<இ+ய்+ஐ+ப்>
+<unknown>
+
+<போக்கி>:
+போக்கு < Verb > இ < Past Tense Marker > 
+<போக்கு+இ>
+
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<அம்பிலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்துலூட்டி>:
+
+<இரண>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<முதலான>:
+முதல் < Noun > ஆன < Adjectival Suffix > 
+<கட்டிகள்>:
+கட்டி < Noun > கள் < Plural Suffix > 
+<மீது>:
+மீது < Particle > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<இரணமாறும்>:
+இரணம் < Noun > ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

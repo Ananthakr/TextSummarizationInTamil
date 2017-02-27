@@ -1,0 +1,34 @@
+<﻿மரத்தால்>:
+அத்து < Oblique > ஆல் < Instrumental Case > 
+<அத்து+ஆல்>
+<unknown>
+
+<விழுந்த>:
+விழு < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<விழு+ந்த்+உ+அ>
+
+<நோவுக்கு>:
+நோவு < Noun > உக்கு < Dative Case > 
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<சுக்கும்>:
+சுக்கு < Noun > உம் < Clitic > 
+<குறிஞ்சா>:
+
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<வெதுப்பி>:
+
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

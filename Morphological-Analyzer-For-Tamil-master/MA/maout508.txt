@@ -1,0 +1,116 @@
+<﻿படுவன்>:
+படு < Auxiliary Verb > வ் < Sandhi > அ < Relative Participle Suffix > ன் < Past Tense Marker > 
+<படு+வ்+அ+ன்>
+<unknown>
+
+<நெய்>:
+நெய் < Verb > 
+<நெய்>
+நெய் < Noun > 
+<நெய்>
+
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<மதுரம்>:
+மதுரம் < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<கடுகு>:
+கடுகு < Noun > 
+<கராம்பு>:
+<unknown>
+
+<நற்சீரகம்>:
+<unknown>
+
+<->:
+<unknown>
+
+<5கி.>:
+<unknown>
+
+<சீதேவியார்>:
+வ் < Future Tense Marker > இ < Past Tense Marker > ய் < Sandhi > ஆர் < Pronominal Third Person Singular > 
+<வ்+இ+ய்+ஆர்>
+<unknown>
+
+<படுவன்>:
+படு < Verb > வ் < Sandhi > அ < Relative Participle Suffix > ன் < Past Tense Marker > 
+<படு+வ்+அ+ன்>
+
+<கோழியவரை>:
+இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > வ் < Sandhi > அர் < Pronominal Third Person Singular > ஐ < Accusative Case > 
+<இ+ய்+அ+வ்+அர்+ஐ>
+<unknown>
+
+<பொன்னாங்காணி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<நன்னாரி>:
+நன்னாரி < Noun > 
+<நாயுருவி>:
+நாயுருவி < Noun > 
+<கீழாநெல்லி>:
+கீழாநெல்லி < Noun > 
+<ஒடுவடக்கி>:
+
+<கஞ்சாங்கோரை>:
+ஓர் < Third Person Plural Suffix > ஐ < Accusative Case > 
+<ஓர்+ஐ>
+<unknown>
+
+<வகை>:
+வகை < Noun > 
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்துத்>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > த் < Sandhi > 
+<இடி+த்த்+உ+த்>
+
+<தூளாக்கி>:
+தூள் < Noun > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<தூள்+ஆக்கு+இ>
+
+<பசு>:
+<unknown>
+
+<நெய்>:
+நெய் < Verb > 
+<நெய்>
+நெய் < Noun > 
+<நெய்>
+
+<கொதிக்கவைத்து>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வைத்து < Postposition > 
+<கொதி+க்க்+அ+வைத்து>
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<தூளைப்போட்டுக்>:
+ப் < Sandhi > போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<ப்+போடு+ட்+உ+க்>
+<unknown>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<இறக்கி>:
+இறக்கு < Verb > இ < Past Tense Marker > 
+<இறக்கு+இ>
+
+<கட்டியிலும்>:
+கட்டி < Noun > ய் < Sandhi > இல் < Locative Case > உம் < Clitic > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

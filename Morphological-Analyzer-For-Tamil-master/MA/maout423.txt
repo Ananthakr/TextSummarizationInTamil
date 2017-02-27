@@ -1,0 +1,100 @@
+<﻿தடிப்பு>:
+
+<முதலிய>:
+முதலிய < Adjective > 
+<அரையாப்புகள்>:
+
+<கரைவதற்கு>:
+கரை < Verb > வ் < Future Tense Marker > அதற்கு < Dative Case > 
+<கரை+வ்+அதற்கு>
+
+<கட்டு>:
+கட்டு < Verb > 
+<காசிக்கட்டி>:
+காசி < Entity > க் < Sandhi > கட்டு < Auxiliary Verb > இ < Past Tense Marker > 
+<காசி+க்+கட்டு+இ>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<செங்கொட்டை>:
+கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<கொடு+ட்+உ+ஐ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<காடிகாரம்>:
+காடி < Noun > காரம் < Noun > 
+<காடி+காரம்>
+
+<1/4>:
+<unknown>
+
+<கொடிவேலி>:
+இ < Past Tense Marker > 
+<இ>
+கொடி < Noun > வேலி < Noun > 
+<கொடி+வேலி>
+
+<1/4>:
+<unknown>
+
+<பனவெல்லம்>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஐந்து>:
+ஐந்து < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<அரையாப்புக்கட்டியின்>:
+
+<மீது>:
+மீது < Particle > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<கட்டிக்>:
+கட்டி < Noun > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<கட்டியானது>:
+கட்டி < Noun > ய் < Sandhi > ஆன < Adjectival Suffix > து < Pronominal Neuter Singular > 
+<கட்டி+ய்+ஆன+து>
+
+<கரையும்>:
+கரை < Noun > ய் < Sandhi > உம் < Clitic > 
+<அல்லது>:
+அல்லது < Conjunction > 
+<உடையும்>:
+உடை < Noun > ய் < Sandhi > உம் < Clitic > 
+<.>:
+<unknown>
+

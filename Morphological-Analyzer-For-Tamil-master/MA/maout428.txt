@@ -1,0 +1,46 @@
+<﻿நாய்க்கடிக்கு>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > க்கு < Dative Case > 
+<அ+ட்+உ+இ+க்கு>
+<unknown>
+
+<மருந்து>:
+மருந்து < Noun > 
+<பருத்தி>:
+பருத்தி < Noun > 
+<இலை>:
+இலை < Noun > 
+<உத்தமாகாணி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<1>:
+1 < Numbers > 
+<பிடி>:
+பிடி < Verb > 
+<பிடி>
+பிடி < Noun > 
+<பிடி>
+
+<மிளகு-6>:
+<unknown>
+
+<இச்சாற்றில்>:
+இ < Demonstrative Adjective > ச் < Sandhi > சாறு < Noun > இல் < Locative Case > 
+<இ+ச்+சாறு+இல்>
+
+<அரைத்துக்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<அரை+த்த்+உ+க்>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

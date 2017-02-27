@@ -1,0 +1,51 @@
+<﻿வீக்கம்>:
+<unknown>
+
+<வற்ற>:
+வற்று < Verb > அ < Relative Participle Suffix > 
+<வற்று+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<ஆவாரை>:
+ஆ < Verb > வ் < Future Tense Marker > ஆர் < Pronominal Third Person Singular > ஐ < Accusative Case > 
+<ஆ+வ்+ஆர்+ஐ>
+
+<அருகியைப்>:
+அருகு < Verb > இ < Past Tense Marker > ய் < Sandhi > ஐ < Accusative Case > ப் < Sandhi > 
+<அருகு+இ+ய்+ஐ+ப்>
+
+<பசுப்பாலில்>:
+இல் < Locative Case > 
+<இல்>
+<unknown>
+
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<விளக்கெண்ணெயில்>:
+விளக்கெண்ணெய் < Noun > இல் < Locative Case > 
+<பசுப்பாலில்>:
+இல் < Locative Case > 
+<இல்>
+<unknown>
+
+<மத்தித்துப்>:
+மத்து < Noun > இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<மத்து+இ+த்த்+உ+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

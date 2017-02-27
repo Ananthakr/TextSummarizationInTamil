@@ -1,0 +1,79 @@
+<﻿ஒடு>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<இரசம்>:
+<unknown>
+
+<கெந்தம்>:
+<unknown>
+
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<உள்ளி>:
+உள்ளி < Noun > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<குந்திருக்கம்>:
+<unknown>
+
+<களிப்பாக்கு>:
+களிப்பாக்கு < Noun > 
+<சாதிலிங்கம்>:
+சாதி < Noun > லிங்கம் < Noun > 
+<சாதி+லிங்கம்>
+
+<சாதிக்காய்>:
+சாதிக்காய் < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5கி.>:
+<unknown>
+
+<10கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<புங்கம்>:
+புங்கம் < Entity > 
+<விட்டரைத்து>:
+
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<விட்டுக்>:
+விட்டு < Postposition > க் < Sandhi > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<மெழுகு>:
+மெழுகு < Verb > 
+<மெழுகு>
+மெழுகு < Noun > 
+<மெழுகு>
+
+<பதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<வடித்துப்>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<வடி+த்த்+உ+ப்>
+
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

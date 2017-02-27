@@ -1,0 +1,82 @@
+<﻿வயிற்று>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > இற்று < Past Tense Marker > 
+<அ+ய்+இற்று>
+<unknown>
+
+<வலிக்கு>:
+வலி < Noun > க்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<தேங்காயைத்திரிகி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பிட்டுவைத்து>:
+பிட்டு < Noun > வைத்து < Postposition > 
+<பர்பாடகத்தைப்>:
+அத்து < Oblique > ஐ < Accusative Case > ப் < Sandhi > 
+<அத்து+ஐ+ப்>
+<unknown>
+
+<பருப்பாக்கி>:
+பருப்பு < Noun > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<பருப்பு+ஆக்கு+இ>
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<இரண்டையுங்கலந்து>:
+அ < Infinitive Suffix > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அ+ந்த்+உ>
+<unknown>
+
+<இருவேளையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<தின்று>:
+தின் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தின்+ற்+உ>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<வயிற்று>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > இற்று < Past Tense Marker > 
+<அ+ய்+இற்று>
+<unknown>
+
+<வலி>:
+வலி < Verb > 
+<வலி>
+வலி < Noun > 
+<வலி>
+
+<தீரும்.ஆனால்>:
+ஆனால் < Conjunction Suffix > 
+<ஆனால்>
+<unknown>
+
+<முத்தின>:
+முத்து < Verb > இன் < Euphonic > அ < Relative Participle Suffix > 
+<முத்து+இன்+அ>
+
+<தேங்காயாய்>:
+தேங்காய் < Noun > ஆய் < Adverbial Suffix > 
+<தேங்காய்+ஆய்>
+
+<இருக்கவேண்டும்>:
+இரு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வேண்டும் < Finite Verb Suffix > 
+<இரு+க்க்+அ+வேண்டும்>
+
+<.>:
+<unknown>
+

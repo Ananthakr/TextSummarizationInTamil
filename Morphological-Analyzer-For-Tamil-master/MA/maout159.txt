@@ -1,0 +1,200 @@
+<﻿இலந்தை>:
+அ < Infinitive Suffix > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ந்த்+உ+ஐ>
+<unknown>
+
+<அல்லது>:
+அல்லது < Conjunction > 
+<குல்வலி>:
+
+<சீதபேதி>:
+சீதபேதி < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இம்மரத்தில்>:
+இ < Demonstrative Adjective > ம் < Sandhi > மரம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<இ+ம்+மரம்+அத்து+இல்>
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+
+<உள்ள>:
+உள்ள < Postposition > 
+<இளந்தளிகளை>:
+இ < Past Tense Marker > கள் < Plural Suffix > ஐ < Accusative Case > 
+<இ+கள்+ஐ>
+<unknown>
+
+<பறித்து>:
+பறி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பறி+த்த்+உ>
+
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<வெங்காயம்>:
+வெங்காயம் < Noun > 
+<மற்றும்>:
+மற்றும் < Particle > 
+<சீரகம்>:
+சீரகம் < Noun > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<நைத்து>:
+நை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நை+த்த்+உ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<டம்ளர்>:
+டம்ளர் < Noun > 
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<வடிகட்டி>:
+வடிகட்டி < Noun > 
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<பாதியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<காலையிலும்>:
+காலையிலும் < DateTime > 
+<பாதி>:
+பாதி < Verb > 
+<பாதி>
+பாதி < Noun > 
+<பாதி>
+
+<மாலையிலும்>:
+மாலை < Noun > ய் < Sandhi > இல் < Locative Case > உம் < Clitic > 
+<3>:
+3 < Numbers > 
+<நாட்கள்>:
+நாள் < Noun > கள் < Plural Suffix > 
+<தொடர்ந்து>:
+தொடர்ந்து < Adverb > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<முறைக்>:
+முறை < Verb > க் < Sandhi > 
+<முறை+க்>
+முறை < Noun > க் < Sandhi > 
+<முறை+க்>
+
+<காய்ச்சல்>:
+காய்ச்சல் < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இலந்தை>:
+இலந்தை < Noun > 
+<இலையைக்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<ஆய்ந்து>:
+ஆய் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ஆய்+ந்த்+உ>
+
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<அதனுடன்>:
+அதன் < Demonstrative Adjective > உடன் < Particle > 
+<அதன்+உடன்>
+அதன் < Demonstrative Adjective > உடன் < Particle > 
+<அதன்+உடன்>
+அது < Pronoun > அன் < Euphonic > உடன் < Associative Case > 
+<அது+அன்+உடன்>
+
+<12>:
+12 < Numbers > 
+<மிளகாய்>:
+மிளகாய் < Noun > 
+<மற்றும்>:
+மற்றும் < Particle > 
+<8>:
+8 < Numbers > 
+<வெள்ளைப்>:
+வெள்ளை < Noun > ப் < Sandhi > 
+<பூண்டு>:
+பூண்டு < Noun > 
+<பற்கள்>:
+பல் < Noun > கள் < Plural Suffix > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<காலை>:
+காலை < DateTime > 
+<மற்றும்>:
+மற்றும் < Particle > 
+<மாலை>:
+மாலை < Noun > 
+<3>:
+3 < Numbers > 
+<நாட்கள்>:
+நாள் < Noun > கள் < Plural Suffix > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 

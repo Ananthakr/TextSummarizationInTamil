@@ -1,0 +1,52 @@
+<﻿புண்>:
+
+<ஆறச்>:
+ஆறு < Noun > அ < Infinitive Suffix > ச் < Sandhi > 
+<ஆறு+அ+ச்>
+
+<சேர்வை>:
+சேர் < Verb > வ் < Future Tense Marker > ஐ < Accusative Case > 
+<சேர்+வ்+ஐ>
+
+<கைப்பு>:
+கைப்பு < Verb > 
+<கைப்பு>
+கைப்பு < Noun > 
+<கைப்பு>
+
+<களிப்பாக்கு>:
+களிப்பாக்கு < Noun > 
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<விட்டரைத்து>:
+
+<வெந்நீரிவிட்டுக்>:
+இ < Past Tense Marker > விட்டு < Postposition > க் < Sandhi > 
+<இ+விட்டு+க்>
+<unknown>
+
+<கழுவி>:
+கழுவு < Verb > இ < Past Tense Marker > 
+<கழுவு+இ>
+
+<துணியில்>:
+துணி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தோய்த்துப்>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<தோய்+த்த்+உ+ப்>
+
+<புண்ணில்>:
+புண் < Noun > ண் < Sandhi > இல் < Locative Case > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,70 @@
+<﻿புண்ணுக்கு>:
+
+<உறட்டி>:
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<இலை>:
+இலை < Noun > 
+<பூலா>:
+ஆ < Clitic > 
+<ஆ>
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<மாவிலங்கம்>:
+<unknown>
+
+<பட்டை>:
+பட்டை < Noun > 
+<துவைத்துச்>:
+வைத்து < Postposition > ச் < Sandhi > 
+<வைத்து+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<சின்னட்டி>:
+
+<அரிசி>:
+அரிசி < Noun > 
+<நனையப்>:
+நனை < Verb > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > ப் < Sandhi > 
+<நனை+ய்+அ+ப்>
+
+<போட்டு>:
+போட்டு < Particle > 
+<மா>:
+மா < Adjective > 
+<மா>
+மா < Noun > 
+<மா>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<சாறுவிட்டுக்>:
+சாறு < Noun > விட்டு < Postposition > க் < Sandhi > 
+<குழைத்து>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<குழை+த்த்+உ>
+
+<சுட்டு>:
+சுட்டு < Verb > 
+<சுட்டு>
+சுட்டு < Noun > 
+<சுட்டு>
+
+<புண்ணில்>:
+புண் < Noun > ண் < Sandhi > இல் < Locative Case > 
+<அணைக்கவும்>:
+அணை < Noun > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அணை+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

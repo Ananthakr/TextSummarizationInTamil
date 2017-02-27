@@ -1,0 +1,65 @@
+<﻿பறங்கிப்>:
+இ < Past Tense Marker > ப் < Sandhi > 
+<இ+ப்>
+<unknown>
+
+<புண்ணுக்குப்>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > ப் < Sandhi > 
+<புகை>:
+புகை < Verb > 
+<புகை>
+புகை < Noun > 
+<புகை>
+
+<ஈயம்>:
+ஈயம் < Noun > 
+<இரசம்>:
+<unknown>
+
+<நவாச்சாரம்>:
+<unknown>
+
+<வெண்காரம்>:
+<unknown>
+
+<பொன்னாரிதாரம்>:
+<unknown>
+
+<சீனி>:
+சீனி < Noun > 
+<சூடம்>:
+சூடம் < Noun > 
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<கஞ்சா>:
+கஞ்சா < Noun > 
+<இலை>:
+இலை < Noun > 
+<ஊமத்தை>:
+ஊமத்தை < Noun > 
+<இலை>:
+இலை < Noun > 
+<முருங்கைத்தோல்>:
+முருங்கை < Noun > த் < Sandhi > தோல் < Noun > 
+<முருங்கை+த்+தோல்>
+<unknown>
+
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<இவைகளைப்>:
+இவைகள் < Pronoun > ஐ < Accusative Case > ப் < Sandhi > 
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+<புகைக்கவும்>:
+புகை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<புகை+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

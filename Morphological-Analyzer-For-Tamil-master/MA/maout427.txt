@@ -1,0 +1,64 @@
+<﻿பேய்நாய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<கடித்தால்>:
+கடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<கடி+த்த்+உ+ஆல்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<களற்சிப்>:
+இ < Past Tense Marker > ப் < Sandhi > 
+<இ+ப்>
+<unknown>
+
+<பருப்பு>:
+பருப்பு < Noun > 
+<பேய்ப்>:
+பேய் < Noun > ப் < Sandhi > 
+<பீர்க்கங்கொட்டை>:
+கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<கொடு+ட்+உ+ஐ>
+<unknown>
+
+<ஊமத்தங்கொட்டை>:
+கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<கொடு+ட்+உ+ஐ>
+<unknown>
+
+<சிற்றகத்திக்>:
+அ < Infinitive Suffix > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > க் < Sandhi > 
+<அ+த்த்+உ+இ+க்>
+<unknown>
+
+<கொட்டை>:
+கொட்டை < Noun > 
+<பேய்மருட்டி>:
+
+<பேய்க்>:
+பேய் < Noun > க் < Sandhi > 
+<கரும்பு>:
+கரும்பு < Noun > 
+<கௌரிபாஷாணம்>:
+<unknown>
+
+<அபின்>:
+அபின் < Noun > 
+<அவுரிச்சாறு>:
+இ < Past Tense Marker > ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+ச்+சா+ற்+உ>
+<unknown>
+
+<விட்டரைத்து>:
+
+<வெற்றிலையில்>:
+வெற்றிலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

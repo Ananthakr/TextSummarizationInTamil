@@ -1,0 +1,106 @@
+<﻿மயில்>:
+ < Adjectival Noun > ய் < Verbal Participle Suffix > இல் < Locative Case > 
+<+ய்+இல்>
+
+<மாணிக்கம்(Ipomea>:
+<Error>
+
+<Quomoclit>:
+<Error>
+
+<க்ஷய>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > 
+<அ+ய்+அ>
+<unknown>
+
+<ரோகம்>:
+ரோகம் < Noun > 
+<காச>:
+காச < Entity > 
+<நோய்>:
+நோய் < Noun > 
+<இவைகளைக்>:
+இவைகள் < Pronoun > ஐ < Accusative Case > க் < Sandhi > 
+<குணப்படுத்தும்>:
+குணப்படுத்து < Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணப்படுத்து+உம்>
+
+<சக்தி>:
+சக்தி < Entity > 
+<இதற்கு>:
+இது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<உண்டு>:
+உண்டு < Finite Verb > 
+<.>:
+<unknown>
+
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<ஒழுக்கினைகூட>:
+ஒழுக்கு < Noun > இன் < Euphonic > ஐ < Accusative Case > கூட < Clitic > 
+<இது>:
+இது < Pronoun > 
+<குணப்படுத்தும்>:
+குணப்படுத்து < Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணப்படுத்து+உம்>
+
+<.>:
+<unknown>
+
+<மயில்>:
+மயில் < Noun > 
+<மாணிக்கம்>:
+மாணிக்கம் < Entity > 
+<இவைகளைக்>:
+இவைகள் < Pronoun > ஐ < Accusative Case > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<மை>:
+மை < Noun > 
+<போல>:
+போல < Particle > 
+<போல>
+போல < Postposition > 
+<போல>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<நெல்லிக்காயளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+நெல்லிக்காய் < Noun > அளவு < Noun > 
+<நெல்லிக்காய்+அளவு>
+
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<அனைத்தும்>:
+அனைத்தும் < Demonstrative Adjective > 
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

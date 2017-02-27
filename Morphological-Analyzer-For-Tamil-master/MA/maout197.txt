@@ -1,0 +1,110 @@
+<﻿முயல்>:
+
+<காது>:
+காது < Noun > 
+<இலை(Ludwigia>:
+<Error>
+
+<Parviflova>:
+<Error>
+
+<எந்த>:
+எந்த < Interrogative Adjective > 
+<வகையான>:
+வகை < Noun > ய் < Sandhi > ஆன < Adjectival Suffix > 
+<வீக்கமும்>:
+வீக்கம் < Noun > உம் < Clitic > 
+<வாட>:
+வாடு < Verb > அ < Relative Participle Suffix > 
+<வாடு+அ>
+
+<எந்த>:
+எந்த < Interrogative Adjective > 
+<வகையில்>:
+வகையில் < Particle > 
+<ஏற்பட்ட>:
+ஏற்பட்டு < Verb > அ < Relative Participle Suffix > 
+<ஏற்பட்டு+அ>
+
+<வீக்கமாக>:
+வீக்கம் < Noun > ஆக < Adverbial Suffix > 
+<வீக்கம்+ஆக>
+
+<இருந்தாலும்>:
+இருந்தாலும் < Conjunction > 
+<முயல்>:
+முயல் < Verb > 
+<முயல்>
+முயல் < Noun > 
+<முயல்>
+
+<காது>:
+காது < Noun > 
+<இலைகளைக்>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<பொடியாக>:
+பொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<பொடி+ய்+ஆக>
+
+<நறுக்கி>:
+நறுக்கு < Verb > இ < Past Tense Marker > 
+<நறுக்கு+இ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<இரண்டு>:
+இரண்டு < charNumbers > 
+<தேக்கரண்டியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<வேப்பெண்ணெயை>:
+வேப்பெண்ணெய் < Noun > ஐ < Accusative Case > 
+<விட்டு>:
+விட்டு < Postposition > 
+<நன்றாக>:
+நன்றாக < Adverb > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<வீக்கத்தின்>:
+வீக்கம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டி>:
+கட்டி < Noun > 
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<வாடிவிடும்>:
+வாடி < Noun > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<வாடி+விடு+உம்>
+
+<.>:
+<unknown>
+

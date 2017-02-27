@@ -1,0 +1,60 @@
+<﻿சிரங்குக்கு>:
+
+<சூரியபுட>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<ட்+உ+அ>
+<unknown>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<வெற்றிலைச்சாறு>:
+வெற்றிலை < Noun > ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வெற்றிலை+ச்+சா+ற்+உ>
+
+<முருக்கிலைச்சாறு>:
+ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ச்+சா+ற்+உ>
+<unknown>
+
+<பாகலிலைச்சாறு>:
+ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ச்+சா+ற்+உ>
+<unknown>
+
+<இயங்கமிலைச்சாறு>:
+ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ச்+சா+ற்+உ>
+<unknown>
+
+<தேசிப்புளி>:
+
+<எண்ணெய்க்குச்>:
+எண்ணெய் < Noun > க்கு < Dative Case > ச் < Sandhi > 
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<பதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<இறக்கவும்>:
+இறக்க < Adjectival Noun > வ் < Sandhi > உம் < Clitic > 
+<இறக்க+வ்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,138 @@
+<﻿திருக்கை>:
+
+<முன்>:
+முன் < Adjective > 
+<முன்>
+முன் < Particle > 
+<முன்>
+முன் < Postposition > 
+<முன்>
+
+<தைத்தால்>:
+தை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<தை+த்த்+உ+ஆல்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<கொவ்வைச்சாறும்>:
+
+<வேப்பெண்ணெயும்>:
+வேப்பெண்ணெய் < Noun > உம் < Clitic > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<விடவும்>:
+விட < Particle > வ் < Sandhi > உம் < Clitic > 
+<.>:
+<unknown>
+
+<கொவ்வையிலையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<வெங்காயமும்>:
+வெங்காயம் < Noun > உம் < Clitic > 
+<கசக்கி>:
+கசக்கு < Verb > இ < Past Tense Marker > 
+<கசக்கு+இ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பிறகு>:
+பிறகு < Postposition > 
+<பிறகு>
+பிறகு < Adverb > 
+<பிறகு>
+பிறகு < Noun > 
+<பிறகு>
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<புண்வாயில்>:
+புண் < Noun > வ் < Future Tense Marker > ஆய் < Second Person Singular Suffix > இல் < Locative Case > 
+<புண்+வ்+ஆய்+இல்>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பின்>:
+பின் < Adjective > 
+<பின்>
+பின் < Postposition > 
+<பின்>
+பின் < Adverb > 
+<பின்>
+பின் < Noun > 
+<பின்>
+
+<கொவ்வைத்>:
+
+<தண்டு>:
+தண்டு < Noun > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<வல்லாரை>:
+வல்லாரை < Noun > 
+<குதிரைவாலி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<துவைத்து>:
+வைத்து < Postposition > 
+<வைத்து>
+<unknown>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

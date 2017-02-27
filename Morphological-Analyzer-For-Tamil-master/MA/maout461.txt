@@ -1,0 +1,38 @@
+<﻿எரிவு>:
+எரி < Auxiliary Verb > வ் < Future Tense Marker > 
+<எரி+வ்>
+<unknown>
+
+<காந்தல்>:
+காந்தல் < Noun > 
+<கொண்ட>:
+கொள் < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<கொள்+ட்+உ+அ>
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<திராய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<வேரைப்>:
+வேர் < Noun > ஐ < Accusative Case > ப் < Sandhi > 
+<பிடுங்கி>:
+பிடுங்கி < Verb > 
+<பொடியாகச்>:
+பொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > ச் < Sandhi > 
+<பொடி+ய்+ஆக+ச்>
+
+<சீவி>:
+சீவி < Verb > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+

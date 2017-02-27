@@ -1,0 +1,42 @@
+<﻿புண்ணுக்கு>:
+
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<துருவி>:
+துருவு < Verb > இ < Past Tense Marker > 
+<துருவு+இ>
+
+<புளியங்கொட்டைத்தோல்>:
+
+<பொடியாக்கி>:
+பொடி < Verb > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<பொடி+ஆக்கு+இ>
+
+<ஒக்க>:
+ஒ < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<ஒ+க்க்+அ>
+
+<விரவி>:
+விரவு < Verb > இ < Past Tense Marker > 
+<விரவு+இ>
+
+<வெய்யிலில்>:
+வெய்யில் < Noun > இல் < Locative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<பிழிந்த>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<பிழி+ந்த்+உ+அ>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 

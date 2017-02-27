@@ -1,0 +1,98 @@
+<﻿மாறாத>:
+
+<கட்டு>:
+கட்டு < Verb > 
+<பிளவை>:
+பிளவை < Noun > 
+<சிலந்திப்புண்கள்>:
+சிலந்தி < Noun > ப் < Sandhi > புண் < Noun > கள் < Plural Suffix > 
+<சிலந்தி+ப்+புண்+கள்>
+<unknown>
+
+<சகலதூக்கும்>:
+சகல < Adjectival Noun > த் < Sandhi > ஊக்கு < Noun > உம் < Clitic > 
+<கைகண்ட>:
+கைகண்ட < Adjective > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<இரசம்>:
+<unknown>
+
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<வகைக்கு->:
+<unknown>
+
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<முருக்கிலைச்சாறு>:
+ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ச்+சா+ற்+உ>
+<unknown>
+
+<முருங்கைப்பட்டைச்>:
+முருங்கை < Noun > ப் < Sandhi > பட்டு < Auxiliary Verb > ஐ < Accusative Case > ச் < Sandhi > 
+<முருங்கை+ப்+பட்டு+ஐ+ச்>
+
+<சாறு>:
+சாறு < Noun > 
+<வெற்றிலைச்சாறு>:
+வெற்றிலை < Noun > ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வெற்றிலை+ச்+சா+ற்+உ>
+
+<குப்பைமேனிச்>:
+குப்பைமேனி < Noun > ச் < Sandhi > 
+<சாறு>:
+சாறு < Noun > 
+<சமமாக>:
+சமம் < Noun > ஆக < Adverbial Suffix > 
+<சமம்+ஆக>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<மெழுகுபதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<கடுகுடன்>:
+கடுகு < Noun > உடன் < Associative Case > 
+<தொட்டுப்பூச>:
+
+<எல்லாம்>:
+எல்லாம் < Demonstrative Adjective > 
+<எல்லாம்>
+எல்லாம் < Postposition > 
+<எல்லாம்>
+
+<சரியாகும்>:
+சரி < Noun > ய் < Sandhi > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<சரி+ய்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

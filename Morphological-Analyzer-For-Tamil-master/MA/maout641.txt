@@ -1,0 +1,194 @@
+<﻿மொலாம்:->:
+<Error>
+
+<லிங்கம்>:
+லிங்கம் < Entity > 
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<முதார்சிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<பூரம்>:
+பூரம் < Noun > 
+<1/4>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<மூன்று>:
+மூன்று < charNumbers > 
+<தினுசை>:
+தினுசு < Noun > ஐ < Accusative Case > 
+<மைபோலரைத்து>:
+
+<படிகாரம்>:
+படிகாரம் < Noun > 
+<கால>:
+கால < Adjectival Noun > 
+<ரிக்காபலம்>:
+<unknown>
+
+<சிறு>:
+சிறு < Adjective > 
+<சிறு>
+சிறு < Verb > 
+<சிறு>
+
+<நெருப்பில்>:
+நெருப்பு < Noun > இல் < Locative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<பொங்கின>:
+பொங்கு < Verb > இன் < Euphonic > அ < Relative Participle Suffix > 
+<பொங்கு+இன்+அ>
+
+<பிறகு>:
+பிறகு < Postposition > 
+<பிறகு>
+பிறகு < Adverb > 
+<பிறகு>
+பிறகு < Noun > 
+<பிறகு>
+
+<சூரணத்துடன்>:
+சூரணம் < Noun > அத்து < Oblique > உடன் < Associative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<நாங்கையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<மைபோலரைத்து>:
+
+<பசும்>:
+பசும் < Adjective > 
+<வெண்ணெய்>:
+வெண்ணெய் < Entity > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<பலம்>:
+பலம் < Noun > 
+<போட்டு>:
+போட்டு < Particle > 
+<நெகிழ>:
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<பரணியில்>:
+பரணி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<வழித்து>:
+வழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வழி+த்த்+உ>
+
+<கொள்ளவும்>:
+அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அ+வ்+உம்>
+<unknown>
+
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<காசிக்கட்டி>:
+காசி < Entity > க் < Sandhi > கட்டு < Auxiliary Verb > இ < Past Tense Marker > 
+<காசி+க்+கட்டு+இ>
+
+<தினுசு>:
+தினுசு < Noun > 
+<ஒன்றுக்கு>:
+ஒன்று < Noun > உக்கு < Dative Case > 
+<கால்பலம்>:
+கால் < Noun > பலம் < Noun > 
+<கால்+பலம்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<யிடிது>:
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<பாத்திரத்தில்>:
+பாத்திரம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<தூளை>:
+தூள் < Noun > ஐ < Accusative Case > 
+<கொட்டி>:
+கொட்டி < Entity > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<அரைபடி>:
+ஐ < Accusative Case > படி < Postposition > 
+<ஐ+படி>
+<unknown>
+
+<ஜலத்திற்கு>:
+ஜலம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<இறக்கி>:
+இறக்கு < Verb > இ < Past Tense Marker > 
+<இறக்கு+இ>
+
+<ரணத்தைக்>:
+ரணம் < Noun > அத்து < Oblique > ஐ < Accusative Case > க் < Sandhi > 
+<கழுவி>:
+கழுவு < Verb > இ < Past Tense Marker > 
+<கழுவு+இ>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<முலாமை>:
+முலாம் < Noun > ஐ < Accusative Case > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<ஆறாத>:
+ஆறு < Noun > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > 
+<ஆறு+அ+ஆது+அ>
+
+<ரணம்>:
+ரணம் < Noun > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

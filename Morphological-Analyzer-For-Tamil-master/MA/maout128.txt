@@ -1,0 +1,161 @@
+<﻿நிலவேம்பு>:
+<unknown>
+
+<முறைக்காய்ச்சல்>:
+முறை < Noun > க் < Sandhi > காய்ச்சல் < Noun > 
+<முறை+க்+காய்ச்சல்>
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<நிலவேம்பு>:
+<unknown>
+
+<கண்டங்கத்திரி>:
+அ < Infinitive Suffix > த் < Sandhi > திரி < Auxiliary Verb > 
+<அ+த்+திரி>
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<ஆகியவற்றை>:
+ஆகிய < Particle > அற்று < Oblique > ஐ < Accusative Case > 
+<தட்டி>:
+தட்டி < Noun > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அடுப்பில்>:
+அடுப்பு < Noun > இல் < Locative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<சுண்டக்காய்ச்சி>:
+
+<3>:
+3 < Numbers > 
+<வேளைக்கு>:
+வேளை < Noun > க்கு < Dative Case > 
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<குழந்தைகளுக்கு>:
+குழந்தை < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<ஏற்படும்>:
+ஏற்படு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஏற்படு+உம்>
+
+<காய்ச்சல்>:
+காய்ச்சல் < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<நில>:
+நில < Entity > 
+<வேம்பு>:
+வேம்பு < Noun > 
+<திப்பிலிசுக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+திப்பிலி < Noun > சுக்கு < Noun > 
+<திப்பிலி+சுக்கு>
+
+<சீந்தில்>:
+சீந்து < Verb > இல் < Locative Case > 
+<சீந்து+இல்>
+
+<கொடி>:
+கொடி < Noun > 
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<டம்ளர்>:
+டம்ளர் < Noun > 
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<சுண்டக்காய்ச்சி>:
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<நாளைக்கு>:
+நாளைக்கு < DateTime > 
+<3>:
+3 < Numbers > 
+<வேளை>:
+வேளை < Noun > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<வடமொழியில்>:
+வடமொழி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<இதற்கு>:
+இது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<காண்டகம்>:
+<unknown>
+
+<என்று>:
+என்று < Conjunction > 
+<என்று>
+என்று < Adverb > 
+<என்று>
+
+<பெயர்>:
+பெயர் < Verb > 
+<பெயர்>
+பெயர் < Noun > 
+<பெயர்>
+
+<.>:
+<unknown>
+

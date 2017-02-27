@@ -1,0 +1,115 @@
+<﻿பறங்கிப்>:
+இ < Past Tense Marker > ப் < Sandhi > 
+<இ+ப்>
+<unknown>
+
+<புண்ணுக்கும்>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > உம் < Clitic > 
+<மாறாத>:
+மாறு < Noun > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > 
+<மாறு+அ+ஆது+அ>
+
+<புண்ணுக்கும்>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > உம் < Clitic > 
+<மருந்து>:
+மருந்து < Noun > 
+<திரிகடுகு>:
+திரி < Noun > கடுகு < Noun > 
+<திரி+கடுகு>
+<unknown>
+
+<திரிபலை>:
+திரி < Verb > ப் < Future Tense Marker > அல் < Relative Participle Suffix > ஐ < Accusative Case > 
+<திரி+ப்+அல்+ஐ>
+
+<கெந்தம்>:
+<unknown>
+
+<சாதிக்காய்>:
+சாதிக்காய் < Noun > 
+<கற்ப்பூரம்>:
+<unknown>
+
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<வெண்காரம்>:
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<வேத்தம்>:
+<unknown>
+
+<விதை>:
+விதை < Verb > 
+<விதை>
+விதை < Noun > 
+<விதை>
+
+<சமமாக>:
+சமம் < Noun > ஆக < Adverbial Suffix > 
+<சமம்+ஆக>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<தூளாக்கி>:
+தூள் < Noun > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<தூள்+ஆக்கு+இ>
+
+<தேசிப்புளி>:
+
+<விட்டு>:
+விட்டு < Postposition > 
+<ஊறப்போட்டு>:
+ஊறு < Verb > அ < Infinitive Suffix > ப் < Sandhi > போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ஊறு+அ+ப்+போடு+ட்+உ>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<குழைத்து>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<குழை+த்த்+உ>
+
+<உண்ணாக்கிற்படாமல்>:
+
+<விழுங்கவும்>:
+விழுங்கு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<விழுங்கு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<7>:
+7 < Numbers > 
+<நாட்களின்>:
+நாள் < Noun > கள் < Plural Suffix > இன் < Genitive Case > 
+<பின்>:
+பின் < Adjective > 
+<பின்>
+பின் < Postposition > 
+<பின்>
+பின் < Adverb > 
+<பின்>
+பின் < Noun > 
+<பின்>
+
+<குளிர்ந்த>:
+குளிர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<குளிர்+ந்த்+உ+அ>
+
+<நீரில்>:
+நீர் < Noun > இல் < Locative Case > 
+<குளிக்கவும்>:
+குளி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<குளி+க்க்+அ+வ்+உம்>
+

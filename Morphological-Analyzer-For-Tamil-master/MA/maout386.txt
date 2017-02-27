@@ -1,0 +1,79 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<வியாதி>:
+வியாதி < Noun > 
+<விரைவில்>:
+விரைவில் < Adverb > 
+<உடைக்க>:
+உடை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<உடை+க்க்+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<உலுவா>:
+வா < Auxiliary Verb > 
+<வா>
+<unknown>
+
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<சமமாக>:
+சமம் < Noun > ஆக < Adverbial Suffix > 
+<சமம்+ஆக>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<கோழிமுட்டை>:
+
+<வெண்கருவை>:
+வ் < Sandhi > ஐ < Accusative Case > 
+<வ்+ஐ>
+<unknown>
+
+<விட்டரைத்து>:
+
+<துணியிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<பூசி>:
+பூசி < Verb > 
+<கட்டின்>:
+கட்டு < Verb > இன் < Genitive Case > 
+<கட்டு+இன்>
+
+<முகம்>:
+முகம் < Particle > 
+<முகம்>
+முகம் < Noun > 
+<முகம்>
+
+<விட்டுப்>:
+விட்டு < Postposition > ப் < Sandhi > 
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<நீங்கி>:
+நீங்கு < Verb > இ < Past Tense Marker > 
+<நீங்கு+இ>
+
+<கட்டும்>:
+கட்டு < Verb > உம் < Clitic > 
+<கட்டு+உம்>
+
+<சிறுக>:
+
+<உடைக்கும்>:
+உடை < Noun > க்கு < Dative Case > உம் < Clitic > 

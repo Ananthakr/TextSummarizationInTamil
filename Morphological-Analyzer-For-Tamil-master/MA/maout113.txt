@@ -1,0 +1,128 @@
+<﻿ஊதுமாந்தத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<கியாழம்>:
+<unknown>
+
+<பொடுதலை>:
+
+<வேம்பு>:
+வேம்பு < Noun > 
+<மாம்புளி>:
+
+<நுணா>:
+நுணா < Entity > 
+<நொச்சி>:
+நொச்சி < Noun > 
+<வேலிப்பருத்தி>:
+
+<இவைகளின்>:
+இவைகள் < Pronoun > இன் < Genitive Case > 
+<யீர்க்கு>:
+ஈர் < Second Person Singular Suffix > க்கு < Dative Case > 
+<ஈர்+க்கு>
+<unknown>
+
+<ஓர்>:
+ஓர் < Adjective > 
+<சமமாக>:
+சமம் < Noun > ஆக < Adverbial Suffix > 
+<சமம்+ஆக>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அதற்கு>:
+அது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<நிகர்>:
+நிகர் < Postposition > 
+<நிகர்>
+நிகர் < Verb > 
+<நிகர்>
+நிகர் < Noun > 
+<நிகர்>
+
+<ஓமம்>:
+<unknown>
+
+<உள்ளி>:
+உள்ளி < Noun > 
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<சேர்த்திடித்து>:
+
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலத்திற்போட்டு>:
+ற் < Past Tense Marker > போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ற்+போடு+ட்+உ>
+<unknown>
+
+<ஆழாக்>:
+ஆ < Clitic > க் < Sandhi > 
+<ஆ+க்>
+<unknown>
+
+<காய்>:
+காய் < Verb > 
+<காய்>
+காய் < Noun > 
+<காய்>
+
+<வற்றக்>:
+வற்று < Verb > அ < Relative Participle Suffix > க் < Sandhi > 
+<வற்று+அ+க்>
+
+<காய்ச்சியக்>:
+காய்ச்சு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > க் < Sandhi > 
+<காய்ச்சு+இ+ய்+அ+க்>
+
+<கியாழத்தை>:
+அத்து < Oblique > ஐ < Accusative Case > 
+<அத்து+ஐ>
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<சங்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<இருவேளையுங்கொடுத்துவர>:
+கொடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<கொடு+த்த்+உ+வா+அ>
+<unknown>
+
+<ஊது>:
+ஊது < Verb > 
+<மாந்தம்>:
+மாந்தம் < Noun > 
+<பேதிமாந்தம்>:
+பேதி < Noun > மாந்தம் < Noun > 
+<பேதி+மாந்தம்>
+
+<இவைகள்>:
+இவைகள் < Pronoun > 
+<சுத்திமாந்தம்>:
+சுத்தி < Noun > மாந்தம் < Noun > 
+<சுத்தி+மாந்தம்>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<இச்சாபத்தியம்>:
+
+<.>:
+<unknown>
+

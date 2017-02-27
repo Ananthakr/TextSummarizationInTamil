@@ -1,0 +1,61 @@
+<﻿வேறு>:
+
+<இரசம்>:
+<unknown>
+
+<5கி.>:
+<unknown>
+
+<கடுகு>:
+கடுகு < Noun > 
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<இயங்கமவேர்>:
+
+<தில்லம்பட்டை>:
+பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<பட்டு+ஐ>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இரசம்>:
+<unknown>
+
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெயில்>:
+எண்ணெய் < Noun > இல் < Locative Case > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வடித்துக்>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<வடி+த்த்+உ+க்>
+
+<கொள்ளவும்>:
+அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அ+வ்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+
+<துணியில்>:
+துணி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தோய்த்துப்>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<தோய்+த்த்+உ+ப்>
+
+<புரையில்>:
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

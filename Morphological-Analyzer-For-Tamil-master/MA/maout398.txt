@@ -1,0 +1,90 @@
+<﻿சகல>:
+
+<கட்டு>:
+கட்டு < Verb > 
+<பிளவை>:
+பிளவை < Noun > 
+<சிலந்தி>:
+சிலந்தி < Noun > 
+<கரப்பன்>:
+கரப்பு < Noun > அ < Relative Participle Suffix > ன் < Past Tense Marker > 
+<கரப்பு+அ+ன்>
+
+<திரட்சிப்புண்>:
+திரட்சி < Noun > ப் < Sandhi > புண் < Noun > 
+<திரட்சி+ப்+புண்>
+<unknown>
+
+<என்பனவற்றுக்குப்>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > அற்று < Oblique > உக்கு < Dative Case > ப் < Sandhi > 
+<என்+ப்+அன+அற்று+உக்கு+ப்>
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<ஓர்>:
+ஓர் < Adjective > 
+<உள்ளிப்பூடு>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ட்+உ>
+<unknown>
+
+<மதுரம்>:
+மதுரம் < Noun > 
+<காண்டைவேர்>:
+
+<களற்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கொடிவேலி>:
+இ < Past Tense Marker > 
+<இ>
+கொடி < Noun > வேலி < Noun > 
+<கொடி+வேலி>
+
+<தயிற்வேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<சமமாக>:
+சமம் < Noun > ஆக < Adverbial Suffix > 
+<சமம்+ஆக>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<சேர்த்துக்>:
+சேர்த்து < Adverb > க் < Sandhi > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<கட்டு>:
+கட்டு < Verb > 
+<வீக்கத்திற்>:
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

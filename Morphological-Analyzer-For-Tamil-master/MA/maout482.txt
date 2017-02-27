@@ -1,0 +1,86 @@
+<﻿பறங்கிப்>:
+இ < Past Tense Marker > ப் < Sandhi > 
+<இ+ப்>
+<unknown>
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<குடிமருந்து>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ந்த்+உ>
+குடி < Noun > மருந்து < Noun > 
+<குடி+மருந்து>
+
+<தேன்பாணி-1>:
+<unknown>
+
+<போத்தல்>:
+போ < Verb > த்த் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<போ+த்த்+அல்>
+
+<நல்லெண்ணெய்->:
+<unknown>
+
+<1>:
+1 < Numbers > 
+<போத்தல்>:
+போ < Verb > த்த் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<போ+த்த்+அல்>
+
+<கோழி>:
+கோழி < Noun > 
+<அவித்த>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<அவி+த்த்+உ+அ>
+
+<தண்ணீர்-1>:
+<unknown>
+
+<போத்தல்>:
+போ < Verb > த்த் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<போ+த்த்+அல்>
+
+<இறைச்சி>:
+இறைச்சி < Noun > 
+<வேப்பந்தோல்>:
+
+<ஊறவைத்து>:
+ஊறு < Noun > அ < Infinitive Suffix > வைத்து < Postposition > 
+<ஊறு+அ+வைத்து>
+
+<ஊறின>:
+ஊறு < Verb > இன் < Euphonic > அ < Relative Participle Suffix > 
+<ஊறு+இன்+அ>
+
+<தண்ணீர்-1>:
+<unknown>
+
+<போத்தல்>:
+போ < Verb > த்த் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<போ+த்த்+அல்>
+
+<இவற்றை>:
+இ < Pronoun > அற்று < Oblique > ஐ < Accusative Case > 
+<ஒன்றாக்கி>:
+ஒன்றாக்கி < charNumbers > 
+<அளவின்>:
+அளவு < Noun > இன் < Genitive Case > 
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+<குடிக்கக்>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > க் < Sandhi > 
+<குடி+க்க்+அ+க்>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

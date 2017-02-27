@@ -1,0 +1,239 @@
+<﻿சம்பங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<சம்பங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கொடியாகப்>:
+கொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > ப் < Sandhi > 
+<கொடி+ய்+ஆக+ப்>
+
+<படரும்>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அ+ட்+அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<பூ>:
+பூ < Noun > 
+<நல்ல>:
+நல்ல < Adjective > 
+<மணமுள்ளதாக>:
+மணம் < Noun > உள்ளது < Finite Verb Suffix > ஆக < Adverbial Suffix > 
+<மணம்+உள்ளது+ஆக>
+
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<விட>:
+விட < Particle > 
+<விட>
+விட < Postposition > 
+<விட>
+
+<பூ>:
+பூ < Noun > 
+<தான்>:
+தான் < Pronoun > 
+<தான்>
+தான் < Particle > 
+<தான்>
+
+<மருத்துவ>:
+மருத்துவ < Adjectival Noun > 
+<குணம்>:
+குணம் < Noun > 
+<நிறைந்தது>:
+நிறை < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > 
+<நிறை+ந்த்+உ+அது>
+
+<.>:
+<unknown>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<வாட>:
+வாடு < Verb > அ < Relative Participle Suffix > 
+<வாடு+அ>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<வேப்ப>:
+
+<எண்ணெயில்>:
+எண்ணெய் < Noun > இல் < Locative Case > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<வீக்கத்தின்>:
+வீக்கம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<கட்டி>:
+கட்டி < Noun > 
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<வாடிவிடும்>:
+வாடி < Noun > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<வாடி+விடு+உம்>
+
+<.>:
+<unknown>
+
+<தலைவலி>:
+தலைவலி < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<சம்பங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பூவை>:
+பூவை < Entity > 
+<நைத்து>:
+நை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நை+த்த்+உ>
+
+<நெற்றிப்>:
+நெற்றி < Noun > ப் < Sandhi > 
+<பொட்டில்>:
+பொட்டு < Noun > இல் < Locative Case > 
+<பற்றுப்>:
+பற்று < Verb > ப் < Sandhi > 
+<பற்று+ப்>
+பற்று < Noun > ப் < Sandhi > 
+<பற்று+ப்>
+
+<போட்டால்>:
+போட்டு < Particle > ஆல் < Instrumental Case > 
+<தலைவலி>:
+தலைவலி < Noun > 
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<நல்ல>:
+நல்ல < Adjective > 
+<பசி>:
+பசி < Verb > 
+<பசி>
+பசி < Noun > 
+<பசி>
+
+<உண்டாக>:
+உண்டாகு < Verb > அ < Infinitive Suffix > 
+<உண்டாகு+அ>
+
+<மலச்சிக்கல்>:
+மலச்சிக்கல் < Noun > 
+<நீங்க>:
+நீங்கு < Verb > அ < Infinitive Suffix > 
+<நீங்கு+அ>
+
+<பயன்படுகிறது>:
+பயன்படு < Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<பயன்படு+கிறு+அது>
+
+<.>:
+<unknown>
+
+<கண்>:
+கண் < Particle > 
+<கண்>
+கண் < Noun > 
+<கண்>
+
+<வலி>:
+வலி < Verb > 
+<வலி>
+வலி < Noun > 
+<வலி>
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<சம்பங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பூக்களைக்>:
+பூ < Noun > க்கள் < Plural Suffix > ஐ < Accusative Case > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<இரவு>:
+இரவு < DateTime > 
+<படுக்கும்>:
+படு < Particle > உக்கு < Dative Case > உம் < Clitic > 
+<முன்>:
+முன் < Adjective > 
+<முன்>
+முன் < Particle > 
+<முன்>
+முன் < Postposition > 
+<முன்>
+
+<கண்களைச்>:
+கண் < Noun > கள் < Plural Suffix > ஐ < Accusative Case > ச் < Sandhi > 
+<சுற்றி>:
+சுற்றி < Postposition > 
+<பற்றுப்>:
+பற்று < Verb > ப் < Sandhi > 
+<பற்று+ப்>
+பற்று < Noun > ப் < Sandhi > 
+<பற்று+ப்>
+
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 

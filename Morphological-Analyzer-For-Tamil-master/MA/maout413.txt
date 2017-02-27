@@ -1,0 +1,64 @@
+<﻿எலும்பு>:
+<unknown>
+
+<முறிவுக்கு>:
+முறிவு < Noun > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<மாவிலங்கம்>:
+<unknown>
+
+<பட்டையைத்>:
+பட்டை < Noun > ய் < Sandhi > ஐ < Accusative Case > த் < Sandhi > 
+<தூளாக்கி>:
+தூள் < Noun > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<தூள்+ஆக்கு+இ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்ட>:
+கட்டு < Verb > அ < Relative Participle Suffix > 
+<கட்டு+அ>
+
+<முறிவு>:
+முறிவு < Noun > 
+<நெரிவு>:
+நெரி < Verb > வ் < Future Tense Marker > 
+<நெரி+வ்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<அத்திவேரை>:
+அத்தி < Noun > வேர் < Verb > ஐ < Accusative Case > 
+<அத்தி+வேர்+ஐ>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<நல்லெண்ணெயில்>:
+நல்லெண்ணெய் < Noun > இல் < Locative Case > 
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<எலும்பு>:
+எலும்பு < Noun > 
+<முறிவு>:
+முறிவு < Noun > 
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

@@ -1,0 +1,143 @@
+<﻿கண்ட>:
+
+
+<மாலைக்கு>:
+மாலை < Noun > க்கு < Dative Case > 
+
+<மேற்பூசுந்>:
+<unknown>
+
+
+<தைலம்>:
+தைலம் < Noun > 
+
+<வேப்பஎண்ணெய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+
+<விராகனிடை>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > ன் < Past Tense Marker > இடு < Auxiliary Verb > ஐ < Accusative Case > 
+<ஆகு+அ+ன்+இடு+ஐ>
+<unknown>
+
+
+<1>:
+1 < Numbers > 
+
+<நற்கிரந்தி>:
+அ < Infinitive Suffix > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<அ+ந்த்+உ+இ>
+<unknown>
+
+
+<1>:
+1 < Numbers > 
+
+<துருசு>:
+<unknown>
+
+
+<1>:
+1 < Numbers > 
+
+<தாரம்>:
+தாரம் < Noun > 
+
+<1>:
+1 < Numbers > 
+
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+
+<1>:
+1 < Numbers > 
+
+<சூதம்>:
+<unknown>
+
+
+<1>:
+1 < Numbers > 
+
+<கெந்தி>:
+கெந்து < Verb > இ < Past Tense Marker > 
+<கெந்து+இ>
+
+
+<1>:
+1 < Numbers > 
+
+<உள்ளி>:
+உள்ளி < Noun > 
+
+<1>:
+1 < Numbers > 
+
+<மேல்கண்ட>:
+மேல் < Noun > கண்ட < Adjective > 
+<மேல்+கண்ட>
+<unknown>
+
+
+<சரக்குகளை>:
+சரக்கு < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+
+<மேற்படி>:
+மேற்படி < Adjective > 
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+
+<விட்டேயரைத்து>:
+
+
+<கரைத்து>:
+கரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+த்த்+உ>
+
+
+<சூரியபுடம்>:
+<unknown>
+
+
+<வைத்தெடுத்து>:
+வை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வை+த்த்+உ+எடு+த்த்+உ>
+
+
+<கோழியிறகினால்>:
+இன் < Euphonic > ஆல் < Instrumental Case > 
+<இன்+ஆல்>
+<unknown>
+
+
+<தடவிக்கொண்டு>:
+தடவு < Verb > இ < Past Tense Marker > க் < Sandhi > கொண்டு < Postposition > 
+<தடவு+இ+க்+கொண்டு>
+
+
+<வரவும்>:
+வரவு < Noun > உம் < Clitic > 
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+
+<சிரங்கிற்கும்>:
+சிரங்கு < Noun > இன் < Euphonic > கு < Dative Case > உம் < Clitic > 
+
+<தடவலாம்>:
+தடவு < Verb > அ < Infinitive Suffix > லாம் < Permissive Suffix > 
+<தடவு+அ+லாம்>
+
+
+<.>:
+<unknown>
+
+

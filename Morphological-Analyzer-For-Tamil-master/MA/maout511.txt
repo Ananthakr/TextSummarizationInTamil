@@ -1,0 +1,68 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<வற்றப்>:
+வற்று < Verb > அ < Relative Participle Suffix > ப் < Sandhi > 
+<வற்று+அ+ப்>
+
+<பாகு>:
+பாகு < Noun > 
+<சுக்கு=120கி>:
+<Error>
+
+<.>:
+<unknown>
+
+<எடுத்துத்>:
+எடுத்து < Adverb > த் < Sandhi > 
+<தூள்>:
+தூள் < Noun > 
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<மருதோன்றி>:
+
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<பட்டையும்>:
+பட்டை < Noun > ய் < Sandhi > உம் < Clitic > 
+<துவைத்து>:
+வைத்து < Postposition > 
+<வைத்து>
+<unknown>
+
+<சாறெடித்து>:
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<பதமாக்கி>:
+ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<ஆக்கு+இ>
+<unknown>
+
+<சுக்குத்தூளும்>:
+சுக்கு < Noun > த் < Sandhi > தூள் < Noun > உம் < Clitic > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கிண்டி>:
+கிண்டி < Entity > 
+<இறக்கிக்>:
+இறக்கு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<இறக்கு+இ+க்>
+
+<கட்டிற்>:
+கட்டி < Noun > ற் < Past Tense Marker > 
+<கட்டி+ற்>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

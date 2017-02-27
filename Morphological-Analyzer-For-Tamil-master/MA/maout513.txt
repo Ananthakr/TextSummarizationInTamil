@@ -1,0 +1,62 @@
+<﻿வேறு>:
+
+<கோழிமுட்டை>:
+
+<வெள்ளைக்கருவை>:
+வ் < Sandhi > ஐ < Accusative Case > 
+<வ்+ஐ>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<சீனக்>:
+சீன < Entity > க் < Sandhi > 
+<காரம்>:
+காரம் < Particle > 
+<காரம்>
+காரம் < Noun > 
+<காரம்>
+
+<ஆமணக்கெண்ணெய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+<என்பவற்றுடன்>:
+அ < Relative Participle Suffix > அற்று < Oblique > உடன் < Associative Case > 
+<அ+அற்று+உடன்>
+<unknown>
+
+<சேர்த்துக்>:
+சேர்த்து < Adverb > க் < Sandhi > 
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<சீலையில்>:
+சீலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தோய்த்துப்>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<தோய்+த்த்+உ+ப்>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<கசடு>:
+கசடு < Noun > 
+<அறுக்கும்>:
+அறு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<அறு+க்க்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,63 @@
+<﻿வேறு>:
+
+<இசங்கம்>:
+<unknown>
+
+<கொழுந்து>:
+கொழுந்து < Noun > 
+<காஞ்சோன்றிக்>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > க் < Sandhi > 
+<ற்+உ+இ+க்>
+<unknown>
+
+<கொழுந்து>:
+கொழுந்து < Noun > 
+<களற்சிக்>:
+இ < Past Tense Marker > க் < Sandhi > 
+<இ+க்>
+<unknown>
+
+<கொழுந்து>:
+கொழுந்து < Noun > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<பூநாறிச்சிராய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<செஞ்சந்தணம்>:
+<unknown>
+
+<கடற்சில்லுப்பருப்பு>:
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<மூன்று>:
+மூன்று < charNumbers > 
+<சாறும்>:
+சாறு < Noun > உம் < Clitic > 
+<விட்டரைத்து>:
+
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்துப்>:
+வைத்து < Particle > ப் < Sandhi > 
+<வைத்து+ப்>
+வைத்து < Postposition > ப் < Sandhi > 
+<வைத்து+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+

@@ -1,0 +1,157 @@
+<﻿சிற்றாமணக்கு>:
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சில>:
+சில < Adjective > 
+<இடங்களில்>:
+இடம் < Noun > கள் < Plural Suffix > இல் < Locative Case > 
+<கூட்டம்>:
+கூட்டம் < Noun > 
+<கூட்டமாக>:
+கூட்டம் < Noun > ஆக < Adverbial Suffix > 
+<கூட்டம்+ஆக>
+
+<வளரும்>:
+வளர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+உம்>
+
+<.>:
+<unknown>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலை>:
+இலை < Noun > 
+<ஆறு>:
+ஆறு < charNumbers > 
+<முனைகளுடன்>:
+முனை < Noun > கள் < Plural Suffix > உடன் < Associative Case > 
+<அகலமாக>:
+அகலம் < Noun > ஆக < Adverbial Suffix > 
+<அகலம்+ஆக>
+
+<ஒன்றுடன்>:
+ஒன்று < Noun > உடன் < Associative Case > 
+<ஒன்று>:
+ஒன்று < charNumbers > 
+<ஒட்டிய>:
+ஒட்டிய < Adjective > 
+<ஒட்டிய>
+ஒட்டிய < Postposition > 
+<ஒட்டிய>
+
+<நிலையில்>:
+நிலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<கொத்து>:
+கொத்து < Verb > 
+<கொத்து>
+கொத்து < Noun > 
+<கொத்து>
+
+<கொத்தாக>:
+கொத்து < Noun > ஆக < Adverbial Suffix > 
+<கொத்து+ஆக>
+
+<காய்>:
+காய் < Verb > 
+<காய்>
+காய் < Noun > 
+<காய்>
+
+<காய்க்கும்>:
+காய் < Noun > க்கு < Dative Case > உம் < Clitic > 
+<.>:
+<unknown>
+
+<உள்ளே>:
+உள்ளே < Adverb > 
+<4>:
+4 < Numbers > 
+<விதைகள்>:
+விதை < Noun > கள் < Plural Suffix > 
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<விதை>:
+விதை < Verb > 
+<விதை>
+விதை < Noun > 
+<விதை>
+
+<பழுப்பு>:
+பழுப்பு < Noun > 
+<நிறமாக>:
+நிறம் < Noun > ஆக < Adverbial Suffix > 
+<நிறம்+ஆக>
+
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<வாட>:
+வாடு < Verb > அ < Relative Participle Suffix > 
+<வாடு+அ>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலையைப்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > ப் < Sandhi > 
+<பொடியாக>:
+பொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<பொடி+ய்+ஆக>
+
+<கிள்ளி>:
+கிள்ளி < Noun > 
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<வேப்ப>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<வீக்கத்தின்>:
+வீக்கம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<தடவ>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > வ் < Sandhi > அ < Relative Participle Suffix > 
+<அ+ட்+உ+அ+வ்+அ>
+<unknown>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 

@@ -1,0 +1,25 @@
+<﻿தேன்கொட்டுக்கு>:
+ன் < Past Tense Marker > கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > உக்கு < Dative Case > 
+<ன்+கொடு+ட்+உ+உக்கு>
+<unknown>
+
+<உள்ளி>:
+உள்ளி < Noun > 
+<தைலத்தில்>:
+தைலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<யிழைத்து>:
+
+<தடவ>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > வ் < Sandhi > அ < Relative Participle Suffix > 
+<அ+ட்+உ+அ+வ்+அ>
+<unknown>
+
+<கொட்டுவாய்>:
+கொட்டுவாய் < Noun > 
+<குளிரும்>:
+குளிர் < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

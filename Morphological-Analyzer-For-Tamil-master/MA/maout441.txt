@@ -1,0 +1,185 @@
+<﻿கட்டுக்குப்>:
+கட்டு < Auxiliary Verb > உக்கு < Dative Case > ப் < Sandhi > 
+<கட்டு+உக்கு+ப்>
+<unknown>
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<இலுப்பை>:
+இலுப்பை < Entity > 
+<வேர்ப்பட்டை>:
+வேர் < Verb > ப் < Sandhi > பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<வேர்+ப்+பட்டு+ஐ>
+
+<குன்றிமணி>:
+குன்றிமணி < Noun > 
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<எருக்கம்>:
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<மாவிலங்கம்>:
+<unknown>
+
+<வேர்ப்பட்டை>:
+வேர் < Verb > ப் < Sandhi > பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<வேர்+ப்+பட்டு+ஐ>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<எலுமிச்சை>:
+எலுமிச்சை < Noun > 
+<புளியிலும்>:
+புளி < Noun > ய் < Sandhi > இல் < Locative Case > உம் < Clitic > 
+<தோடம்புளியிலும்>:
+
+<சின்னட்டி>:
+
+<அரிசிமாவும்>:
+அரிசி < Noun > மா < Noun > வ் < Sandhi > உம் < Clitic > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்துப்>:
+வைத்து < Particle > ப் < Sandhi > 
+<வைத்து+ப்>
+வைத்து < Postposition > ப் < Sandhi > 
+<வைத்து+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<வற்றும்>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வற்று+உம்>
+
+<.>:
+<unknown>
+
+<முள்முருக்கம்>:
+<unknown>
+
+<பட்டை>:
+பட்டை < Noun > 
+<முருங்கைப்பட்டை>:
+முருங்கை < Noun > ப் < Sandhi > பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<முருங்கை+ப்+பட்டு+ஐ>
+
+<பச்சைமஞ்சள்>:
+பச்சை < Noun > மஞ்சள் < Noun > 
+<பச்சை+மஞ்சள்>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<வறுத்துக்>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<வறு+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<மாவிலங்கம்>:
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<ஒதியம்>:
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<சீவித்தூளாக்கி>:
+ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<ஆக்கு+இ>
+<unknown>
+
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொதிப்பித்து>:
+கொதிப்பு < Noun > இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொதிப்பு+இ+த்த்+உ>
+
+<பொன்னிறமாக>:
+பொன்னிறம் < Noun > ஆக < Adverbial Suffix > 
+<பொன்னிறம்+ஆக>
+
+<இறக்கி>:
+இறக்கு < Verb > இ < Past Tense Marker > 
+<இறக்கு+இ>
+
+<கட்டில்>:
+கட்டில் < Noun > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<வாய்பேசாமல்>:
+வாய் < Verb > பேசு < Auxiliary Verb > அ < Infinitive Suffix > ஆமல் < Negative Conditional Suffix Suffix > 
+<வாய்+பேசு+அ+ஆமல்>
+
+<தயிர்வளை>:
+தயிர் < Noun > வ் < Sandhi > அள் < Pronominal Third Person Femine Singular > ஐ < Accusative Case > 
+<தயிர்+வ்+அள்+ஐ>
+
+<இலையைப்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > ப் < Sandhi > 
+<பிடுங்கி>:
+பிடுங்கி < Verb > 
+<கசக்கிக்>:
+கசக்கு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<கசக்கு+இ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+

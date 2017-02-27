@@ -1,0 +1,66 @@
+<﻿பிளவையும்>:
+அ < Infinitive Suffix > வ் < Sandhi > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<அ+வ்+ஐ+ய்+உம்>
+<unknown>
+
+<மருந்தும்>:
+மருந்து < Noun > உம் < Clitic > 
+<பிளவையை>:
+பிளவை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<அறுத்தால்>:
+அறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<அறு+த்த்+உ+ஆல்>
+
+<உப்பு>:
+உப்பு < Verb > 
+<உப்பு>
+உப்பு < Noun > 
+<உப்பு>
+
+<அரைத்துக்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<அரை+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பச்சை>:
+பச்சை < Noun > 
+<நாவி>:
+
+<நிர்விஷம்>:
+<unknown>
+
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<அரைத்துக்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<அரை+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<நகக்காளான்>:
+
+<குளிகை>:
+குளிகை < Noun > 
+<வேப்பெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,216 @@
+<﻿தைவேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<செடிகள்>:
+செடி < Noun > கள் < Plural Suffix > 
+<அடர்ந்து>:
+அடர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அடர்+ந்த்+உ>
+
+<வளர்ந்திருக்கும்>:
+வளர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > இரு < Auxiliary Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+ந்த்+உ+இரு+க்க்+உம்>
+
+<இடங்களில்>:
+இடம் < Noun > கள் < Plural Suffix > இல் < Locative Case > 
+<இதுவும்>:
+இது < Pronoun > வ் < Sandhi > உம் < Clitic > 
+<வளர்ந்திருக்கும்>:
+வளர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > இரு < Auxiliary Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+ந்த்+உ+இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<நாய்>:
+நாய் < Noun > 
+<வேள>:
+வேள் < Entity > அ < Infinitive Suffix > 
+<வேள்+அ>
+
+<இலையைப்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > ப் < Sandhi > 
+<போல>:
+போல < Particle > 
+<போல>
+போல < Postposition > 
+<போல>
+
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<நிறப்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > ப் < Sandhi > 
+<இ+ற்+உ+அ+ப்>
+<unknown>
+
+<பூக்கள்>:
+பூ < Noun > க்கள் < Plural Suffix > 
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<காய்>:
+காய் < Verb > 
+<காய்>
+காய் < Noun > 
+<காய்>
+
+<முற்றிக்>:
+முற்று < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<முற்று+இ+க்>
+
+<காய்த்து>:
+காய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<காய்+த்த்+உ>
+
+<வெடிக்கும்>:
+வெடி < Noun > க்கு < Dative Case > உம் < Clitic > 
+<.>:
+<unknown>
+
+<காதுவலி>:
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<தைவேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+தை < Noun > வேளை < Noun > 
+<தை+வேளை>
+
+<இலையில்>:
+இலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அரைக்>:
+அரை < Verb > க் < Sandhi > 
+<கைப்பிடியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<5>:
+5 < Numbers > 
+<தேக்கரண்டி>:
+தேக்கரண்டி < Noun > 
+<அளவு>:
+அளவு < Noun > 
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<இறக்க>:
+இறக்க < Adjectival Noun > 
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<வடிகட்டி>:
+வடிகட்டி < Noun > 
+<காதுக்கு>:
+காது < Noun > உக்கு < Dative Case > 
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<2>:
+2 < Numbers > 
+<துளிகள்>:
+துளி < Noun > கள் < Plural Suffix > 
+<விட்டு>:
+விட்டு < Postposition > 
+<பஞ்சு>:
+பஞ்சு < Entity > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<அடைக்க>:
+அடை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<அடை+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<இதனால்>:
+இது < Pronoun > அன் < Euphonic > ஆல் < Instrumental Case > 
+<காதில்>:
+காது < Noun > இல் < Locative Case > 
+<சீழ்>:
+சீழ் < Noun > 
+<வடிதல்>:
+வடி < Verb > த் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<வடி+த்+அல்>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<மேலும்>:
+மேலும் < Adjective > 
+<மேலும்>
+மேலும் < Adverb > 
+<மேலும்>
+
+<வயிற்றுப்>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > இற்று < Past Tense Marker > ப் < Sandhi > 
+<அ+ய்+இற்று+ப்>
+<unknown>
+
+<போக்கு>:
+போக்கு < Verb > 
+<போக்கு>
+போக்கு < Noun > 
+<போக்கு>
+
+<நிற்க>:
+நிற்க < Conjunction > 
+<பயன்படுத்தப்படுகிறது>:
+பயன்படுத்து < Verb > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<பயன்படுத்து+அ+ப்+படு+கிறு+அது>
+
+<.>:
+<unknown>
+

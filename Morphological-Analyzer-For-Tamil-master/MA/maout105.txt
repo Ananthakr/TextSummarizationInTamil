@@ -1,0 +1,161 @@
+<﻿தாழையிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<தாழம்>:
+<unknown>
+
+<பூ>:
+பூ < Noun > 
+<பூக்கும்>:
+பூ < Noun > க்கு < Dative Case > உம் < Clitic > 
+<செடிக்குதான்>:
+செடி < Noun > க்கு < Dative Case > தான் < Clitic > 
+<தாழை>:
+தாழை < Noun > 
+<என்று>:
+என்று < Conjunction > 
+<என்று>
+என்று < Adverb > 
+<என்று>
+
+<பெயர்>:
+பெயர் < Verb > 
+<பெயர்>
+பெயர் < Noun > 
+<பெயர்>
+
+<.>:
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<கடலை>:
+கடலை < Noun > 
+<அடுத்தும்>:
+அடுத்து < Adverb > உம் < Clitic > 
+<அடுத்து+உம்>
+
+<ஆறு>:
+ஆறு < charNumbers > 
+<கால்வாய்களிலும்>:
+கால்வாய் < Noun > கள் < Plural Suffix > இல் < Locative Case > உம் < Clitic > 
+<தன்னை>:
+ன் < Past Tense Marker > ஐ < Accusative Case > 
+<ன்+ஐ>
+<unknown>
+
+<ஓலை>:
+ஓலை < Noun > 
+<போல>:
+போல < Particle > 
+<போல>
+போல < Postposition > 
+<போல>
+
+<வளரும்>:
+வளர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+உம்>
+
+<.>:
+<unknown>
+
+<உடல்>:
+உடல் < Noun > 
+<வலி>:
+வலி < Verb > 
+<வலி>
+வலி < Noun > 
+<வலி>
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<பொடியாக>:
+பொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<பொடி+ய்+ஆக>
+
+<நறுக்கி>:
+நறுக்கு < Verb > இ < Past Tense Marker > 
+<நறுக்கு+இ>
+
+<2>:
+2 < Numbers > 
+<கைப்பிடி>:
+கைப்பிடி < Verb > 
+<கைப்பிடி>
+கைப்பிடி < Noun > 
+<கைப்பிடி>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<பானையில்>:
+பானை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<நொச்சி>:
+நொச்சி < Noun > 
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<வாளி>:
+வாளி < Noun > 
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<அடுப்பில்>:
+அடுப்பு < Noun > இல் < Locative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைக்க>:
+வைக்கம் < Entity > 
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<நீர்>:
+நீர் < Pronoun > 
+<நீர்>
+நீர் < Verb > 
+<நீர்>
+நீர் < Noun > 
+<நீர்>
+
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<கலை>:
+கலை < Verb > 
+<கலை>
+கலை < Noun > 
+<கலை>
+
+<மாலை>:
+மாலை < Noun > 
+<குளிக்க>:
+குளி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<குளி+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

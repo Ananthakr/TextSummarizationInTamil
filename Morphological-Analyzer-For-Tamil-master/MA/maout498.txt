@@ -1,0 +1,23 @@
+<﻿தீப்பட்ட>:
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<நீற்றுப்>:
+நீற்று < Verb > ப் < Sandhi > 
+<பூசணிக்காய்ச்>:
+பூசணிக்காய் < Entity > ச் < Sandhi > 
+<சாகமும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<நல்லெண்ணெயும்>:
+நல்லெண்ணெய் < Noun > உம் < Clitic > 
+<சாதித்துப்>:
+சாதி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<சாதி+த்த்+உ+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+

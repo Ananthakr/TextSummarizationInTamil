@@ -1,0 +1,84 @@
+<﻿தண்டு>:
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<விதனம்>:
+<unknown>
+
+<குட்டரோகத்துக்கு>:
+அத்து < Oblique > உக்கு < Dative Case > 
+<அத்து+உக்கு>
+<unknown>
+
+<இடி>:
+இடி < Verb > 
+<இடி>
+இடி < Noun > 
+<இடி>
+
+<மருந்து>:
+மருந்து < Noun > 
+<தென்னம்பூ>:
+<unknown>
+
+<விராலி>:
+விராலி < Entity > 
+<இலை>:
+இலை < Noun > 
+<துவைத்துச்>:
+வைத்து < Postposition > ச் < Sandhi > 
+<வைத்து+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<கற்றாளஞ்>:
+<unknown>
+
+<சோற்றில்>:
+சோறு < Noun > இல் < Locative Case > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கரைத்து>:
+கரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+த்த்+உ>
+
+<உள்ளே>:
+உள்ளே < Adverb > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<மேலுக்கும்>:
+மேல் < Noun > உக்கு < Dative Case > உம் < Clitic > 
+<அந்த>:
+அந்த < Demonstrative Adjective > 
+<விராலி>:
+விராலி < Entity > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<அவித்து>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அவி+த்த்+உ>
+
+<அந்த>:
+அந்த < Demonstrative Adjective > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<வீக்கத்தின்>:
+வீக்கம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<மேலே>:
+மேலே < Adverb > 
+<அணைத்துக்>:
+அணைத்து < Adverb > க் < Sandhi > 
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

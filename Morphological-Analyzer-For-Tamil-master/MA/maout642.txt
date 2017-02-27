@@ -1,0 +1,122 @@
+<﻿ரத்த>:
+அத்து < Oblique > அ < Relative Participle Suffix > 
+<அத்து+அ>
+<unknown>
+
+<சிங்கிற்கு>:
+இன் < Euphonic > கு < Dative Case > 
+<இன்+கு>
+<unknown>
+
+<கருத்த>:
+கருத்த < Adjective > 
+<காரம்>:
+காரம் < Particle > 
+<காரம்>
+காரம் < Noun > 
+<காரம்>
+
+<துணிகந்தை>:
+அ < Infinitive Suffix > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ந்த்+உ+ஐ>
+துணி < Noun > க் < Sandhi > அந்து < Noun > ஐ < Accusative Case > 
+<துணி+க்+அந்து+ஐ>
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<தலைமண்டைஓடு>:
+ஓடு < Associative Case > 
+<ஓடு>
+<unknown>
+
+<1/2>:
+<unknown>
+
+<வசம்புசுட்டகரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1/2>:
+<unknown>
+
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<1/2>:
+<unknown>
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<சுட்டகரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1/2>:
+<unknown>
+
+<சாக்கு>:
+சாக்கு < Noun > 
+<1/2>:
+<unknown>
+
+<பால்துத்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஏழு>:
+ஏழு < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<பஞ்சுபோல்>:
+பஞ்சு < Noun > போல் < Postposition > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<பவுத்திரம்>:
+<unknown>
+
+<பிளவை>:
+பிளவை < Noun > 
+<ரத்தசிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<மூலம்>:
+மூலம் < Postposition > 
+<மூலம்>
+மூலம் < Noun > 
+<மூலம்>
+
+<மூளை>:
+மூளை < Noun > 
+<நோய்>:
+நோய் < Noun > 
+<இவைகளுக்கு>:
+இவைகள் < Pronoun > உக்கு < Dative Case > 
+<மேலேவைத்துக்>:
+மேல் < Noun > ஏ < Clitic > வைத்து < Postposition > க் < Sandhi > 
+<மேல்+ஏ+வைத்து+க்>
+
+<கட்ட>:
+கட்டு < Verb > அ < Relative Participle Suffix > 
+<கட்டு+அ>
+
+<இரணங்களாறும்>:
+
+<மூளைவிழும்>:
+
+<.>:
+<unknown>
+

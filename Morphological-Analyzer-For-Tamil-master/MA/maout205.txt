@@ -1,0 +1,142 @@
+<﻿வாத>:
+வ் < Future Tense Marker > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > 
+<வ்+அ+ஆது+அ>
+<unknown>
+
+<நாராயணன்(Delonix>:
+<Error>
+
+<Regia>:
+<Error>
+
+<வாதம்>:
+வாதம் < Noun > 
+<வாயு>:
+வாயு < Noun > 
+<சம்பந்தமான>:
+சம்பந்தம் < Noun > ஆன < Adjectival Suffix > 
+<கோளாறுகள்>:
+கோள் < Noun > ஆ < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > கள் < Plural Suffix > 
+<கோள்+ஆ+ற்+உ+கள்>
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலைகளைக்>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > க் < Sandhi > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<கக்ஷாயத்தை>:
+அத்து < Oblique > ஐ < Accusative Case > 
+<அத்து+ஐ>
+<unknown>
+
+<காலையிலும்>:
+காலையிலும் < DateTime > 
+<மாலையிலும்>:
+மாலை < Noun > ய் < Sandhi > இல் < Locative Case > உம் < Clitic > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<வாய்வுப்>:
+வாய்வு < Noun > ப் < Sandhi > 
+<பிடிப்பு>:
+பிடிப்பு < Noun > 
+<நீங்க>:
+நீங்கு < Verb > அ < Infinitive Suffix > 
+<நீங்கு+அ>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலைகளை>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<வேப்ப>:
+
+<எண்ணெயில்>:
+எண்ணெய் < Noun > இல் < Locative Case > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<அதைத்>:
+அது < Pronoun > ஐ < Accusative Case > த் < Sandhi > 
+<துணியில்>:
+துணி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<வலியுள்ள>:
+வலி < Noun > ய் < Sandhi > உள்ள < Adjectival Suffix > 
+<வலி+ய்+உள்ள>
+
+<இடத்தில்>:
+இடம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<பாரிச>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<வாய்வு>:
+வாய்வு < Noun > 
+<பிடிப்பு>:
+பிடிப்பு < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலைகளை>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<தண்ணீருடன்>:
+தண்ணீர் < Noun > உடன் < Associative Case > 
+<வேகவைத்து>:
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<மூட்டை>:
+மூட்டை < Noun > 
+<போலக்கட்டி>:
+போல் < Particle > அ < Infinitive Suffix > க் < Sandhi > கட்டு < Auxiliary Verb > இ < Past Tense Marker > 
+<போல்+அ+க்+கட்டு+இ>
+
+<வலியுள்ள>:
+வலி < Noun > ய் < Sandhi > உள்ள < Adjectival Suffix > 
+<வலி+ய்+உள்ள>
+
+<இடத்தில்>:
+இடம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

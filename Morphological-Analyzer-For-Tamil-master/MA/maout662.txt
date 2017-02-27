@@ -1,0 +1,98 @@
+<﻿வேறுமுறை>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<ற்+உ+ஐ>
+<unknown>
+
+<கியாழம்>:
+<unknown>
+
+<வேளைவேர்>:
+வேள் < Noun > ஐ < Accusative Case > வேர் < Verb > 
+<வேள்+ஐ+வேர்>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<1/4>:
+<unknown>
+
+<வெந்தயம்>:
+வெந்தயம் < Noun > 
+<1/4>:
+<unknown>
+
+<வெள்ளைப்>:
+வெள்ளை < Noun > ப் < Sandhi > 
+<பூண்டு>:
+பூண்டு < Noun > 
+<1/4>:
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<1/4>:
+<unknown>
+
+<ஓமம்>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<வறுத்து>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வறு+த்த்+உ>
+
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலத்தில்>:
+ஜலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அடுப்பேற்றி>:
+
+<எட்டொன்றாய்>:
+ற் < Past Tense Marker > ஆய் < Second Person Singular Suffix > 
+<ற்+ஆய்>
+<unknown>
+
+<வற்றக்காய்ச்சியக்>:
+
+<கியாழத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<சங்களவாக>:
+அ < Infinitive Suffix > வா < Auxiliary Verb > க < Infinitive Suffix > 
+<அ+வா+க>
+<unknown>
+
+<இருவேளையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<கொடுத்துவர>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<கொடு+த்த்+உ+வா+அ>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,58 @@
+<﻿புண்ணுக்கு>:
+
+<இராச>:
+இராசு < Entity > அ < Infinitive Suffix > 
+<இராசு+அ>
+
+<சேர்வை>:
+சேர் < Verb > வ் < Future Tense Marker > ஐ < Accusative Case > 
+<சேர்+வ்+ஐ>
+
+<துருசு>:
+<unknown>
+
+<சீனக்காரம்>:
+<unknown>
+
+<வெண்குந்திருக்கம்>:
+<unknown>
+
+<இளம்>:
+இளம் < Adjective > 
+<பாக்குச்சுட்டகரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<வெண்ணெய்>:
+வெண்ணெய் < Entity > 
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<துணியில்>:
+துணி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தடவிப்>:
+தடவு < Verb > இ < Past Tense Marker > ப் < Sandhi > 
+<தடவு+இ+ப்>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+

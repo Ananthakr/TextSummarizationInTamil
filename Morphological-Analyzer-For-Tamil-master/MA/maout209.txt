@@ -1,0 +1,37 @@
+<﻿விளாமரம்(Feronia>:
+<Error>
+
+<Elephantum>:
+<Error>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலைகளை>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<குழந்தைகளின்>:
+குழந்தை < Noun > கள் < Plural Suffix > இன் < Genitive Case > 
+<உடலில்>:
+உடல் < Noun > இல் < Locative Case > 
+<எவ்வித>:
+எவ்வு < Verb > இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<எவ்வு+இ+த்+உ+அ>
+
+<தோல்>:
+தோல் < Verb > 
+<தோல்>
+தோல் < Noun > 
+<தோல்>
+
+<சம்பந்தமான>:
+சம்பந்தம் < Noun > ஆன < Adjectival Suffix > 
+<நோயும்>:
+நோய் < Noun > உம் < Clitic > 
+<படராது>:
+
+<.>:
+<unknown>
+

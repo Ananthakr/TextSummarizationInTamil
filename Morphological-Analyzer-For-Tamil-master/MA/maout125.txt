@@ -1,0 +1,249 @@
+<﻿நாய்வேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<பல>:
+பல < Particle > 
+<செடிகளுக்கு>:
+செடி < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<ஊடேயும்>:
+ய் < Sandhi > உம் < Clitic > 
+<ய்+உம்>
+<unknown>
+
+<தனித்தும்>:
+தனித்து < Adverb > உம் < Clitic > 
+<தனித்து+உம்>
+
+<கூட்டமாகவும்>:
+கூட்டம் < Noun > ஆக < Adverbial Suffix > வ் < Sandhi > உம் < Clitic > 
+<கூட்டம்+ஆக+வ்+உம்>
+
+<வளரும்>:
+வளர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+உம்>
+
+<.>:
+<unknown>
+
+<தைவேளையை>:
+ய் < Sandhi > ஐ < Accusative Case > 
+<ய்+ஐ>
+<unknown>
+
+<ஒத்ததே>:
+ஒத்து < Noun > அது < Genitive Case > ஏ < Clitic > 
+<இதுவும்>:
+இது < Pronoun > வ் < Sandhi > உம் < Clitic > 
+<.>:
+<unknown>
+
+<வெண்மைநிறப்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > ப் < Sandhi > 
+<இ+ற்+உ+அ+ப்>
+<unknown>
+
+<பூக்கள்>:
+பூ < Noun > க்கள் < Plural Suffix > 
+<பூக்கும்>:
+பூ < Noun > க்கு < Dative Case > உம் < Clitic > 
+<.>:
+<unknown>
+
+<குழந்தைகளுக்கு>:
+குழந்தை < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<மாந்தத்தின்>:
+மாந்தம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<போது>:
+போது < Particle > 
+<போது>
+போது < Postposition > 
+<போது>
+போது < Verb > 
+<போது>
+போது < Noun > 
+<போது>
+
+<ஏற்படும்>:
+ஏற்படு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஏற்படு+உம்>
+
+<காய்ச்சல்>:
+காய்ச்சல் < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<நாய்வேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+நாய் < Noun > வேளை < Noun > 
+<நாய்+வேளை>
+
+<தும்பை>:
+தும்பை < Noun > 
+<கஞ்சங்கோரை>:
+ஓர் < Third Person Plural Suffix > ஐ < Accusative Case > 
+<ஓர்+ஐ>
+<unknown>
+
+<ஆதண்டை>:
+
+<துளசி>:
+துளசி < Noun > 
+<ஆடாதொடை>:
+ஆடாதொடை < Noun > 
+<இவைகளில்>:
+இவைகள் < Pronoun > இல் < Locative Case > 
+<கொஞ்சம்>:
+கொஞ்சம் < Adverb > 
+<கொஞ்சம்>
+கொஞ்சம் < Noun > 
+<கொஞ்சம்>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<நைத்து>:
+நை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நை+த்த்+உ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<துண்டு>:
+துண்டு < Noun > 
+<சிற்றரத்தையும்>:
+அத்து < Oblique > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<அத்து+ஐ+ய்+உம்>
+<unknown>
+
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அடுப்பில்>:
+அடுப்பு < Noun > இல் < Locative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<சுண்டக்காய்ச்சி>:
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<பகல்>:
+பகல் < DateTime > 
+<என>:
+என < Particle > 
+<3>:
+3 < Numbers > 
+<வேளையும்>:
+வேளை < Noun > ய் < Sandhi > உம் < Clitic > 
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<மாந்தக்>:
+மாந்த < Adjectival Noun > க் < Sandhi > 
+<காய்ச்சல்>:
+காய்ச்சல் < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<நாய்வேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+நாய் < Noun > வேளை < Noun > 
+<நாய்+வேளை>
+
+<அத்திப்>:
+அத்தி < Noun > ப் < Sandhi > 
+<பழுப்பு>:
+பழுப்பு < Noun > 
+<வேளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பருத்தி>:
+பருத்தி < Noun > 
+<நல்வேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<இவைகளில்>:
+இவைகள் < Pronoun > இல் < Locative Case > 
+<கைப்பிடியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<பாதியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<கசக்கிப்>:
+கசக்கு < Verb > இ < Past Tense Marker > ப் < Sandhi > 
+<கசக்கு+இ+ப்>
+
+<பிழிந்து>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிழி+ந்த்+உ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<வேளைக்கு>:
+வேளை < Noun > க்கு < Dative Case > 
+<ரு>:
+<unknown>
+
+<சங்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

@@ -1,0 +1,99 @@
+<﻿மூத்திரம்>:
+<unknown>
+
+<அடைப்பு>:
+அடைப்பு < Noun > 
+<நிவாரணமாக>:
+நிவாரணம் < Noun > ஆக < Adverbial Suffix > 
+<நிவாரணம்+ஆக>
+
+<மூத்திரம்>:
+மூத்திரம் < Noun > 
+<போகாமல்>:
+அ < Infinitive Suffix > ஆமல் < Negative Conditional Suffix Suffix > 
+<அ+ஆமல்>
+<unknown>
+
+<தடைபட்டிருக்கின்றதற்கு>:
+தடை < Noun > பட்டு < Auxiliary Verb > இரு < Auxiliary Verb > க்கின்று < Present Tense Marker > அதற்கு < Dative Case > 
+<தடை+பட்டு+இரு+க்கின்று+அதற்கு>
+
+<சீலையை>:
+சீலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<சுடு>:
+சுடு < Verb > 
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<தோய்த்து>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தோய்+த்த்+உ>
+
+<வியாதிகாரன்>:
+அ < Infinitive Suffix > ன் < Past Tense Marker > 
+<அ+ன்>
+<unknown>
+
+<சகிக்கத்தக்கதான>:
+
+<சூடுடனே>:
+சூடு < Noun > டன் < Noun > ஏ < Clitic > 
+<வயிற்றின்>:
+வயிறு < Noun > இன் < Genitive Case > 
+<மேலும்>:
+மேலும் < Adjective > 
+<மேலும்>
+மேலும் < Adverb > 
+<மேலும்>
+
+<அடிவயிற்றின்>:
+அடிவயிறு < Noun > இன் < Genitive Case > 
+<மேலும்>:
+மேலும் < Adjective > 
+<மேலும்>
+மேலும் < Adverb > 
+<மேலும்>
+
+<இட்டு>:
+இடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+
+<ஆறிப்>:
+ஆறு < Verb > இ < Past Tense Marker > ப் < Sandhi > 
+<ஆறு+இ+ப்>
+
+<போகிற>:
+போ < Verb > கிறு < Present Tense Marker > அ < Relative Participle Suffix > 
+<போ+கிறு+அ>
+
+<பொழுதெல்லாம்>:
+பொழுது < Noun > எல்லாம் < Clitic > 
+<வேறே>:
+வேறு < Particle > ஏ < Clitic > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சீலையை>:
+சீலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<சுடுதண்ணீரில்>:
+சுடுதண்ணீர் < Noun > இல் < Locative Case > 
+<தோய்த்து>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தோய்+த்த்+உ>
+
+<இப்படி>:
+இப்படி < Particle > 
+<இப்படி>
+இப்படி < Adverb > 
+<இப்படி>
+
+<அடிக்கடி>:
+அடிக்கடி < Adverb > 
+<மாறிமாறி>:
+மாறிமாறி < Adverb > 
+<இடவேண்டும்>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<ட்+உ+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

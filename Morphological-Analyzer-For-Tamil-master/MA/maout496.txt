@@ -1,0 +1,93 @@
+<﻿இரத்த>:
+அத்து < Oblique > அ < Relative Participle Suffix > 
+<அத்து+அ>
+<unknown>
+
+<சலத்துக்கு>:
+சலம் < Noun > அத்து < Oblique > உக்கு < Dative Case > 
+<கவிழ்தும்பை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<வேர்பிடுங்கி>:
+
+<ஒருபாக்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<அரைத்துப்பச்சை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<வெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<குழைத்துக்>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<குழை+த்த்+உ+க்>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பசுப்பாலிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொவ்வை>:
+
+<இலையைப்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > ப் < Sandhi > 
+<பிழிந்து>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிழி+ந்த்+உ>
+
+<கொடுக்கத்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > த் < Sandhi > 
+<கொடு+க்க்+அ+த்>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+
+<வடக்கே>:
+வடக்கு < Noun > ஏ < Clitic > 
+<போகும்>:
+போ < Verb > உம் < Third Future Neuter Singular OR RP > 
+<போ+உம்>
+
+<இயங்கம்வேரை>:
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விடாமல்>:
+விடு < Verb > அ < Infinitive Suffix > ஆமல் < Negative Conditional Suffix Suffix > 
+<விடு+அ+ஆமல்>
+
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<பாலிற்>:
+பாலி < Entity > ற் < Past Tense Marker > 
+<பாலி+ற்>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,91 @@
+<﻿பல்வலி>:
+
+<பல்லரணை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<குத்துக்கு>:
+குத்து < Noun > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<கடுகுரோசனை>:
+அ < Infinitive Suffix > ன் < Past Tense Marker > ஐ < Accusative Case > 
+<அ+ன்+ஐ>
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<சார்க்காரம்>:
+சார் < Noun > க் < Sandhi > காரம் < Noun > 
+<சார்+க்+காரம்>
+
+<கண்டங்கத்திரி>:
+அ < Infinitive Suffix > த் < Sandhi > திரி < Auxiliary Verb > 
+<அ+த்+திரி>
+<unknown>
+
+<ஆவாரைவேர்>:
+
+<ஆவாரம்>:
+<unknown>
+
+<பருப்பு>:
+பருப்பு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தேன்>:
+தேன் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<விட்டரைத்து>:
+
+<உருண்டை>:
+உருண்டை < Noun > 
+<பண்ணி>:
+பண்ணு < Verb > இ < Past Tense Marker > 
+<பண்ணு+இ>
+
+<பல்லடியில்>:
+
+<தேய்த்துவிட்டு>:
+தேய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > விட்டு < Postposition > 
+<தேய்+த்த்+உ+விட்டு>
+
+<கரைந்த>:
+கரை < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<கரை+ந்த்+உ+அ>
+
+<பின்>:
+பின் < Adjective > 
+<பின்>
+பின் < Postposition > 
+<பின்>
+பின் < Adverb > 
+<பின்>
+பின் < Noun > 
+<பின்>
+
+<வெந்நீரால்>:
+ஈர் < Second Person Singular Suffix > ஆல் < Instrumental Case > 
+<ஈர்+ஆல்>
+<unknown>
+
+<வாய்>:
+வாய் < Verb > 
+<வாய்>
+வாய் < Noun > 
+<வாய்>
+
+<கொப்பளிக்கவும்>:
+கொப்பளி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொப்பளி+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

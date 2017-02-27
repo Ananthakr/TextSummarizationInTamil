@@ -1,0 +1,110 @@
+<﻿கண்டமாலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<தொண்டைமாலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<தொண்டைக்கரப்பான்>:
+அ < Infinitive Suffix > ப்ப் < Future Tense Marker > ஆன் < Third Person Masculine Singular Suffix > 
+<அ+ப்ப்+ஆன்>
+<unknown>
+
+<கழுத்தைச்>:
+கழுத்து < Noun > ஐ < Accusative Case > ச் < Sandhi > 
+<சுற்றிய>:
+சுற்று < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<சுற்று+இ+ய்+அ>
+
+<கண்டமாலைக்கு>:
+கண்டமாலை < Noun > க்கு < Dative Case > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<ஓமம்>:
+<unknown>
+
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<வெண்காரம்>:
+<unknown>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5>:
+5 < Numbers > 
+<கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<எருக்கம்பூ>:
+<unknown>
+
+<குப்பைமேனி>:
+குப்பைமேனி < Noun > 
+<மாவிலங்கை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<இல>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<இயங்கம்>:
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<கையாத்தகரை>:
+அர் < Third Person Plural Suffix > ஐ < Accusative Case > 
+<அர்+ஐ>
+<unknown>
+
+<இவற்றின்>:
+இ < Pronoun > அற்று < Oblique > இன் < Genitive Case > 
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<காய்ச்சிக்>:
+காய்ச்சு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<காய்ச்சு+இ+க்>
+
+<கொள்ளவும்>:
+அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அ+வ்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

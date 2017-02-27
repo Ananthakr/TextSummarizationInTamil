@@ -1,0 +1,66 @@
+<﻿அரையாப்புக்குப்>:
+
+<பூச்சு>:
+பூச்சு < Noun > 
+<மருந்து>:
+மருந்து < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பொடுதலை>:
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<காலையில்>:
+காலையில் < DateTime > 
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<நல்லெண்ணயில்>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > இல் < Locative Case > 
+<அ+ய்+இல்>
+<unknown>
+
+<குழைத்துப்>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<குழை+த்த்+உ+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<வெந்நீர்>:
+ஈர் < Second Person Singular Suffix > 
+<ஈர்>
+<unknown>
+
+<குடிக்கவும்>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<குடி+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<சுண்ணாம்பும்>:
+சுண்ணாம்பு < Noun > உம் < Clitic > 
+<தயிரும்>:
+தயிர் < Noun > உம் < Clitic > 
+<குழைத்துப்>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<குழை+த்த்+உ+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

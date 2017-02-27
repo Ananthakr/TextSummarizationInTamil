@@ -1,0 +1,56 @@
+<﻿வாய்க்கிரந்திற்கு>:
+அ < Infinitive Suffix > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > இன் < Euphonic > கு < Dative Case > 
+<அ+ந்த்+உ+இன்+கு>
+<unknown>
+
+<மருந்து>:
+மருந்து < Noun > 
+<நாயுருவிக்>:
+நாயுருவி < Noun > க் < Sandhi > 
+<கொழுந்தும்>:
+கொழுந்து < Noun > உம் < Clitic > 
+<சீரகமும்>:
+சீரகம் < Noun > உம் < Clitic > 
+<இளவெந்நீரில்>:
+ஈர் < Second Person Singular Suffix > இல் < Locative Case > 
+<ஈர்+இல்>
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<நாவில்>:
+
+<தேய்க்கவும்>:
+தேய் < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<தேய்+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<அதன்>:
+அதன் < Demonstrative Adjective > 
+<பிறகு>:
+பிறகு < Postposition > 
+<பிறகு>
+பிறகு < Adverb > 
+<பிறகு>
+பிறகு < Noun > 
+<பிறகு>
+
+<தண்ணீராலே>:
+தண்ணீர் < Noun > ஆல் < Noun > ஏ < Clitic > 
+<வாய்>:
+வாய் < Verb > 
+<வாய்>
+வாய் < Noun > 
+<வாய்>
+
+<கொப்பளிக்கவும்>:
+கொப்பளி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொப்பளி+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

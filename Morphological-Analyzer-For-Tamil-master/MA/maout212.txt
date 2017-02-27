@@ -1,0 +1,72 @@
+<﻿காசத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<மருந்து>:
+மருந்து < Noun > 
+<ஒருபிடி>:
+ஒரு < Adjectival Noun > பிடி < Auxiliary Verb > 
+<ஒரு+பிடி>
+
+<பூனைக்காலி>:
+இ < Past Tense Marker > 
+<இ>
+பூனை < Noun > க் < Sandhi > காலி < Noun > 
+<பூனை+க்+காலி>
+
+<யிலையை>:
+ய் < Sandhi > ஐ < Accusative Case > 
+<ய்+ஐ>
+<unknown>
+
+<பசும்>:
+பசும் < Adjective > 
+<வெண்ணெயில்>:
+வெண்ணெய் < Noun > இல் < Locative Case > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<பாண்டத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<அடுப்பேற்றிக்>:
+
+<கிளறி>:
+கிளறு < Verb > இ < Past Tense Marker > 
+<கிளறு+இ>
+
+<புன்னக்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<பிரமாணம்>:
+பிரமாணம் < Noun > 
+<3-நாள்>:
+ஆள் < Third Person Femime Singular Suffix > 
+<ஆள்>
+<unknown>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<காசரோகமானது>:
+
+<அகன்று>:
+அகல் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அகல்+ற்+உ>
+
+<போகும்>:
+போ < Verb > உம் < Third Future Neuter Singular OR RP > 
+<போ+உம்>
+
+<.>:
+<unknown>
+

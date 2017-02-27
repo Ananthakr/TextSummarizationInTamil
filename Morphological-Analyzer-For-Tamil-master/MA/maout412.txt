@@ -1,0 +1,89 @@
+<﻿சுகபேதிக்கு>:
+த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > க்கு < Dative Case > 
+<த்+உ+இ+க்கு>
+<unknown>
+
+<சுக்கு,காக்கட்டான்>:
+ஆக்கு < Auxiliary Verb > அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ட் < Past Tense Marker > ஆன் < Third Person Masculine Singular Suffix > 
+<ஆக்கு+அ+ட்+உ+ட்+ஆன்>
+<unknown>
+
+<வித்து>:
+வித்து < Noun > 
+<சூரத்து>:
+
+<நிலாவரை,கடுக்காய்,வசம்பு>:
+<unknown>
+
+<சோம்பு>:
+சோம்பு < Verb > 
+<சோம்பு>
+சோம்பு < Noun > 
+<சோம்பு>
+
+<பன்னீர்ப்பூ>:
+பன்னீர் < Noun > ப் < Sandhi > பூ < Noun > 
+<பன்னீர்+ப்+பூ>
+
+<ரெவல்சின்னி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<பலம்>:
+பலம் < Noun > 
+<1,சிவதை>:
+இ < Past Tense Marker > வ் < Future Tense Marker > அது < Neuter OR Pronominal > ஐ < Accusative Case > 
+<இ+வ்+அது+ஐ>
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<பலம்-8>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<சூரணித்து>:
+இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+த்த்+உ>
+<unknown>
+
+<தேக>:
+தேக < Adjectival Noun > 
+<திடமறிந்து>:
+த் < Noun > இடம் < Locative Case > அறு < Verb > இ < Past Tense Marker > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<த்+இடம்+அறு+இ+ந்த்+உ>
+
+<1-அல்லது>:
+ல் < Sandhi > அது < Genitive Case > 
+<ல்+அது>
+<unknown>
+
+<2-வ்ரானிகடை>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ட்+உ+ஐ>
+<unknown>
+
+<வாயிலிட்டு>:
+வாயில் < Noun > இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வாயில்+இடு+ட்+உ>
+
+<வெந்நீருண்ண>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<பேதியாகும்>:
+பேதி < Noun > ய் < Sandhi > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<பேதி+ய்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

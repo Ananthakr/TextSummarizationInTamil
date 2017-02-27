@@ -1,0 +1,161 @@
+<﻿விஷக்கடிகளுக்கு>:
+அ < Infinitive Suffix > க்க் < Sandhi > அடி < Auxiliary Verb > கள் < Plural Suffix > உக்கு < Dative Case > 
+<அ+க்க்+அடி+கள்+உக்கு>
+<unknown>
+
+<தூதுவளைப்பற்பம்>:
+<unknown>
+
+<தூதுவளைச்>:
+தூதுவளை < Noun > ச் < Sandhi > 
+<சமூலம்>:
+அ < Infinitive Suffix > மூலம் < Postposition > 
+<அ+மூலம்>
+<unknown>
+
+<உலர்த்திப்>:
+உலர்த்து < Verb > இ < Past Tense Marker > ப் < Sandhi > 
+<உலர்த்து+இ+ப்>
+
+<பொடிசெய்து>:
+பொடி < Verb > செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+செய்+த்+உ>
+
+<சீலையில்>:
+சீலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அரித்து>:
+அரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரி+த்த்+உ>
+
+<எருமை>:
+எருமை < Noun > 
+<மோரில்>:
+மோர் < Noun > இல் < Locative Case > 
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<பாண்டுரோகம்>:
+<unknown>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+
+<நெய்யில்>:
+நெய் < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தின்ன>:
+தின் < Verb > ன் < Past Tense Marker > அ < Relative Participle Suffix > 
+<தின்+ன்+அ>
+
+<உடல்>:
+உடல் < Noun > 
+<பெருக்கும்>:
+பெருக்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<பெருக்கு+உம்>
+
+<.>:
+<unknown>
+
+<தேனில்>:
+தேன் < Noun > இல் < Locative Case > 
+<தின்ன>:
+தின் < Verb > ன் < Past Tense Marker > அ < Relative Participle Suffix > 
+<தின்+ன்+அ>
+
+<உடல்>:
+உடல் < Noun > 
+<மெலியும்>:
+மெலி < Verb > ய் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<மெலி+ய்+உம்>
+
+<.>:
+<unknown>
+
+<எருமைத்தயிரில்>:
+இல் < Locative Case > 
+<இல்>
+எருமை < Noun > த் < Sandhi > தயிர் < Noun > இல் < Locative Case > 
+<எருமை+த்+தயிர்+இல்>
+
+<தின்ன>:
+தின் < Verb > ன் < Past Tense Marker > அ < Relative Participle Suffix > 
+<தின்+ன்+அ>
+
+<எலிக்கடி>:
+எலி < Noun > க்கு < Dative Case > அடி < Clitic > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+
+<பசு>:
+<unknown>
+
+<வெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<தின்ன>:
+தின் < Verb > ன் < Past Tense Marker > அ < Relative Participle Suffix > 
+<தின்+ன்+அ>
+
+<விஷக்கடி>:
+அ < Infinitive Suffix > க்க் < Sandhi > அடி < Clitic > 
+<அ+க்க்+அடி>
+<unknown>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+
+<விளக்கெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொள்ள>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<முதலைக்>:
+முதலை < Noun > க் < Sandhi > 
+<கடித்தீரும்>:
+கடி < Verb > த் < Past Tense Marker > தீர் < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<கடி+த்+தீர்+உம்>
+
+<.>:
+<unknown>
+
+<காடியிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொள்ள>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<உடல்பெரிவு>:
+எரி < Auxiliary Verb > வ் < Future Tense Marker > 
+<எரி+வ்>
+<unknown>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

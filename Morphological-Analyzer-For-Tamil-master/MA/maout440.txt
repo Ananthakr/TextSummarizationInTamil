@@ -1,0 +1,47 @@
+<﻿கட்டுக்கு>:
+கட்டு < Auxiliary Verb > உக்கு < Dative Case > 
+<கட்டு+உக்கு>
+<unknown>
+
+<உள்>:
+உள் < Postposition > 
+<உள்>
+உள் < Noun > 
+<உள்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<சாரணைக்கிழங்கு>:
+<unknown>
+
+<நல்லதண்ணிக்கிழங்கு>:
+<unknown>
+
+<முருங்கைக்>:
+முருங்கை < Noun > க் < Sandhi > 
+<கொழுந்து>:
+கொழுந்து < Noun > 
+<என்பனவற்றைத்>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > அற்று < Oblique > ஐ < Accusative Case > த் < Sandhi > 
+<என்+ப்+அன+அற்று+ஐ+த்>
+
+<தேங்காய்ப்>:
+தேங்காய் < Noun > ப் < Sandhi > 
+<பாலில்>:
+பால் < Noun > இல் < Locative Case > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<உள்ளுக்குக்>:
+உள்ளுக்கு < Adverb > க் < Sandhi > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<வற்றும்>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வற்று+உம்>
+

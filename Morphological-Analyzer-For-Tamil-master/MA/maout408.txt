@@ -1,0 +1,122 @@
+<﻿முறிவு>:
+
+<நெறிவுக்கு>:
+நெறி < Verb > வ் < Future Tense Marker > உக்கு < Dative Case > 
+<நெறி+வ்+உக்கு>
+
+<மருந்து>:
+மருந்து < Noun > 
+<ஓமம்>:
+<unknown>
+
+<பச்சை>:
+பச்சை < Noun > 
+<மூங்கில்>:
+மூங்கில் < Noun > 
+<தண்டு>:
+தண்டு < Noun > 
+<சீனக்காரம்>:
+<unknown>
+
+<உள்ளி>:
+உள்ளி < Noun > 
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<கருஞ்சீரகம்>:
+கருஞ்சீரகம் < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<முருங்கையிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<எவையெல்லாம்>:
+எவை < Interrogative Noun > ய் < Sandhi > எல்லாம் < Clitic > 
+<ஓரள>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<வாய்க்>:
+வாய் < Verb > க் < Sandhi > 
+<வாய்+க்>
+வாய் < Noun > க் < Sandhi > 
+<வாய்+க்>
+
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<எலுமிச்சங்காயைப்>:
+ஆய் < Second Person Singular Suffix > ஐ < Accusative Case > ப் < Sandhi > 
+<ஆய்+ஐ+ப்>
+<unknown>
+
+<பொடியாக>:
+பொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<பொடி+ய்+ஆக>
+
+<வறுத்துப்>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<வறு+த்த்+உ+ப்>
+
+<போட்டு>:
+போட்டு < Particle > 
+<பொட்டணி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கட்டி>:
+கட்டி < Noun > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<தேவையான>:
+தேவை < Noun > ய் < Sandhi > ஆன < Adjectival Suffix > 
+<போது>:
+போது < Particle > 
+<போது>
+போது < Postposition > 
+<போது>
+போது < Verb > 
+<போது>
+போது < Noun > 
+<போது>
+
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<சட்டியிலூற்றி>:
+
+<கடவைத்து>:
+கடு < Verb > அ < Relative Participle Suffix > வைத்து < Postposition > 
+<கடு+அ+வைத்து>
+
+<பொட்டணியை>:
+இ < Past Tense Marker > ய் < Sandhi > ஐ < Accusative Case > 
+<இ+ய்+ஐ>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<ஒற்றடம்>:
+ஒற்றடம் < Noun > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<நாலுநேரம்>:
+<unknown>
+
+<செய்ய>:
+செய் < Verb > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > 
+<செய்+ய்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 

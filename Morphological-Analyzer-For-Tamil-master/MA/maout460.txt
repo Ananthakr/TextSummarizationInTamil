@@ -1,0 +1,70 @@
+<﻿புண்>:
+
+<அரிக்க>:
+அரி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<அரி+க்க்+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<தென்னங்குருத்தும்>:
+த்த் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<த்த்+உ+உம்>
+<unknown>
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<களற்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<உப்பும்>:
+உப்பு < Noun > உம் < Clitic > 
+<இடித்துக்>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<இடி+த்த்+உ+க்>
+
+<கட்ட>:
+கட்டு < Verb > அ < Relative Participle Suffix > 
+<கட்டு+அ>
+
+<புண்>:
+புண் < Noun > 
+<அரித்துவிடும்>:
+அரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<அரி+த்த்+உ+விடு+உம்>
+
+<.>:
+<unknown>
+
+<தென்னம்>:
+<unknown>
+
+<ஈர்க்குப்>:
+ஈர்க்கு < Noun > ப் < Sandhi > 
+<பொடியாக>:
+பொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<பொடி+ய்+ஆக>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<தேங்காய்ப்பூவும்>:
+தேங்காய்ப்பூ < Noun > வ் < Sandhi > உம் < Clitic > 
+<மஞ்சளும்>:
+மஞ்சள் < Noun > உம் < Clitic > 
+<சேர்த்தரைத்து>:
+
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<குழைத்துப்பூசவும்>:
+
+<.>:
+<unknown>
+

@@ -1,0 +1,224 @@
+<﻿கறிவேப்பிலை(B.N:MURRYA>:
+<Error>
+
+<KOENIGI>:
+<Error>
+
+<உயர்ந்து>:
+உயர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<உயர்+ந்த்+உ>
+
+<வளரும்>:
+வளர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+உம்>
+
+<மர>:
+மர < Verb > 
+<வகையைச்>:
+வகை < Noun > ய் < Sandhi > ஐ < Accusative Case > ச் < Sandhi > 
+<சேர்ந்தது>:
+சேர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > 
+<சேர்+ந்த்+உ+அது>
+
+<இது.ஒரு>:
+<unknown>
+
+<சில>:
+சில < Adjective > 
+<இடங்கள்>:
+இடம் < Noun > கள் < Plural Suffix > 
+<தவிர>:
+தவிர < Postposition > 
+<மற்ற>:
+மற்ற < Adjective > 
+<இடங்களில்>:
+இடம் < Noun > கள் < Plural Suffix > இல் < Locative Case > 
+<4>:
+4 < Numbers > 
+<முதல்>:
+முதல் < Particle > 
+<முதல்>
+முதல் < Postposition > 
+<முதல்>
+முதல் < Noun > 
+<முதல்>
+
+<5>:
+5 < Numbers > 
+<மீட்டர்>:
+மீட்டர் < Noun > 
+<வரை>:
+வரை < Postposition > 
+<வரை>
+வரை < Verb > 
+<வரை>
+
+<சில>:
+சில < Adjective > 
+<கிளைகளுடன்>:
+கிளை < Noun > கள் < Plural Suffix > உடன் < Associative Case > 
+<உயர்ந்து>:
+உயர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<உயர்+ந்த்+உ>
+
+<வளரும்>:
+வளர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+உம்>
+
+<.>:
+<unknown>
+
+<கறிவேப்பிலைக்குத்>:
+க்கு < Dative Case > த் < Sandhi > 
+<க்கு+த்>
+<unknown>
+
+<த்னிப்பட்ட>:
+இ < Past Tense Marker > ப் < Sandhi > பட்டு < Auxiliary Verb > அ < Relative Participle Suffix > 
+<இ+ப்+பட்டு+அ>
+<unknown>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<நல்ல>:
+நல்ல < Adjective > 
+<மணமிருப்பதால்>:
+
+<இதை>:
+இது < Pronoun > ஐ < Accusative Case > 
+<சமையல்>:
+சமையல் < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<அதிக>:
+அதிக < Adjectival Noun > 
+<அளவில்>:
+அளவில் < Particle > 
+<பயன்படுத்தி>:
+பயன்படுத்து < Verb > இ < Past Tense Marker > 
+<பயன்படுத்து+இ>
+
+<வருகின்றனர்>:
+வா < Verb > கின்று < Present Tense Marker > அனர் < Third Person Plural Suffix > 
+<வா+கின்று+அனர்>
+
+<.>:
+<unknown>
+
+<கறிவேப்பிலையில்>:
+ய் < Sandhi > இல் < Locative Case > 
+<ய்+இல்>
+<unknown>
+
+<வைட்டமின்>:
+இன் < Genitive Case > 
+<இன்>
+<unknown>
+
+<உயிர்ச்சத்து>:
+உயிர்ச்சத்து < Noun > 
+<நிறைய>:
+நிறைய < Adjective > 
+<நிறைய>
+நிறைய < Adverb > 
+<நிறைய>
+
+<இருக்கிறது.கறிவேப்பிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<சமையலுக்கு>:
+சமையல் < Noun > உக்கு < Dative Case > 
+<பயன்படுகிறது>:
+பயன்படு < Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<பயன்படு+கிறு+அது>
+
+<போல>:
+போல < Particle > 
+<போல>
+போல < Postposition > 
+<போல>
+
+<சில>:
+சில < Adjective > 
+<வியாதிகளைக்>:
+வியாதி < Noun > கள் < Plural Suffix > ஐ < Accusative Case > க் < Sandhi > 
+<குணப்படுத்தவும்>:
+குணப்படுத்து < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<குணப்படுத்து+அ+வ்+உம்>
+
+<பயன்படுகிறது>:
+பயன்படு < Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<பயன்படு+கிறு+அது>
+
+<.>:
+<unknown>
+
+<சீதபேதி>:
+சீதபேதி < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<கறிவேப்பிலையை>:
+ய் < Sandhi > ஐ < Accusative Case > 
+<ய்+ஐ>
+<unknown>
+
+<மைபோல>:
+மை < Noun > போல < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கொட்டை>:
+கொட்டை < Noun > 
+<பாக்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரை>:
+அரை < Verb > 
+<டம்ளர்>:
+டம்ளர் < Noun > 
+<அளவு>:
+அளவு < Noun > 
+<எருமைத்>:
+எருமை < Noun > த் < Sandhi > 
+<தயிருடன்>:
+தயிர் < Noun > உடன் < Associative Case > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<காலை>:
+காலை < DateTime > 
+<வேளையில்>:
+வேளை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<மட்டும்>:
+மட்டும் < Particle > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<சீதபேதி>:
+சீதபேதி < Noun > 
+<படிபடியாக>:
+படி < Noun > ப் < Sandhi > அடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<படி+ப்+அடி+ய்+ஆக>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

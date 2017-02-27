@@ -1,0 +1,69 @@
+<﻿இருமல்>:
+<unknown>
+
+<சுவாசத்திற்கு>:
+சுவாசம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<கியாழம்>:
+<unknown>
+
+<தூதுவளை>:
+தூதுவளை < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<சங்கங்குப்பி>:
+
+<1/4>:
+<unknown>
+
+<அதிமதுரம்>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலத்தில்>:
+ஜலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<காற்படியாக>:
+
+<வற்றக்காய்ச்சி>:
+
+<3-நாள்>:
+ஆள் < Third Person Femime Singular Suffix > 
+<ஆள்>
+<unknown>
+
+<6-வேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<இருமல்>:
+இருமல் < Noun > 
+<சுவாசகாசம்>:
+சுவாச < Adjectival Noun > காசம் < Noun > 
+<சுவாச+காசம்>
+
+<இவைகள்>:
+இவைகள் < Pronoun > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

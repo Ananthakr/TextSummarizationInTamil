@@ -1,0 +1,70 @@
+<﻿மேகம்>:
+<unknown>
+
+<21-க்கும்>:
+21-க்கும் < charNumbers > 
+<மருந்து>:
+மருந்து < Noun > 
+<வேளை>:
+வேளை < Noun > 
+<யொன்றுக்கு>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > உக்கு < Dative Case > 
+<ற்+உ+உக்கு>
+<unknown>
+
+<கால்>:
+கால் < Particle > 
+<கால்>
+கால் < Noun > 
+<கால்>
+
+<பலம்>:
+பலம் < Noun > 
+<சிறுக்றிஞ்சான்>:
+ஆன் < Third Person Masculine Singular Suffix > 
+<ஆன்>
+<unknown>
+
+<வேரையெடுத்து>:
+ய் < Sandhi > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ய்+எடு+த்த்+உ>
+<unknown>
+
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரித்து>:
+அரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரி+த்த்+உ>
+
+<ஆழாக்கு>:
+ஆழாக்கு < Noun > 
+<தேங்காய்பாலில்>:
+தேங்காய்பால் < Noun > இல் < Locative Case > 
+<கரைத்து>:
+கரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+த்த்+உ>
+
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<காலையில்>:
+காலையில் < DateTime > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<மேகம்>:
+மேகம் < Noun > 
+<இருபத்தொன்றுந்>:
+<unknown>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<இச்சாபத்தியம்>:
+
+<.>:
+<unknown>
+

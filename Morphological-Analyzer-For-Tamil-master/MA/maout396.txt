@@ -1,0 +1,80 @@
+<﻿முரசு>:
+
+<வீங்கினால்>:
+வீங்கு < Verb > இன் < Euphonic > ஆல் < Instrumental Case > 
+<வீங்கு+இன்+ஆல்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<பச்சைக்>:
+பச்சை < Noun > க் < Sandhi > 
+<கழுதை>:
+கழுதை < Noun > 
+<லத்தியும்>:
+லத்தி < Noun > ய் < Sandhi > உம் < Clitic > 
+<களற்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<செந்தவிடும்>:
+இ < Past Tense Marker > ட் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<இ+ட்+உ+உம்>
+<unknown>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<சிறு>:
+சிறு < Adjective > 
+<சிறு>
+சிறு < Verb > 
+<சிறு>
+
+<நீரில்>:
+நீர் < Noun > இல் < Locative Case > 
+<வறுத்து>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வறு+த்த்+உ>
+
+<வீக்கத்தில்>:
+வீக்கம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<ஒத்திப்>:
+ஒத்தி < Noun > ப் < Sandhi > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பின்>:
+பின் < Adjective > 
+<பின்>
+பின் < Postposition > 
+<பின்>
+பின் < Adverb > 
+<பின்>
+பின் < Noun > 
+<பின்>
+
+<அதையே>:
+அது < Pronoun > ஐ < Accusative Case > ய் < Sandhi > ஏ < Clitic > 
+<வீக்கத்தில்>:
+வீக்கம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

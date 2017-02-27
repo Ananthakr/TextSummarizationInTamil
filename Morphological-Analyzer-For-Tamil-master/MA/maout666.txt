@@ -1,0 +1,113 @@
+<﻿வேறுவித>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<இ+த்+உ+அ>
+<unknown>
+
+<பொன்சிகப்பு>:
+பொன் < Noun > சிகப்பு < Noun > 
+<பொன்+சிகப்பு>
+<unknown>
+
+<காரசீலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<லிகிதம்>:
+லிகிதம் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1>:
+1 < Numbers > 
+<காவிச்சீலை>:
+ஐ < Accusative Case > 
+<ஐ>
+காவி < Noun > ச் < Sandhi > சீலை < Noun > 
+<காவி+ச்+சீலை>
+
+<1>:
+1 < Numbers > 
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<1>:
+1 < Numbers > 
+<வெள்ளைபாஷாணம்>:
+வெள்ளை < Noun > பாஷாணம் < Noun > 
+<வெள்ளை+பாஷாணம்>
+
+<1>:
+1 < Numbers > 
+<சங்கு>:
+சங்கு < Noun > 
+<1>:
+1 < Numbers > 
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஐந்து>:
+ஐந்து < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<அதற்கு>:
+அது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<சமனக>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<சீலைசேர்த்து>:
+சீல் < Noun > ஐ < Accusative Case > சேர் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சீல்+ஐ+சேர்+த்த்+உ>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<ப்டித்து>:
+இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+த்த்+உ>
+<unknown>
+
+<மூளைகள்>:
+மூளை < Noun > கள் < Plural Suffix > 
+<மீதுவைத்துக்>:
+மீது < Particle > வைத்து < Postposition > க் < Sandhi > 
+<கட்ட>:
+கட்டு < Verb > அ < Relative Participle Suffix > 
+<கட்டு+அ>
+
+<மூளயானது>:
+
+<வெளிவந்துவிடும்>:
+வெளிவா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<வெளிவா+ந்த்+உ+விடு+உம்>
+
+<பொன்சிகப்பு>:
+பொன் < Noun > சிகப்பு < Noun > 
+<பொன்+சிகப்பு>
+<unknown>
+
+<நிறமுள்ள>:
+நிறம் < Noun > உள்ள < Adjectival Suffix > 
+<நிறம்+உள்ள>
+
+<இரணங்கள்>:
+இரணம் < Noun > கள் < Plural Suffix > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<பழைய>:
+பழைய < Adjective > 
+<துணிகந்தையைச்>:
+
+<சேர்க்க>:
+சேர் < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<சேர்+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

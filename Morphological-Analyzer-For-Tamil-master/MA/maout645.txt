@@ -1,0 +1,85 @@
+<﻿வாதபித்தகணகத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<கியாழம்>:
+<unknown>
+
+<சீரகம்>:
+சீரகம் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<வில்வத்திரி>:
+வில்வ < Adjectival Noun > த் < Sandhi > திரி < Auxiliary Verb > 
+<வில்வ+த்+திரி>
+
+<1/4>:
+<unknown>
+
+<வெங்காயம்>:
+வெங்காயம் < Noun > 
+<1/4>:
+<unknown>
+
+<வெந்தயம்>:
+வெந்தயம் < Noun > 
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<வெதிப்பி>:
+
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலத்தில்>:
+ஜலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அடுப்பேற்றி>:
+
+<எட்டொன்றாய்>:
+ற் < Past Tense Marker > ஆய் < Second Person Singular Suffix > 
+<ற்+ஆய்>
+<unknown>
+
+<வற்றக்காய்ச்சி>:
+
+<வடிந்த>:
+வடி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<வடி+ந்த்+உ+அ>
+
+<கியாழத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<சங்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<வாதபித்தகணம்>:
+<unknown>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

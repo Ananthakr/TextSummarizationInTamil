@@ -1,0 +1,81 @@
+<﻿இருமல்>:
+<unknown>
+
+<க்ஷயத்திற்கு>:
+க்ஷயம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<கியாழம்>:
+<unknown>
+
+<இஞ்சி>:
+இஞ்சி < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<வெள்ளெருக்கன்பூ>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<மிளகு>:
+மிளகு < Noun > 
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<தட்டிபோட்டு>:
+தட்டு < Verb > இ < Past Tense Marker > போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தட்டு+இ+போடு+ட்+உ>
+
+<அரைப்படி>:
+படி < Postposition > 
+<படி>
+<unknown>
+
+<ஜலம்விட்டு>:
+ஜலம் < Noun > விட்டு < Postposition > 
+<அரைக்>:
+அரை < Verb > க் < Sandhi > 
+<கால்>:
+கால் < Particle > 
+<கால்>
+கால் < Noun > 
+<கால்>
+
+<படியாக>:
+படி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<படி+ய்+ஆக>
+
+<வற்றக்காய்ச்சி>:
+
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<இருவேளையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<3-நாள்>:
+ஆள் < Third Person Femime Singular Suffix > 
+<ஆள்>
+<unknown>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<இருமல்>:
+இருமல் < Noun > 
+<க்ஷயந்தீரும்>:
+அ < Infinitive Suffix > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > ந்த் < Past Tense Marker > ஈர் < Second Person Singular Suffix > உம் < Clitic > 
+<அ+ய்+அ+ந்த்+ஈர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

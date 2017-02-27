@@ -1,0 +1,150 @@
+<﻿கொருக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+<unknown>
+
+<முதலிய>:
+முதலிய < Adjective > 
+<புண்களிக்கு>:
+இ < Past Tense Marker > க்கு < Dative Case > 
+<இ+க்கு>
+புண் < Noun > களி < Noun > க்கு < Dative Case > 
+<புண்+களி+க்கு>
+
+<மேற்பூசும்>:
+
+<முலாம்>:
+முலாம் < Noun > 
+<மிருதாருசிங்கு>:
+<unknown>
+
+<விராகனிகடை>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ட்+உ+ஐ>
+<unknown>
+
+<11/2>:
+<unknown>
+
+<கெந்தி>:
+கெந்து < Verb > இ < Past Tense Marker > 
+<கெந்து+இ>
+
+<11/2>:
+<unknown>
+
+<பூரம்>:
+பூரம் < Noun > 
+<11/4>:
+<unknown>
+
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<11/4>:
+<unknown>
+
+<பால்துத்தம்>:
+<unknown>
+
+<11/4>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஜந்து>:
+ஜந்து < Noun > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்துக்>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<நிறு+த்த்+உ+எடு+த்த்+உ+க்>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<தேங்கா>:
+தேங்கு < Verb > ஆ < Clitic > 
+<தேங்கு+ஆ>
+
+<நெய்>:
+நெய் < Verb > 
+<நெய்>
+நெய் < Noun > 
+<நெய்>
+
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<முறைய்ய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+<ஏழு>:
+ஏழு < charNumbers > 
+<தரம்>:
+தரம் < Noun > 
+<ஜலங்>:
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கழுவி>:
+கழுவு < Verb > இ < Past Tense Marker > 
+<கழுவு+இ>
+
+<விழித்தெடுத்து>:
+விழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<விழி+த்த்+உ+எடு+த்த்+உ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<அரையாப்பு>:
+
+<கொருக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+<unknown>
+
+<முதலிய>:
+முதலிய < Adjective > 
+<இரனங்களுக்கு>:
+கள் < Plural Suffix > உக்கு < Dative Case > 
+<கள்+உக்கு>
+<unknown>
+
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

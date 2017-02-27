@@ -1,0 +1,124 @@
+<﻿வேறுவித>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<இ+த்+உ+அ>
+<unknown>
+
+<பச்சை>:
+பச்சை < Noun > 
+<காரம்>:
+காரம் < Particle > 
+<காரம்>
+காரம் < Noun > 
+<காரம்>
+
+<மிருந்தாருசிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<சங்கு>:
+சங்கு < Noun > 
+<1/2>:
+<unknown>
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<1/2>:
+<unknown>
+
+<கருங்கிலியம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<நாலு>:
+<unknown>
+
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<அதற்கு>:
+அது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<சமனக>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<துணிசேர்த்து>:
+துணி < Noun > சேர் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<துணி+சேர்+த்த்+உ>
+
+<இடித்துப்>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<இடி+த்த்+உ+ப்>
+
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+<பரங்கிப்>:
+இ < Past Tense Marker > ப் < Sandhi > 
+<இ+ப்>
+<unknown>
+
+<புத்து>:
+த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<த்த்+உ>
+<unknown>
+
+<பிளவை>:
+பிளவை < Noun > 
+<பவுத்திரம்>:
+<unknown>
+
+<ஆறாத>:
+ஆறு < Noun > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > 
+<ஆறு+அ+ஆது+அ>
+
+<இரணங்கள்>:
+இரணம் < Noun > கள் < Plural Suffix > 
+<இவைகளுக்கு>:
+இவைகள் < Pronoun > உக்கு < Dative Case > 
+<மேலே>:
+மேலே < Adverb > 
+<போட்டு>:
+போட்டு < Particle > 
+<உபயோகித்துவர>:
+உபயோகி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<உபயோகி+த்த்+உ+வா+அ>
+
+<குளிர்ச்சியாகவிருக்கும்>:
+குளிர்ச்சி < Noun > ய் < Sandhi > ஆகு < Auxiliary Verb > அ < Infinitive Suffix > வ் < Sandhi > இரு < Auxiliary Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<குளிர்ச்சி+ய்+ஆகு+அ+வ்+இரு+க்க்+உம்>
+
+<மேற்கூறிய>:
+மேற்கூறிய < Adjective > 
+<விரணங்கள்>:
+கள் < Plural Suffix > 
+<கள்>
+<unknown>
+
+<ஆறி>:
+ஆறு < Verb > இ < Past Tense Marker > 
+<ஆறு+இ>
+
+<விடும்>:
+விடு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<விடு+உம்>
+
+<.>:
+<unknown>
+

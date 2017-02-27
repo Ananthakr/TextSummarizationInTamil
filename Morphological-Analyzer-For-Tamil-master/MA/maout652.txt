@@ -1,0 +1,80 @@
+<﻿வெட்டிவேர்>:
+
+<தைலம்>:
+தைலம் < Noun > 
+<புதினா>:
+புதினா < Noun > 
+<வெட்டிவேர்>:
+வெட்டிவேர் < Noun > 
+<பலம்பத்து>:
+
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<உரலிலிட்டுயிடித்துப்பதற்கு>:
+
+<நீரில்>:
+நீர் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அடுப்பேற்றி>:
+
+<யெட்டொன்றாய்>:
+ற் < Past Tense Marker > ஆய் < Second Person Singular Suffix > 
+<ற்+ஆய்>
+<unknown>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<நாழிவிட்டு>:
+நாழி < Noun > விட்டு < Postposition > 
+<ஒருபலம்>:
+ஒரு < Adjectival Noun > பலம் < Noun > 
+<ஒரு+பலம்>
+
+<அதிமதுரத்தை>:
+அத்து < Oblique > ஐ < Accusative Case > 
+<அத்து+ஐ>
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கலக்கி>:
+கலக்கு < Verb > இ < Past Tense Marker > 
+<கலக்கு+இ>
+
+<மெழுகுபதமாக>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > 
+<ஆகு+அ>
+<unknown>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வைத்துக்கொண்டு>:
+வைத்து < Particle > க் < Sandhi > கொண்டு < Postposition > 
+<மூழ்கி>:
+மூழ்கு < Verb > இ < Past Tense Marker > 
+<மூழ்கு+இ>
+
+<வரவேண்டும்>:
+வரவேள் < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<வரவேள்+ட்+உ+உம்>
+
+<.>:
+<unknown>
+

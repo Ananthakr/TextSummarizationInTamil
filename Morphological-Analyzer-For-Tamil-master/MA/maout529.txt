@@ -1,0 +1,74 @@
+<﻿அரையாப்புக்கு>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கருஞ்சீரகம்>:
+கருஞ்சீரகம் < Noun > 
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<கிளாவேர்>:
+
+<முல்லைவேர்>:
+முல் < Noun > ல் < Sandhi > ஐ < Accusative Case > வேர் < Verb > 
+<முல்+ல்+ஐ+வேர்>
+
+<கொடிவேலிவேர்>:
+
+<எருக்கம்வேர்>:
+
+<தயிர்வேலிவேர்>:
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5கி.>:
+<unknown>
+
+<சரக்குகள்>:
+சரக்கு < Noun > கள் < Plural Suffix > 
+<வேர்வகை>:
+வேர் < Noun > வகு < Verb > ஐ < Accusative Case > 
+<வேர்+வகு+ஐ>
+
+<என்பனவற்றை>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > அற்று < Oblique > ஐ < Accusative Case > 
+<என்+ப்+அன+அற்று+ஐ>
+
+<எலுமிச்சம்புளி>:
+
+<விட்டரைத்து>:
+
+<நல்லெண்ணெயுடன்>:
+நல்லெண்ணெய் < Noun > உடன் < Associative Case > 
+<சேர்த்துக்>:
+சேர்த்து < Adverb > க் < Sandhi > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<மெழுகுபதம்>:
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<உள்ளுக்குக்>:
+உள்ளுக்கு < Adverb > க் < Sandhi > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+

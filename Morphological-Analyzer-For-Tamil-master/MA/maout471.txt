@@ -1,0 +1,80 @@
+<﻿புண்ணுக்குக்>:
+
+<காரமும்>:
+காரம் < Noun > உம் < Clitic > 
+<ஓடு>:
+ஓடு < Verb > 
+<ஓடு>
+ஓடு < Noun > 
+<ஓடு>
+
+<எண்ணெயும்>:
+எண்ணெய் < Noun > உம் < Clitic > 
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<பொரிகாரம்>:
+பொரி < Noun > காரம் < Noun > 
+<பொரி+காரம்>
+
+<மனோசிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<தாரம்>:
+தாரம் < Noun > 
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<சமமாக>:
+சமம் < Noun > ஆக < Adverbial Suffix > 
+<சமம்+ஆக>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<பசுவின்>:
+வ் < Sandhi > இன் < Genitive Case > 
+<வ்+இன்>
+<unknown>
+
+<நெய்யில்>:
+நெய் < Noun > ய் < Sandhi > இல் < Locative Case > 
+<குழைத்துப்>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<குழை+த்த்+உ+ப்>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<துணியில்>:
+துணி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<தோய்த்துப்>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<தோய்+த்த்+உ+ப்>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<தயிரும்>:
+தயிர் < Noun > உம் < Clitic > 
+<சோறும்>:
+சோறு < Noun > உம் < Clitic > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+

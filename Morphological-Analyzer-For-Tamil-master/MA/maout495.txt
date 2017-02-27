@@ -1,0 +1,33 @@
+<﻿தண்டால்>:
+
+<இரத்தம்>:
+இரத்தம் < Noun > 
+<விழுவதற்கு>:
+விழு < Verb > வ் < Future Tense Marker > அதற்கு < Dative Case > 
+<விழு+வ்+அதற்கு>
+
+<செவ்வரத்தம்>:
+<unknown>
+
+<பூவைப்>:
+பூவை < Noun > ப் < Sandhi > 
+<பூவை+ப்>
+பூவை < Entity > ப் < Sandhi > 
+<பூவை+ப்>
+
+<பசுப்பாலில்>:
+இல் < Locative Case > 
+<இல்>
+<unknown>
+
+<அரைத்துக்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<அரை+த்த்+உ+க்>
+
+<குடிக்கவும்>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<குடி+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

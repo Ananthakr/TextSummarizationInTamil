@@ -1,0 +1,36 @@
+<﻿தண்டுப்>:
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<கன்னிக்>:
+கன்னி < Noun > க் < Sandhi > 
+<கோழிமுட்டையும்>:
+
+<காசுக்கட்டியும்>:
+காசு < Noun > க் < Sandhi > கட்டி < Noun > ய் < Sandhi > உம் < Clitic > 
+<பொடி>:
+பொடி < Verb > 
+<பொடி>
+பொடி < Noun > 
+<பொடி>
+
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<புண்ணிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

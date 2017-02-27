@@ -1,0 +1,53 @@
+<﻿வாய்ப்>:
+வ் < Future Tense Marker > ஆய் < Second Person Singular Suffix > ப் < Sandhi > 
+<வ்+ஆய்+ப்>
+<unknown>
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<வெளுத்தற்பிசின்>:
+இன் < Genitive Case > 
+<இன்>
+<unknown>
+
+<குதிரைவாலி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<வேலிப்பருத்திவேர்>:
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தேன்>:
+தேன் < Noun > 
+<விட்டரைத்து>:
+
+<வாயில்>:
+வாயில் < Noun > 
+<அடக்கிவர>:
+அடக்கு < Verb > இ < Past Tense Marker > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<அடக்கு+இ+வா+அ>
+
+<வாய்ப்புண்>:
+வாய் < Noun > ப் < Sandhi > புண் < Noun > 
+<வாய்+ப்+புண்>
+<unknown>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

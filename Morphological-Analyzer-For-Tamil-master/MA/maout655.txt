@@ -1,0 +1,90 @@
+<﻿வெள்ளெழுத்துக்கு>:
+எழு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > உக்கு < Dative Case > 
+<எழு+த்த்+உ+உக்கு>
+<unknown>
+
+<1-படி>:
+படி < Postposition > 
+<படி>
+<unknown>
+
+<பாலில்>:
+பால் < Noun > இல் < Locative Case > 
+<1-படி>:
+படி < Postposition > 
+<படி>
+<unknown>
+
+<தண்ணீர்விட்டு>:
+தண்ணீர் < Noun > விட்டு < Postposition > 
+<40-மிளகை>:
+
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<போட்டு>:
+போட்டு < Particle > 
+<கலக்கிக்>:
+கலக்கு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<கலக்கு+இ+க்>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வெண்ணெயை>:
+வெண்ணெய் < Noun > ஐ < Accusative Case > 
+<யெடுத்து>:
+எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<எடு+த்த்+உ>
+<unknown>
+
+<கல்வலத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<பணவெடை>:
+பண < Adjectival Noun > வ் < Sandhi > எடு < Auxiliary Verb > ஐ < Accusative Case > 
+<பண+வ்+எடு+ஐ>
+
+<கற்பூரமும்>:
+கற்பூரம் < Noun > உம் < Clitic > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<நெகிழ>:
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<சிமிழியில்>:
+
+<பத்திரப்படுத்தி>:
+பத்திரப்படுத்து < Verb > இ < Past Tense Marker > 
+<பத்திரப்படுத்து+இ>
+
+<கொஞ்சங்கொஞ்சமாய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<கண்ணுக்குயிட்டு>:
+க்க் < Sandhi > ய் < Verbal Participle Suffix > இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<க்க்+ய்+இடு+ட்+உ>
+<unknown>
+
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<நல்லது>:
+நல்லது < Noun > 
+<.>:
+<unknown>
+

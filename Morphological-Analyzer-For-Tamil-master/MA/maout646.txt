@@ -1,0 +1,72 @@
+<﻿வாந்தி>:
+வா < Auxiliary Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<வா+ந்த்+உ+இ>
+<unknown>
+
+<நிற்க>:
+நிற்க < Conjunction > 
+<கியாழம்>:
+<unknown>
+
+<நெல்லியீர்க்கு>:
+இ < Past Tense Marker > ய் < Sandhi > ஈர் < Second Person Singular Suffix > க்கு < Dative Case > 
+<இ+ய்+ஈர்+க்கு>
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<1/4>:
+<unknown>
+
+<சீரகம்>:
+சீரகம் < Noun > 
+<1/4>:
+<unknown>
+
+<நெற்பொரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<சலத்தில்>:
+சலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<கால்படியாக>:
+கால் < Noun > ப் < Sandhi > அடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<கால்+ப்+அடி+ய்+ஆக>
+
+<வற்றக்காய்ச்சி>:
+
+<3-நாள்>:
+ஆள் < Third Person Femime Singular Suffix > 
+<ஆள்>
+<unknown>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வாந்தி>:
+வாந்தி < Noun > 
+<நிற்கும்>:
+நில் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நில்+உம்>
+
+<.>:
+<unknown>
+

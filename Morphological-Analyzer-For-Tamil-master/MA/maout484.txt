@@ -1,0 +1,55 @@
+<﻿திருவடிப்புண்>:
+
+<பறங்கிப்புண்>:
+பறங்கி < Noun > ப் < Sandhi > புண் < Noun > 
+<பறங்கி+ப்+புண்>
+<unknown>
+
+<வேறும்>:
+வேறு < Particle > உம் < Clitic > 
+<புண்கள்>:
+புண் < Noun > கள் < Plural Suffix > 
+<மாறச்>:
+மாறு < Noun > அ < Infinitive Suffix > ச் < Sandhi > 
+<மாறு+அ+ச்>
+
+<சேர்வை>:
+சேர் < Verb > வ் < Future Tense Marker > ஐ < Accusative Case > 
+<சேர்+வ்+ஐ>
+
+<இரசம்>:
+<unknown>
+
+<மஞ்சாடி>:
+சா < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<சா+ட்+உ+இ>
+<unknown>
+
+<குந்திருக்கம்>:
+<unknown>
+
+<வகை>:
+வகை < Noun > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<ஊமத்தஞ்சாறு>:
+சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சா+ற்+உ>
+<unknown>
+
+<விட்டரைத்து>:
+
+<துணியிற்றடவி>:
+
+<புண்ணில்>:
+புண் < Noun > ண் < Sandhi > இல் < Locative Case > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

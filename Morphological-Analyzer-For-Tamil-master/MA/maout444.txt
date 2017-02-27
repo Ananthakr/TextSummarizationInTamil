@@ -1,0 +1,80 @@
+<﻿கட்டுக்குப்>:
+கட்டு < Auxiliary Verb > உக்கு < Dative Case > ப் < Sandhi > 
+<கட்டு+உக்கு+ப்>
+<unknown>
+
+<பூச்சு>:
+பூச்சு < Noun > 
+<மருந்து>:
+மருந்து < Noun > 
+<சுண்ணாம்பும்>:
+சுண்ணாம்பு < Noun > உம் < Clitic > 
+<எருமை>:
+எருமை < Noun > 
+<வெண்ணெய்>:
+வெண்ணெய் < Entity > 
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<பூடு>:
+பூ < Noun > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பூ+ட்+உ>
+
+<மூன்றும்>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<ற்+உ+உம்>
+<unknown>
+
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<வற்றும்>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வற்று+உம்>
+
+<.>:
+<unknown>
+
+<வெள்ளைக்>:
+வெள்ளை < Noun > க் < Sandhi > 
+<கல்லைத்தட்டி>:
+
+<பொடிபண்ணி>:
+பொடி < Verb > பண்ணு < Auxiliary Verb > இ < Past Tense Marker > 
+<பொடி+பண்ணு+இ>
+
+<7>:
+7 < Numbers > 
+<மிளகும்>:
+மிளகு < Noun > உம் < Clitic > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<ஊமத்தங்காய்ச்>:
+ஆய் < Second Person Singular Suffix > ச் < Sandhi > 
+<ஆய்+ச்>
+<unknown>
+
+<சாறுவிட்டு>:
+சாறு < Noun > விட்டு < Postposition > 
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<பூசக்>:
+பூசு < Verb > அ < Infinitive Suffix > க் < Sandhi > 
+<பூசு+அ+க்>
+
+<கட்டு>:
+கட்டு < Verb > 
+<வற்றும்>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வற்று+உம்>
+

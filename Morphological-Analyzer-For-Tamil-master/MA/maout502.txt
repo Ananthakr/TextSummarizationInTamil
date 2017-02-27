@@ -1,0 +1,35 @@
+<﻿வீக்கத்துக்குப்>:
+அத்து < Oblique > உக்கு < Dative Case > ப் < Sandhi > 
+<அத்து+உக்கு+ப்>
+<unknown>
+
+<பத்து>:
+பத்து < charNumbers > 
+<வெள்ளைப்>:
+வெள்ளை < Noun > ப் < Sandhi > 
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<குன்றி>:
+குன்று < Verb > இ < Past Tense Marker > 
+<குன்று+இ>
+
+<மணி>:
+மணி < Entity > 
+<எருக்கம்>:
+<unknown>
+
+<பாலில்>:
+பால் < Noun > இல் < Locative Case > 
+<உரைத்துப்>:
+உரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<உரை+த்த்+உ+ப்>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

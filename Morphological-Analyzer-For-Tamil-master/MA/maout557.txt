@@ -1,0 +1,147 @@
+<﻿புரைச்>:
+ஐ < Accusative Case > ச் < Sandhi > 
+<ஐ+ச்>
+<unknown>
+
+<சதை>:
+சதை < Noun > 
+<யுண்ணுந்திரி>:
+திரி < Auxiliary Verb > 
+<திரி>
+<unknown>
+
+<மயிதுத்தம்>:
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<பால்துத்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<1/2>:
+<unknown>
+
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<1/2>:
+<unknown>
+
+<நீலம்>:
+நீலம் < Noun > 
+<1/2>:
+<unknown>
+
+<கெந்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<இஅந்த>:
+அ < Infinitive Suffix > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<அ+ந்த்+உ+அ>
+<unknown>
+
+<ஆறு>:
+ஆறு < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<பச்சை>:
+பச்சை < Noun > 
+<வெட்டாக>:
+வெட்டு < Noun > ஆக < Adverbial Suffix > 
+<வெட்டு+ஆக>
+
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<இளநீர்>:
+இளநீர் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<சீலையில்>:
+சீலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<ஊட்டி>:
+ஊட்டி < Entity > 
+<சதையை>:
+சதை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<தின்றுகொண்டு>:
+தின் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > கொண்டு < Postposition > 
+<தின்+ற்+உ+கொண்டு>
+
+<போகும்>:
+போ < Verb > உம் < Third Future Neuter Singular OR RP > 
+<போ+உம்>
+
+<புரையில்>:
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<சீலையை>:
+சீலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<திரிசெய்து>:
+திரி < Verb > செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<திரி+செய்+த்+உ>
+
+<புரைக்குள்யேற்றி>:
+
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<சதையை>:
+சதை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<கரைத்து>:
+கரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+த்த்+உ>
+
+<புரை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<ரிணத்தை>:
+அத்து < Oblique > ஐ < Accusative Case > 
+<அத்து+ஐ>
+<unknown>
+
+<கூடிய>:
+கூடு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<கூடு+இ+ய்+அ>
+
+<சீக்கிரத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<ஆற்றி>:
+ஆற்று < Verb > இ < Past Tense Marker > 
+<ஆற்று+இ>
+
+<உலர்த்திவிடும்>:
+உலர்த்து < Verb > இ < Past Tense Marker > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<உலர்த்து+இ+விடு+உம்>
+
+<.>:
+<unknown>
+

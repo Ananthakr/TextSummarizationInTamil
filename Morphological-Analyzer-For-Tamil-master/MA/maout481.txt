@@ -1,0 +1,95 @@
+<﻿மோகப்புண்>:
+
+<கரப்பான்>:
+கரப்பான் < Noun > 
+<விதனம்>:
+<unknown>
+
+<எரிவு>:
+எரி < Verb > வ் < Future Tense Marker > 
+<எரி+வ்>
+
+<சிதல்>:
+சிதல் < Noun > 
+<இரத்தம்>:
+இரத்தம் < Noun > 
+<பாய்தல்>:
+பாய் < Verb > த் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<பாய்+த்+அல்>
+
+<முதலியவற்றிற்குப்>:
+
+<பற்பம்>:
+<unknown>
+
+<சீனப்பாகு—5கி.>:
+<unknown>
+
+<கெந்தம்>:
+<unknown>
+
+<சாதிக்காய்>:
+சாதிக்காய் < Noun > 
+<சாதிபத்திரி>:
+அ < Relative Participle Suffix > த் < Sandhi > திரி < Auxiliary Verb > 
+<அ+த்+திரி>
+<unknown>
+
+<முருங்கைப்பூ>:
+முருங்கை < Noun > ப் < Sandhi > பூ < Noun > 
+<முருங்கை+ப்+பூ>
+
+<கொடிவேலிவேர்>:
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<அரித்து>:
+அரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரி+த்த்+உ>
+
+<வெரிகடிப்>:
+அடி < Clitic > ப் < Sandhi > 
+<அடி+ப்>
+<unknown>
+
+<பிரமாணம்>:
+பிரமாணம் < Noun > 
+<அந்தி>:
+அந்தி < Noun > 
+<சந்தி>:
+சந்தி < Verb > 
+<சந்தி>
+சந்தி < Noun > 
+<சந்தி>
+
+<பசுநெய்யும்>:
+ய் < Verbal Participle Suffix > ய் < Sandhi > உம் < Clitic > 
+<ய்+ய்+உம்>
+<unknown>
+
+<சர்க்கரையும்>:
+சர்க்கரை < Noun > ய் < Sandhi > உம் < Clitic > 
+<கூட்டிக்>:
+கூட்டு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<கூட்டு+இ+க்>
+
+<குழைத்துத்>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > த் < Sandhi > 
+<குழை+த்த்+உ+த்>
+
+<தின்னவும்>:
+தின் < Verb > ன் < Past Tense Marker > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<தின்+ன்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

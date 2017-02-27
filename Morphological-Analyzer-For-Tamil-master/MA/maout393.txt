@@ -1,0 +1,46 @@
+<﻿நாக்குப்>:
+
+<பிளவைக்கு>:
+பிளவை < Noun > க்கு < Dative Case > 
+<விட்டுனுகிராந்திச்>:
+
+<சமூலம்>:
+அ < Infinitive Suffix > மூலம் < Postposition > 
+<அ+மூலம்>
+<unknown>
+
+<பசுப்பாலில்>:
+இல் < Locative Case > 
+<இல்>
+<unknown>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<தேற்றான்>:
+தேறு < Verb > ற் < Past Tense Marker > ஆன் < Third Person Masculine Singular Suffix > 
+<தேறு+ற்+ஆன்>
+
+<வேரும்>:
+வேர் < Noun > உம் < Clitic > 
+<கருப்பட்டியும்>:
+கருப்பட்டி < Noun > ய் < Sandhi > உம் < Clitic > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<சேர்த்துக்>:
+சேர்த்து < Adverb > க் < Sandhi > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

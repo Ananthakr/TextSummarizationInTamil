@@ -1,0 +1,70 @@
+<﻿புண்ணுக்குச்>:
+
+<சேர்வை>:
+சேர் < Verb > வ் < Future Tense Marker > ஐ < Accusative Case > 
+<சேர்+வ்+ஐ>
+
+<பருத்தியிலைச்>:
+ஐ < Accusative Case > ச் < Sandhi > 
+<ஐ+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<முருக்கிலைச்>:
+ஐ < Accusative Case > ச் < Sandhi > 
+<ஐ+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<வார்த்து>:
+வார்த்து < DateTime > 
+<மெழுகு>:
+மெழுகு < Verb > 
+<மெழுகு>
+மெழுகு < Noun > 
+<மெழுகு>
+
+<உருக்கி>:
+உருக்கு < Verb > இ < Past Tense Marker > 
+<உருக்கு+இ>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<புண்ணிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<அந்தி>:
+அந்தி < Noun > 
+<சந்தி>:
+சந்தி < Verb > 
+<சந்தி>
+சந்தி < Noun > 
+<சந்தி>
+
+<புண்ணைக்>:
+புண் < Noun > ண் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<கழுவி>:
+கழுவு < Verb > இ < Past Tense Marker > 
+<கழுவு+இ>
+
+<சேர்வை>:
+சேர் < Verb > வ் < Future Tense Marker > ஐ < Accusative Case > 
+<சேர்+வ்+ஐ>
+
+<மாற்றவும்>:
+மாற்று < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<மாற்று+அ+வ்+உம்>
+

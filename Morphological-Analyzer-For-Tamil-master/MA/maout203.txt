@@ -1,0 +1,83 @@
+<﻿மூக்கிரட்டை(Boerhavia>:
+<Error>
+
+<Diffusa>:
+<Error>
+
+<‘புனர்வாழ்வு’>:
+
+<‘ரத்த>:
+அத்து < Oblique > அ < Relative Participle Suffix > 
+<அத்து+அ>
+<unknown>
+
+<புஷ்பிகா’>:
+ஆ < Clitic > க் < Sandhi > 
+<ஆ+க்>
+<unknown>
+
+<எனவும்>:
+என < Particle > வ் < Sandhi > உம் < Clitic > 
+<அழைக்கப்படுகிறது>:
+அழை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<அழை+க்க்+அ+ப்+படு+கிறு+அது>
+
+<.>:
+<unknown>
+
+<இடுப்புவலி>:
+இடுப்புவலி < Noun > 
+<மூட்டுவலி>:
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<வேரை>:
+வேர் < Noun > ஐ < Accusative Case > 
+<வெட்டி>:
+வெட்டி < Noun > 
+<நைத்து>:
+நை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நை+த்த்+உ>
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<சுண்டக்>:
+சுண்டு < Verb > அ < Relative Participle Suffix > க் < Sandhi > 
+<சுண்டு+அ+க்>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<இரண்டாகப்>:
+இரண்டாகப் < charNumbers > 
+<பிரித்து>:
+பிரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிரி+த்த்+உ>
+
+<காலையும்>:
+காலையும் < DateTime > 
+<மாலையுமாக>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > 
+<ஆகு+அ>
+<unknown>
+
+<3>:
+3 < Numbers > 
+<நாட்களுக்கு>:
+நாள் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

@@ -1,0 +1,95 @@
+<﻿தந்தம்>:
+<unknown>
+
+<கன்னத்தில்>:
+கன்னம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<திரண்ட>:
+திரண்ட < Adjective > 
+<கட்டு>:
+கட்டு < Verb > 
+<சன்னிவலி>:
+
+<முறிந்து>:
+முறி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<முறி+ந்த்+உ>
+
+<இரு>:
+இரு < Adjective > 
+<இரு>
+இரு < Verb > 
+<இரு>
+
+<புறத்தில்>:
+புறம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<தந்தத்திற்>:
+
+<கட்டு>:
+கட்டு < Verb > 
+<வியாதிகளுக்கு>:
+வியாதி < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<முடக்கொத்தான்>:
+
+<இலை>:
+இலை < Noun > 
+<கீழ்க்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+கீழ் < Noun > க் < Sandhi > காய் < Noun > 
+<கீழ்+க்+காய்>
+
+<நெல்லி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தட்டி>:
+தட்டி < Noun > 
+<முலைப்பால்>:
+முல் < Noun > ஐ < Accusative Case > ப்பு < Verb > ஆல் < Instrumental Case > 
+<முல்+ஐ+ப்பு+ஆல்>
+
+<விட்டரைத்துப்>:
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<விதனம்>:
+<unknown>
+
+<கடுப்புதிரட்சி>:
+இ < Past Tense Marker > 
+<இ>
+கடுப்பு < Noun > திரட்சி < Noun > 
+<கடுப்பு+திரட்சி>
+
+<எல்லாம்>:
+எல்லாம் < Demonstrative Adjective > 
+<எல்லாம்>
+எல்லாம் < Postposition > 
+<எல்லாம்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

@@ -1,0 +1,77 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<வற்ற>:
+வற்று < Verb > அ < Relative Participle Suffix > 
+<வற்று+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<எருக்கம்பாலில்>:
+இல் < Locative Case > 
+<இல்>
+<unknown>
+
+<குன்றிமணிப்>:
+குன்றிமணி < Noun > ப் < Sandhi > 
+<பருப்பை>:
+பருப்பு < Noun > ஐ < Accusative Case > 
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<பூசக்கட்டு>:
+பூசு < Verb > அ < Infinitive Suffix > க் < Sandhi > கட்டு < Auxiliary Verb > 
+<பூசு+அ+க்+கட்டு>
+
+<வற்றும்>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வற்று+உம்>
+
+<நோவும்>:
+நோவு < Noun > உம் < Clitic > 
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<எருக்கம்>:
+<unknown>
+
+<பாலில்>:
+பால் < Noun > இல் < Locative Case > 
+<வெள்ளைப்பாஷாணம்>:
+வெள்ளை < Noun > ப் < Sandhi > பாஷாணம் < Noun > 
+<வெள்ளை+ப்+பாஷாணம்>
+
+<குன்றி>:
+குன்று < Verb > இ < Past Tense Marker > 
+<குன்று+இ>
+
+<மணிப்பருப்பு>:
+
+<என்பனவற்றைச்>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > அற்று < Oblique > ஐ < Accusative Case > ச் < Sandhi > 
+<என்+ப்+அன+அற்று+ஐ+ச்>
+
+<சேர்த்தரைத்து>:
+
+<முகம்விட்டுப்பூச>:
+
+<சகல>:
+சகல < Adjectival Noun > 
+<கட்டு>:
+கட்டு < Verb > 
+<பிளவை>:
+பிளவை < Noun > 
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<நோவு>:
+நோவு < Noun > 
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

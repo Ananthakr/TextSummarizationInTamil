@@ -1,0 +1,106 @@
+<﻿புண்வியாதி>:
+
+<சகலதுக்கும்>:
+
+<பற்பம்>:
+<unknown>
+
+<சீனப்பாக்கு-120கி.>:
+<unknown>
+
+<இரசம்>:
+<unknown>
+
+<லிங்கம்>:
+லிங்கம் < Entity > 
+<குரோசானி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<நெல்லிக்காய்க்>:
+நெல்லிக்காய் < Noun > க் < Sandhi > 
+<கெந்தம்>:
+<unknown>
+
+<மாயாக்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<அக்கரா>:
+அர் < Third Person Plural Suffix > ஆ < Clitic > 
+<அர்+ஆ>
+
+<நொச்சிவேர்>:
+நொச்சி < Noun > வேர் < Verb > 
+<நொச்சி+வேர்>
+
+<குப்பைமேனி>:
+குப்பைமேனி < Noun > 
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<அரித்து>:
+அரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரி+த்த்+உ>
+
+<7>:
+7 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<அந்தி>:
+அந்தி < Noun > 
+<சந்தி>:
+சந்தி < Verb > 
+<சந்தி>
+சந்தி < Noun > 
+<சந்தி>
+
+<வெந்நீரினில்>:
+ஈர் < Second Person Singular Suffix > இன் < Euphonic > இல் < Locative Case > 
+<ஈர்+இன்+இல்>
+<unknown>
+
+<கொள்ளவும்>:
+அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அ+வ்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+
+<பின்>:
+பின் < Adjective > 
+<பின்>
+பின் < Postposition > 
+<பின்>
+பின் < Adverb > 
+<பின்>
+பின் < Noun > 
+<பின்>
+
+<குளிர்ந்த>:
+குளிர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<குளிர்+ந்த்+உ+அ>
+
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<முழுகவும்>:
+முழுகு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<முழுகு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

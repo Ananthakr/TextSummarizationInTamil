@@ -1,0 +1,56 @@
+<﻿ஆறாத>:
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<எள்ளு>:
+<unknown>
+
+<மஞ்சலிஞ்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<வேப்பிலை>:
+வேப்பிலை < Entity > 
+<தெள்ளிதாகவே>:
+இ < Past Tense Marker > தா < Auxiliary Verb > க < Infinitive Suffix > வ் < Sandhi > ஏ < Clitic > 
+<இ+தா+க+வ்+ஏ>
+<unknown>
+
+<தேனிற்>:
+தேனி < Entity > ற் < Past Tense Marker > 
+<தேனி+ற்>
+
+<குத்திட>:
+குத்திடு < Verb > அ < Relative Participle Suffix > 
+<குத்திடு+அ>
+
+<உள்ளசீழும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<ஒழுகிய>:
+ஒழுகு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<ஒழுகு+இ+ய்+அ>
+
+<புண்களும்>:
+புண் < Noun > கள் < Plural Suffix > உம் < Clitic > 
+<கள்ளமின்றி>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<ற்+உ+இ>
+<unknown>
+
+<எந்த>:
+எந்த < Interrogative Adjective > 
+<மலைகளும்>:
+மலை < Noun > கள் < Plural Suffix > உம் < Clitic > 
+<வற்றுமே>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > ஏ < Clitic > 
+<வற்று+உம்+ஏ>
+
+<.>:
+<unknown>
+

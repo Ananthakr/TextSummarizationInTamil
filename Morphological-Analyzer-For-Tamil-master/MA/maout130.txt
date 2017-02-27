@@ -1,0 +1,178 @@
+<﻿கரிசாலங்கண்ணி(B.N:ECLIPTA>:
+<Error>
+
+<ALBA>:
+<Error>
+
+<காமாலை>:
+காமாலை < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<கரிசலாங்கண்ணி>:
+கரிசலாங்கண்ணி < Noun > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<சுத்தம்>:
+சுத்தம் < Noun > 
+<பார்த்து>:
+பார் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பார்+த்த்+உ>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<உரலில்>:
+உரல் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து,அரை>:
+அர் < Third Person Plural Suffix > ஐ < Accusative Case > 
+<அர்+ஐ>
+<unknown>
+
+<டம்ள்ர்>:
+<unknown>
+
+<அளவு>:
+அளவு < Noun > 
+<காலையில்>:
+காலையில் < DateTime > 
+<மட்டும்>:
+மட்டும் < Particle > 
+<கொடுதுது>:
+த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<த்+உ>
+<unknown>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<காமாலை>:
+காமாலை < Noun > 
+<குணமாகும்.இதே>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > ஏ < Clitic > 
+<இ+த்+உ+ஏ>
+<unknown>
+
+<மருந்தை>:
+மருந்து < Noun > ஐ < Accusative Case > 
+<தொடர்ந்து>:
+தொடர்ந்து < Adverb > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<இரத்த>:
+இரத்த < Adjectival Noun > 
+<கோளாறு,பாண்டு>:
+
+<ரோகம்,நீர்த்தாலை>:
+
+<எரிச்சல்>:
+எரிச்சல் < Noun > 
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<கண்பார்வை>:
+கண்பார்வை < Noun > 
+<குணமடைய>:
+குணம் < Noun > அடை < Verb > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > 
+<குணம்+அடை+ய்+அ>
+
+<கரிசலாங்கண்ணி>:
+கரிசலாங்கண்ணி < Noun > 
+<இலையைக்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<ஆய்ந்து>:
+ஆய் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ஆய்+ந்த்+உ>
+
+<அந்தக்>:
+அந்த < Demonstrative Adjective > க் < Sandhi > 
+<கீரையின்>:
+கீரை < Noun > ய் < Sandhi > இன் < Genitive Case > 
+<அளவில்>:
+அளவில் < Particle > 
+<சரிபகுதி>:
+சரி < Noun > பகு < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<சரி+பகு+த்+உ+இ>
+
+<துவரம்>:
+<unknown>
+
+<பருப்புச்>:
+பருப்பு < Noun > ச் < Sandhi > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<சமைத்து>:
+சமை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சமை+த்த்+உ>
+
+<தினசரி>:
+தினசரி < Adjective > 
+<தினசரி>
+தினசரி < Noun > 
+<தினசரி>
+
+<சாதத்துடன்>:
+சாதம் < Noun > அத்து < Oblique > உடன் < Associative Case > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<சாப்பிட்டால்>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<சாப்பிடு+ட்+உ+ஆல்>
+
+<கண்பார்வை>:
+கண்பார்வை < Noun > 
+<தெளிவடையும்.ஆனால்>:
+ஆனால் < Conjunction Suffix > 
+<ஆனால்>
+<unknown>
+
+<தொடர்ந்து>:
+தொடர்ந்து < Adverb > 
+<40>:
+40 < Numbers > 
+<நாட்கள்>:
+நாள் < Noun > கள் < Plural Suffix > 
+<சாப்பிட்டு>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சாப்பிடு+ட்+உ>
+
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

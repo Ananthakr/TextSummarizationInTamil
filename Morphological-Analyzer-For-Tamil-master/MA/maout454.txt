@@ -1,0 +1,118 @@
+<﻿புண்ணுக்குப்>:
+
+<பூச்சு>:
+பூச்சு < Noun > 
+<மூக்கிரட்டை>:
+
+<சாரணை>:
+ஐ < Accusative Case > 
+<ஐ>
+சார் < Noun > அணை < Noun > 
+<சார்+அணை>
+
+<இலை>:
+இலை < Noun > 
+<கோட்டம்>:
+கோட்டம் < Noun > 
+<சமன்>:
+சமன் < Noun > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<புண்ணின்>:
+புண் < Noun > ண் < Sandhi > இன் < Genitive Case > 
+<முகம்>:
+முகம் < Particle > 
+<முகம்>
+முகம் < Noun > 
+<முகம்>
+
+<விட்டுப்>:
+விட்டு < Postposition > ப் < Sandhi > 
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<வசம்பு>:
+வசம்பு < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கராம்பு>:
+<unknown>
+
+<இயங்கம்>:
+<unknown>
+
+<கொழுந்து>:
+கொழுந்து < Noun > 
+<என்பனவற்றை>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > அற்று < Oblique > ஐ < Accusative Case > 
+<என்+ப்+அன+அற்று+ஐ>
+
+<கருக>:
+கருகு < Verb > அ < Infinitive Suffix > 
+<கருகு+அ>
+
+<வறுத்து>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வறு+த்த்+உ>
+
+<ஆமணக்கெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொதிப்பித்துப்>:
+கொதிப்பு < Noun > இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<கொதிப்பு+இ+த்த்+உ+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<குன்றிப்பருப்பு>:
+
+<எருக்கிலையைப்பாலில்>:
+இல் < Locative Case > 
+<இல்>
+<unknown>
+
+<அரைத்துப்பூசவும்>:
+
+<.>:
+<unknown>
+
+<குன்றிப்பருப்பு>:
+
+<வெள்ளைப்பாஷாணம்>:
+வெள்ளை < Noun > ப் < Sandhi > பாஷாணம் < Noun > 
+<வெள்ளை+ப்+பாஷாணம்>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<எருக்கம்பால்>:
+ஆல் < Instrumental Case > 
+<ஆல்>
+<unknown>
+
+<விட்டரைத்துப்>:
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

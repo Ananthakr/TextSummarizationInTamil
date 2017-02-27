@@ -1,0 +1,123 @@
+<﻿சர்வ>:
+வ் < Future Tense Marker > அ < Relative Participle Suffix > 
+<வ்+அ>
+<unknown>
+
+<விஷ>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<வீக்கங்களுக்கு>:
+வீக்கம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<மேல்பூசும்>:
+
+<பற்று>:
+பற்று < Verb > 
+<பற்று>
+பற்று < Noun > 
+<பற்று>
+
+<கல்>:
+கல் < Noun > 
+<சுண்ணாம்பு>:
+சுண்ணாம்பு < Noun > 
+<முருங்கைப்பட்டை>:
+முருங்கை < Noun > ப் < Sandhi > பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<முருங்கை+ப்+பட்டு+ஐ>
+
+<வெங்காயம்>:
+வெங்காயம் < Noun > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<பேய்பீர்க்கெலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<ஓர்>:
+ஓர் < Adjective > 
+<நிறையாக>:
+நிறை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<நிறை+ய்+ஆக>
+
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<எருக்கன்>:
+எருக்கு < Noun > அ < Infinitive Suffix > ன் < Past Tense Marker > 
+<எருக்கு+அ+ன்>
+
+<பால்>:
+பால் < Particle > 
+<பால்>
+பால் < Postposition > 
+<பால்>
+பால் < Noun > 
+<பால்>
+
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<அரையாப்புக்>:
+
+<கட்டி>:
+கட்டி < Noun > 
+<முதல்>:
+முதல் < Particle > 
+<முதல்>
+முதல் < Postposition > 
+<முதல்>
+முதல் < Noun > 
+<முதல்>
+
+<பலவிதமான>:
+
+<கட்டிகட்கு>:
+<unknown>
+
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<பற்றாக>:
+பற்று < Noun > ஆக < Adverbial Suffix > 
+<பற்று+ஆக>
+
+<போடகட்டிகள்>:
+போடு < Verb > அ < Relative Participle Suffix > கட்டு < Auxiliary Verb > இ < Past Tense Marker > கள் < Plural Suffix > 
+<போடு+அ+கட்டு+இ+கள்>
+
+<கரைந்து>:
+கரை < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+ந்த்+உ>
+
+<அல்லது>:
+அல்லது < Conjunction > 
+<பழுத்து>:
+பழு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பழு+த்த்+உ>
+
+<உடைந்து>:
+உடை < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<உடை+ந்த்+உ>
+
+<பாதைகள்>:
+பாதை < Noun > கள் < Plural Suffix > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

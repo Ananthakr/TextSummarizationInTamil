@@ -1,0 +1,52 @@
+<﻿விக்கலுக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+<unknown>
+
+<ஒருபல்ம்>:
+<unknown>
+
+<சடாமஞ்சளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<எலுமிச்சம்பழ>:
+
+<ரசம்>:
+ரசம் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்டு>:
+அரை < Verb > த் < Past Tense Marker > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்+ட்+உ>
+
+<தேனில்மத்தித்து>:
+இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+த்த்+உ>
+<unknown>
+
+<3-நாள்>:
+ஆள் < Third Person Femime Singular Suffix > 
+<ஆள்>
+<unknown>
+
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<விக்கல்>:
+விக்கல் < Noun > 
+<நிற்கும்>:
+நில் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நில்+உம்>
+
+<.>:
+<unknown>
+

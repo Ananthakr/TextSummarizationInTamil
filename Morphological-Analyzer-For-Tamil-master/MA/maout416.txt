@@ -1,0 +1,108 @@
+<﻿மரத்தால்>:
+அத்து < Oblique > ஆல் < Instrumental Case > 
+<அத்து+ஆல்>
+<unknown>
+
+<விழுந்த>:
+விழு < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<விழு+ந்த்+உ+அ>
+
+<நோவுக்கு>:
+நோவு < Noun > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<கோழிக்குஞ்சுச்>:
+ச் < Sandhi > 
+<ச்>
+கோழி < Noun > க் < Sandhi > குஞ்சு < Noun > ச் < Sandhi > 
+<கோழி+க்+குஞ்சு+ச்>
+
+<சாறு>:
+சாறு < Noun > 
+<கத்தரிப்பிஞ்சுச்>:
+ச் < Sandhi > 
+<ச்>
+கத்தரி < Noun > ப் < Sandhi > பிஞ்சு < Noun > ச் < Sandhi > 
+<கத்தரி+ப்+பிஞ்சு+ச்>
+
+<சாறு>:
+சாறு < Noun > 
+<சாராயம்>:
+சாராயம் < Noun > 
+<கோழிமுட்டை>:
+
+<வெண்கரு>:
+<unknown>
+
+<வேப்பெண்ணெய்>:
+வேப்பெண்ணெய் < Noun > 
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<சதகுப்பை>:
+சதகுப்பை < Noun > 
+<குக்கில்>:
+க்க் < Sandhi > இல் < Locative Case > 
+<க்க்+இல்>
+<unknown>
+
+<கரிய>:
+கரிய < Adjective > 
+<பவளம்>:
+பவளம் < Noun > 
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<தூள்>:
+தூள் < Noun > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொடிக்க>:
+கொடு < Verb > இ < Past Tense Marker > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+இ+க்க்+அ>
+
+<நோவு>:
+நோவு < Noun > 
+<விரணம்>:
+<unknown>
+
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<இரத்தம்>:
+இரத்தம் < Noun > 
+<கண்டல்>:
+காண் < Verb > ட் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<காண்+ட்+அல்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<நெஞ்சு>:
+நெஞ்சு < Noun > 
+<நோவுக்கும்>:
+நோவு < Noun > உக்கு < Dative Case > உம் < Clitic > 
+<நன்று>:
+நன்று < Noun > 
+<.>:
+<unknown>
+

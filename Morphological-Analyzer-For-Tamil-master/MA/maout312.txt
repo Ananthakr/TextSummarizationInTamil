@@ -1,0 +1,140 @@
+<﻿சர்வ>:
+வ் < Future Tense Marker > அ < Relative Participle Suffix > 
+<வ்+அ>
+<unknown>
+
+<இரணங்களுக்கு>:
+இரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<முட்கொள்ளும்யெண்ணெய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+<சதுரக்கள்ளிவேர்>:
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<எருக்கன்>:
+எருக்கு < Noun > அ < Infinitive Suffix > ன் < Past Tense Marker > 
+<எருக்கு+அ+ன்>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<1/2>:
+<unknown>
+
+<கொடிக்கள்ளிவேர்>:
+
+<1/2>:
+<unknown>
+
+<சித்திரமூலம்>:
+சித்திர < Adjectival Noun > மூலம் < Postposition > 
+<சித்திர+மூலம்>
+
+<1/2>:
+<unknown>
+
+<அமுக்குராம்வேர்>:
+
+<1/2>:
+<unknown>
+
+<சூதம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<கெந்தி>:
+கெந்து < Verb > இ < Past Tense Marker > 
+<கெந்து+இ>
+
+<1/2>:
+<unknown>
+
+<செந்தூரம்>:
+செந்தூரம் < Noun > 
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஒன்பது>:
+ஒன்பது < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+<சித்தாமணக்கெண்ணெயில்>:
+ய் < Verbal Participle Suffix > இல் < Locative Case > 
+<ய்+இல்>
+<unknown>
+
+<போட்டு>:
+போட்டு < Particle > 
+<அடுபேற்றியெரித்துக்காச்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பதத்திலிறக்கி>:
+அ < Infinitive Suffix > க்க் < Sandhi > இ < Past Tense Marker > 
+<அ+க்க்+இ>
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<வைத்துக்கொண்டு>:
+வைத்து < Particle > க் < Sandhi > கொண்டு < Postposition > 
+<காலையில்>:
+காலையில் < DateTime > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சிறுகரண்டி>:
+
+<வீதம்>:
+வீதம் < Noun > 
+<3-நாண்>:
+
+<உட்கொள்ள>:
+உட்கொள் < Verb > ள் < Sandhi > அ < Infinitive Suffix > 
+<உட்கொள்+ள்+அ>
+
+<சகல>:
+சகல < Adjectival Noun > 
+<ரணங்களும்>:
+ரணம் < Noun > கள் < Plural Suffix > உம் < Clitic > 
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

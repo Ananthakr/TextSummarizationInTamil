@@ -1,0 +1,85 @@
+<﻿கறள்>:
+<unknown>
+
+<கட்டி>:
+கட்டி < Noun > 
+<கரைய>:
+கரை < Verb > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > 
+<கரை+ய்+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<கொவ்வைத்தண்டுத்தும்பு>:
+<unknown>
+
+<குறிஞ்சா>:
+
+<இலை>:
+இலை < Noun > 
+<தேங்காய்ப்பூ>:
+தேங்காய்ப்பூ < Noun > 
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<என்பனவற்றை>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > அற்று < Oblique > ஐ < Accusative Case > 
+<என்+ப்+அன+அற்று+ஐ>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<பொட்டணிகட்டி>:
+இ < Past Tense Marker > கட்டு < Auxiliary Verb > இ < Past Tense Marker > 
+<இ+கட்டு+இ>
+<unknown>
+
+<வேட்டில்>:
+வேட்டு < Noun > இல் < Locative Case > 
+<அவித்து>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அவி+த்த்+உ>
+
+<கறள்>:
+<unknown>
+
+<கட்டியில்>:
+கட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<ஒத்திட்டு>:
+ஒ < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ஒ+த்த்+உ+இடு+ட்+உ>
+
+<அம்மருந்தை>:
+அ < Demonstrative Adjective > ம் < Sandhi > மருந்து < Noun > ஐ < Accusative Case > 
+<அ+ம்+மருந்து+ஐ>
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<ந்த்+உ+ஐ>
+
+<அவிழ்த்து>:
+அவிழ் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அவிழ்+த்த்+உ>
+
+<கறள்>:
+<unknown>
+
+<நோவில்>:
+நோவு < Noun > இல் < Locative Case > 
+<பரவிக்கட்டவும்>:
+பரவு < Verb > இ < Past Tense Marker > க் < Sandhi > கட்டு < Auxiliary Verb > அ < Relative Participle Suffix > வ் < Sandhi > உம் < Clitic > 
+<பரவு+இ+க்+கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<இவ்விதம்>:
+இ < Demonstrative Adjective > வ் < Sandhi > விதம் < Noun > 
+<இ+வ்+விதம்>
+இ < Demonstrative Adjective > வ் < Sandhi > விதம் < Noun > 
+<இ+வ்+விதம்>
+
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாட்கட்டவும்>:
+
+<.>:
+<unknown>
+

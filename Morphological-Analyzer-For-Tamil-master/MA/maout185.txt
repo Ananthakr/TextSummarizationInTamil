@@ -1,0 +1,217 @@
+<﻿மணித்தக்காளி(Solanum>:
+<Error>
+
+<Nigrum>:
+<Error>
+
+<இது>:
+இது < Pronoun > 
+<மணத்தக்காளி>:
+மணத்தக்காளி < Noun > 
+<மனைத்தக்காளி>:
+மனை < Noun > த் < Sandhi > தக்காளி < Noun > 
+<மனை+த்+தக்காளி>
+<unknown>
+
+<மிளகுத்தக்காளி>:
+மிளகு < Noun > த் < Sandhi > தக்காளி < Noun > 
+<மிளகு+த்+தக்காளி>
+<unknown>
+
+<எனவும்>:
+என < Particle > வ் < Sandhi > உம் < Clitic > 
+<அழைக்கப்படுகிறது>:
+அழை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > ப் < Sandhi > படு < Auxiliary Verb > கிறு < Present Tense Marker > அது < Genitive Case > 
+<அழை+க்க்+அ+ப்+படு+கிறு+அது>
+
+<.>:
+<unknown>
+
+<குடல்>:
+குடல் < Noun > 
+<புண்>:
+புண் < Noun > 
+<வாய்ப்புண்>:
+வாய் < Noun > ப் < Sandhi > புண் < Noun > 
+<வாய்+ப்+புண்>
+<unknown>
+
+<ஆற>:
+ஆறு < Noun > அ < Infinitive Suffix > 
+<ஆறு+அ>
+
+<வயிற்றில்>:
+வயிறு < Noun > இல் < Locative Case > 
+<குடலில்>:
+குடல் < Noun > இல் < Locative Case > 
+<புண்>:
+புண் < Noun > 
+<ஏற்பட்டால்>:
+ஏற்பட்டு < Verb > ஆல் < Instrumental Case > 
+<ஏற்பட்டு+ஆல்>
+
+<தான்>:
+தான் < Pronoun > 
+<தான்>
+தான் < Particle > 
+<தான்>
+
+<வாயில்>:
+வாயில் < Noun > 
+<புண்>:
+புண் < Noun > 
+<ஏற்படும்>:
+ஏற்படு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஏற்படு+உம்>
+
+<.>:
+<unknown>
+
+<மணித்தக்காளிக்>:
+மணி < Noun > த் < Sandhi > தக்காளி < Noun > க் < Sandhi > 
+<மணி+த்+தக்காளி+க்>
+<unknown>
+
+<கீரையைச்>:
+கீரை < Noun > ய் < Sandhi > ஐ < Accusative Case > ச் < Sandhi > 
+<சுத்தமாக>:
+சுத்தம் < Noun > ஆக < Adverbial Suffix > 
+<சுத்தம்+ஆக>
+
+<ஆய்ந்து>:
+ஆய் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ஆய்+ந்த்+உ>
+
+<துவரம்>:
+<unknown>
+
+<பருப்பைச்>:
+பருப்பு < Noun > ஐ < Accusative Case > ச் < Sandhi > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<தேங்காயை>:
+தேங்காய் < Noun > ஐ < Accusative Case > 
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<போட்டுச்>:
+போட்டு < Particle > ச் < Sandhi > 
+<சமைத்து>:
+சமை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சமை+த்த்+உ>
+
+<சாப்பிட்டு>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சாப்பிடு+ட்+உ>
+
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<குடல்>:
+குடல் < Noun > 
+<புண்>:
+புண் < Noun > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<நெஞ்செரிச்சல்>:
+நெஞ்செரிச்சல் < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<பித்த>:
+பித்த < Adjectival Noun > 
+<உபரி>:
+உபரி < Adjective > 
+<உபரி>
+உபரி < Noun > 
+<உபரி>
+
+<காரணமாக>:
+காரணம் < Noun > ஆக < Adverbial Suffix > 
+<காரணம்+ஆக>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<சிலருக்கு>:
+சிலர் < Noun > உக்கு < Dative Case > 
+<நெஞ்சில்>:
+நெஞ்சு < Noun > இல் < Locative Case > 
+<எரிச்சல்>:
+எரிச்சல் < Noun > 
+<உண்டாகும்>:
+உண்டாகு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<உண்டாகு+உம்>
+
+<.>:
+<unknown>
+
+<இதைப்>:
+இது < Pronoun > ஐ < Accusative Case > ப் < Sandhi > 
+<போக்க>:
+போக்கு < Noun > அ < Infinitive Suffix > 
+<போக்கு+அ>
+
+<மணித்தக்காளி>:
+மணி < Noun > த் < Sandhi > தக்காளி < Noun > 
+<மணி+த்+தக்காளி>
+<unknown>
+
+<இலையைக்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<நைத்து>:
+நை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நை+த்த்+உ>
+
+<அதிலிருந்து>:
+அது < Pronoun > இல் < Locative Case > இருந்து < Postposition > 
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அந்தச்>:
+அந்த < Demonstrative Adjective > ச் < Sandhi > 
+<சாற்றில்>:
+சாறு < Noun > இல் < Locative Case > 
+<காலையில்>:
+காலையில் < DateTime > 
+<நாங்கு>:
+<unknown>
+
+<தேக்கரண்டியளவும்>:
+அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அ+வ்+உம்>
+<unknown>
+
+<மாலையில்>:
+மாலையில் < DateTime > 
+<நான்கு>:
+நான்கு < charNumbers > 
+<தேக்கரண்டியளவும்>:
+அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அ+வ்+உம்>
+<unknown>
+
+<எடுத்துக்>:
+எடுத்து < Adverb > க் < Sandhi > 
+<கொள்ள>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

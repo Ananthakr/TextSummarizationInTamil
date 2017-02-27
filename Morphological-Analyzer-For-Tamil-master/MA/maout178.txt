@@ -1,0 +1,142 @@
+<﻿செம்பருத்தி>:
+
+<இது>:
+இது < Pronoun > 
+<பருத்தி>:
+பருத்தி < Noun > 
+<வகையைச்>:
+வகை < Noun > ய் < Sandhi > ஐ < Accusative Case > ச் < Sandhi > 
+<சார்ந்தது>:
+சார் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > 
+<சார்+ந்த்+உ+அது>
+
+<.>:
+<unknown>
+
+<பூ>:
+பூ < Noun > 
+<மட்டும்>:
+மட்டும் < Particle > 
+<சிகப்பாக>:
+சிகப்பு < Noun > ஆக < Adverbial Suffix > 
+<சிகப்பு+ஆக>
+
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<வண்டு>:
+வண்டு < Noun > 
+<கடி>:
+கடி < Verb > 
+<கடி>
+கடி < Noun > 
+<கடி>
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<சில>:
+சில < Adjective > 
+<சமயம்>:
+சமயம் < Entity > 
+<விஷ>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<வண்டு>:
+வண்டு < Noun > 
+<கடித்து>:
+கடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கடி+த்த்+உ>
+
+<விஷம்>:
+விஷம் < Noun > 
+<ஏறி>:
+ஏறு < Verb > இ < Past Tense Marker > 
+<ஏறு+இ>
+
+<உடலில்>:
+உடல் < Noun > இல் < Locative Case > 
+<தடிப்புகளை>:
+தடிப்பு < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<ஏற்படுத்தும்>:
+ஏற்படுத்து < Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஏற்படுத்து+உம்>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<தடுக்க>:
+தடுக்கு < Noun > அ < Infinitive Suffix > 
+<தடுக்கு+அ>
+
+<செம்பருத்தி>:
+செம்பருத்தி < Noun > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<உரலில்>:
+உரல் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<பிழிந்த>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<பிழி+ந்த்+உ+அ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<காலையில்>:
+காலையில் < DateTime > 
+<1/2>:
+<unknown>
+
+<டம்ளர்>:
+டம்ளர் < Noun > 
+<குடிக்க>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<குடி+க்க்+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<ஆனால்>:
+ஆனால் < Conjunction > 
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<8>:
+8 < Numbers > 
+<நாட்களும்>:
+நாள் < Noun > கள் < Plural Suffix > உம் < Clitic > 
+<உப்பு>:
+உப்பு < Verb > 
+<உப்பு>
+உப்பு < Noun > 
+<உப்பு>
+
+<காரம்>:
+காரம் < Particle > 
+<காரம்>
+காரம் < Noun > 
+<காரம்>
+
+<சேர்க்கக்>:
+சேர் < Verb > க்க் < Sandhi > அ < Infinitive Suffix > க் < Sandhi > 
+<சேர்+க்க்+அ+க்>
+
+<கூடாது>:
+கூடாது < Negative Finite Verb > 
+<.>:
+<unknown>
+

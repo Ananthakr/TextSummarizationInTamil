@@ -1,0 +1,40 @@
+<﻿காதுப்>:
+அ < Infinitive Suffix > ஆது < Future Negative Suffix > ப் < Sandhi > 
+<அ+ஆது+ப்>
+<unknown>
+
+<புழு>:
+புழு < Noun > 
+<விழ>:
+விழு < Verb > அ < Infinitive Suffix > 
+<விழு+அ>
+
+<பிரண்டைச்>:
+பிரண்டை < Noun > ச் < Sandhi > 
+<சாறும்>:
+சாறு < Noun > உம் < Clitic > 
+<எலுமிச்சம்>:
+<unknown>
+
+<பழச்>:
+பழு < Verb > அ < Infinitive Suffix > ச் < Sandhi > 
+<பழு+அ+ச்>
+
+<சாறும்>:
+சாறு < Noun > உம் < Clitic > 
+<சமங்கூட்டிக்காதிலிட>:
+இடு < Auxiliary Verb > அ < Relative Participle Suffix > 
+<இடு+அ>
+<unknown>
+
+<புழுசெத்து>:
+புழு < Noun > சா < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<புழு+சா+த்த்+உ>
+
+<விழும்>:
+விழு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<விழு+உம்>
+
+<.>:
+<unknown>
+

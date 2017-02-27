@@ -1,0 +1,110 @@
+<﻿நாப்புற்றின்>:
+
+<குணமும்>:
+குணம் < Noun > உம் < Clitic > 
+<மருந்தும்>:
+மருந்து < Noun > உம் < Clitic > 
+<நாக்கு>:
+நாக்கு < Noun > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<புறம்>:
+புறம் < Noun > 
+<விரிந்து>:
+விரி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<விரி+ந்த்+உ>
+
+<அல்லது>:
+அல்லது < Conjunction > 
+<இழுபட்டு>:
+இழு < Verb > பட்டு < Auxiliary Verb > 
+<இழு+பட்டு>
+
+<கண்>:
+கண் < Particle > 
+<கண்>
+கண் < Noun > 
+<கண்>
+
+<கண்ணாய்>:
+கண் < Noun > ண் < Sandhi > ஆய் < Adverbial Suffix > 
+<கண்+ண்+ஆய்>
+
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<இதற்கு>:
+இது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<வெள்ளாட்டுப்பால்>:
+
+<பிராய்வேர்>:
+
+<வட்டுவேர்>:
+
+<துத்திவேர்>:
+
+<நீர்ப்பூலாவேர்>:
+
+<கராம்பு>:
+<unknown>
+
+<கோரோசனை>:
+கோரோசனை < Noun > 
+<சித்தரத்தை>:
+சித்தரத்தை < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<சந்தனம்>:
+சந்தனம் < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கரைத்து>:
+கரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+த்த்+உ>
+
+<பதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<உள்ளும்>:
+உள் < Noun > ள் < Sandhi > உம் < Clitic > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<நாக்கிலும்>:
+நாக்கு < Noun > இல் < Locative Case > உம் < Clitic > 
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

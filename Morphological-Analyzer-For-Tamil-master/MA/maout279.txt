@@ -1,0 +1,122 @@
+<﻿சகலரணங்களுக்கும்>:
+கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<கள்+உக்கு+உம்>
+<unknown>
+
+<நீலக்>:
+நீலன் < Entity > க் < Sandhi > 
+<காரசீலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<வெந்ததலமண்டை>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<ட்+உ+ஐ>
+<unknown>
+
+<ஓடு>:
+ஓடு < Verb > 
+<ஓடு>
+ஓடு < Noun > 
+<ஓடு>
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<சங்கு>:
+சங்கு < Noun > 
+<1/2>:
+<unknown>
+
+<பால்துத்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<வீரம்>:
+வீரம் < Noun > 
+<1/2>:
+<unknown>
+
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<1/2>:
+<unknown>
+
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<1/2>:
+<unknown>
+
+<சவுட்டுமண்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<நிலம்>:
+நிலம் < Noun > 
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<எட்டு>:
+எட்டு < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<மூலைப்பால்>:
+மூல் < Noun > ஐ < Accusative Case > ப்பு < Verb > ஆல் < Instrumental Case > 
+<மூல்+ஐ+ப்பு+ஆல்>
+
+<விட்டு>:
+விட்டு < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<பழைய>:
+பழைய < Adjective > 
+<துணியில்தடவி>:
+
+<இரணங்களின்>:
+இரணம் < Noun > கள் < Plural Suffix > இன் < Genitive Case > 
+<மீதுப்>:
+மீது < Particle > ப் < Sandhi > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<இரணனங்கள்>:
+கள் < Plural Suffix > 
+<கள்>
+<unknown>
+
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<பாதை>:
+பாதை < Noun > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

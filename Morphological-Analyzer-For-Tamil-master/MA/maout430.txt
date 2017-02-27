@@ -1,0 +1,121 @@
+<﻿எலிக்கடிக்கு>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > க்கு < Dative Case > 
+<அ+ட்+உ+இ+க்கு>
+<unknown>
+
+<மருந்து>:
+மருந்து < Noun > 
+<பிரண்டையும்>:
+பிரண்டை < Noun > ய் < Sandhi > உம் < Clitic > 
+<உப்பும்>:
+உப்பு < Noun > உம் < Clitic > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<கரடிக்>:
+கரடி < Noun > க் < Sandhi > 
+<கடிக்கு>:
+கடி < Noun > க்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<காட்டுக்>:
+காட்டு < Adjective > க் < Sandhi > 
+<காட்டு+க்>
+காட்டு < Verb > க் < Sandhi > 
+<காட்டு+க்>
+
+<குருத்து>:
+குருத்து < Noun > 
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<உப்பும்>:
+உப்பு < Noun > உம் < Clitic > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<முதலைக்>:
+முதலை < Noun > க் < Sandhi > 
+<கடிக்கு>:
+கடி < Noun > க்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<புளியமிலையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<உப்பும்>:
+உப்பு < Noun > உம் < Clitic > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<புழு>:
+புழு < Noun > 
+<வெட்டுக்கு>:
+வெட்டு < Noun > உக்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<இலைக்கள்ளிச்>:
+இலை < Noun > க் < Sandhi > கள்ளி < Noun > ச் < Sandhi > 
+<இலை+க்+கள்ளி+ச்>
+<unknown>
+
+<சாறும்>:
+சாறு < Noun > உம் < Clitic > 
+<வெள்ளாட்டுப்>:
+வெள்ளாடு < Noun > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<வெள்ளாடு+ட்+உ+ப்>
+
+<புழுக்கையும்>:
+புழுக்கை < Noun > ய் < Sandhi > உம் < Clitic > 
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,67 @@
+<﻿பவுந்திரத்திற்குக்>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > க் < Sandhi > 
+<அத்து+இன்+கு+க்>
+<unknown>
+
+<குடிமருந்து>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ந்த்+உ>
+குடி < Noun > மருந்து < Noun > 
+<குடி+மருந்து>
+
+<நாக>:
+நாகர் < Entity > 
+<இலை>:
+இலை < Noun > 
+<இலுப்பை>:
+இலுப்பை < Entity > 
+<இலை>:
+இலை < Noun > 
+<விட்டுணு>:
+<unknown>
+
+<கிராந்தி>:
+
+<இலை>:
+இலை < Noun > 
+<மூன்றும்>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<ற்+உ+உம்>
+<unknown>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<துவைத்துச்>:
+வைத்து < Postposition > ச் < Sandhi > 
+<வைத்து+ச்>
+<unknown>
+
+<சாறெடுத்து>:
+
+<நல்லெண்ணெயும்>:
+நல்லெண்ணெய் < Noun > உம் < Clitic > 
+<சமன்>:
+சமன் < Noun > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<7>:
+7 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<அல்லது>:
+அல்லது < Conjunction > 
+<9>:
+9 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<குடிக்கவும்>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<குடி+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

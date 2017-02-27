@@ -1,0 +1,77 @@
+<﻿எந்தப்>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > ப் < Sandhi > 
+<ந்த்+உ+அ+ப்>
+<unknown>
+
+<புண்ணும்>:
+புண் < Noun > ண் < Sandhi > உம் < Clitic > 
+<மாறமருந்து>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ந்த்+உ>
+<unknown>
+
+<இரசம்>:
+<unknown>
+
+<பருத்தியிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<களற்சியிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<ஒடுவடக்கியிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்துப்>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<இடி+த்த்+உ+ப்>
+
+<பொன்னிறமாக>:
+பொன்னிறம் < Noun > ஆக < Adverbial Suffix > 
+<பொன்னிறம்+ஆக>
+
+<வறுத்துப்பூசவும்>:
+
+<.>:
+<unknown>
+
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<குமிழ்>:
+குமிழ் < Noun > 
+<விட்டாடியிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,101 @@
+<﻿படுவன்>:
+படு < Auxiliary Verb > வ் < Sandhi > அ < Relative Participle Suffix > ன் < Past Tense Marker > 
+<படு+வ்+அ+ன்>
+<unknown>
+
+<கட்டுக்கு>:
+கட்டு < Verb > உக்கு < Dative Case > 
+<கட்டு+உக்கு>
+
+<நெய்>:
+நெய் < Verb > 
+<நெய்>
+நெய் < Noun > 
+<நெய்>
+
+<நன்னாரிவேர்>:
+நன்னாரி < Noun > வேர் < Verb > 
+<நன்னாரி+வேர்>
+
+<நாயுருவிவேர்>:
+நாயுருவி < Noun > வேர் < Verb > 
+<நாயுருவி+வேர்>
+
+<முத்தற்காசு>:
+<unknown>
+
+<சிறகு>:
+சிறகு < Noun > 
+<அவரை>:
+அவரை < Noun > 
+<சீதுளாய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<மிளகு>:
+மிளகு < Noun > 
+<படுவனிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<வேரும்>:
+வேர் < Noun > உம் < Clitic > 
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<மதுரம்>:
+மதுரம் < Noun > 
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<வேர்த்தூளும்>:
+வேர் < Noun > த் < Sandhi > தூள் < Noun > உம் < Clitic > 
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<பசுநெய்யில்>:
+ய் < Verbal Participle Suffix > ய் < Sandhi > இல் < Locative Case > 
+<ய்+ய்+இல்>
+<unknown>
+
+<வெற்றிலை>:
+வெற்றிலை < Noun > 
+<வெடிபதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<கொதிப்பித்து>:
+கொதிப்பு < Noun > இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொதிப்பு+இ+த்த்+உ>
+
+<உள்ளுக்கும்>:
+உள் < Noun > ள் < Sandhi > உக்கு < Dative Case > உம் < Clitic > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<கட்டியிலும்>:
+கட்டி < Noun > ய் < Sandhi > இல் < Locative Case > உம் < Clitic > 
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,87 @@
+<﻿மூட்டு>:
+
+<வீக்கங்களுக்கு>:
+வீக்கம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<சீலை>:
+சீலை < Noun > 
+<மூட்டு>:
+மூட்டு < Verb > 
+<மூட்டு>
+மூட்டு < Noun > 
+<மூட்டு>
+
+<வீக்கங்களுக்கும்>:
+வீக்கம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<அடிசதைகளுக்கு>:
+
+<இவையின்>:
+இவை < Pronoun > ய் < Sandhi > இன் < Genitive Case > 
+<காரணத்தினால்>:
+காரணம் < Noun > அத்து < Oblique > இன் < Euphonic > ஆல் < Instrumental Case > 
+<உண்டாகிற>:
+
+<வீக்கங்களுக்கும்>:
+வீக்கம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<அரை>:
+அரை < Verb > 
+<புட்டிக்>:
+புட்டிக் < Entity > 
+<காடியும்>:
+காடி < Noun > ய் < Sandhi > உம் < Clitic > 
+<அவ்வளவு>:
+அவ்வளவு < Noun > 
+<சாராயமும்>:
+சாராயம் < Noun > உம் < Clitic > 
+<ஒன்ராய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<4>:
+4 < Numbers > 
+<கிராம்>:
+ஆம் < Clitic > 
+<ஆம்>
+<unknown>
+
+<படிகாரத்தை>:
+படிகாரம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+<கரைத்து>:
+கரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கரை+த்த்+உ>
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<சீலையை>:
+சீலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<நனைத்து>:
+நனை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நனை+த்த்+உ>
+
+<மேற்படி>:
+மேற்படி < Adjective > 
+<வீக்கங்களின்>:
+வீக்கம் < Noun > கள் < Plural Suffix > இன் < Genitive Case > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

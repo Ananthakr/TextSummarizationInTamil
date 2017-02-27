@@ -1,0 +1,118 @@
+<﻿சிரங்கெண்ணெய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<கெந்தம்>:
+<unknown>
+
+<இரசம்>:
+<unknown>
+
+<கிருமிசத்துரு>:
+<unknown>
+
+<முருக்கிலைச்>:
+ஐ < Accusative Case > ச் < Sandhi > 
+<ஐ+ச்>
+<unknown>
+
+<சாறு>:
+சாறு < Noun > 
+<பாகல்>:
+பாகல் < Noun > 
+<இலைச்>:
+இலை < Noun > ச் < Sandhi > 
+<சாறு>:
+சாறு < Noun > 
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<இரண்டு>:
+இரண்டு < charNumbers > 
+<பிழிந்து>:
+பிழி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிழி+ந்த்+உ>
+
+<பால்>:
+பால் < Particle > 
+<பால்>
+பால் < Postposition > 
+<பால்>
+பால் < Noun > 
+<பால்>
+
+<எடுத்துக்>:
+எடுத்து < Adverb > க் < Sandhi > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<மிதந்து>:
+இ < Past Tense Marker > தா < Auxiliary Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+தா+ந்த்+உ>
+<unknown>
+
+<வரும்>:
+வரும் < Adjective > 
+<வேளையில்>:
+வேளை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<ஆவாரை>:
+ஆ < Verb > வ் < Future Tense Marker > ஆர் < Pronominal Third Person Singular > ஐ < Accusative Case > 
+<ஆ+வ்+ஆர்+ஐ>
+
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<ஆவாரை>:
+ஆ < Verb > வ் < Future Tense Marker > ஆர் < Pronominal Third Person Singular > ஐ < Accusative Case > 
+<ஆ+வ்+ஆர்+ஐ>
+
+<வேர்ப்>:
+வேர் < Verb > ப் < Sandhi > 
+<வேர்+ப்>
+வேர் < Noun > ப் < Sandhi > 
+<வேர்+ப்>
+
+<பட்டையும்>:
+பட்டை < Noun > ய் < Sandhi > உம் < Clitic > 
+<காயவைத்து>:
+காய் < Noun > அ < Infinitive Suffix > வைத்து < Postposition > 
+<காய்+அ+வைத்து>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<தூளாக்கிப்போட்டு>:
+தூள் < Noun > ஆக்கு < Verb > இ < Past Tense Marker > ப் < Sandhi > போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தூள்+ஆக்கு+இ+ப்+போடு+ட்+உ>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<7>:
+7 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<புண்ணிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

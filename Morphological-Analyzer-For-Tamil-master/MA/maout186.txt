@@ -1,0 +1,116 @@
+<﻿பேய்ச்சுரை(Lagenria>:
+<Error>
+
+<Gignateum>:
+<Error>
+
+<காட்டுப்>:
+காட்டு < Adjective > ப் < Sandhi > 
+<காட்டு+ப்>
+காட்டு < Verb > ப் < Sandhi > 
+<காட்டு+ப்>
+
+<பகுதியில்>:
+பகுதி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<கொடியாகப்>:
+கொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > ப் < Sandhi > 
+<கொடி+ய்+ஆக+ப்>
+
+<படர்ந்திருக்கும்>:
+உக்கு < Dative Case > உம் < Clitic > 
+<உக்கு+உம்>
+<unknown>
+
+<.>:
+<unknown>
+
+<பாம்பு>:
+பாம்பு < Noun > 
+<விஷம்>:
+விஷம் < Noun > 
+<முறிய>:
+முறி < Verb > ய் < Sandhi > அ < Relative Participle Suffix > 
+<முறி+ய்+அ>
+
+<பாம்பு>:
+பாம்பு < Noun > 
+<கடித்து>:
+கடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கடி+த்த்+உ>
+
+<விட்டதாகத்>:
+விடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > ஆக < Postposition > த் < Sandhi > 
+<விடு+ட்+உ+அது+ஆக+த்>
+
+<தெரிந்தால்>:
+தெரி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<தெரி+ந்த்+உ+ஆல்>
+
+<உடனே>:
+உடனே < Particle > 
+<உடனே>
+உடனே < Adverb > 
+<உடனே>
+
+<பேய்ச்சுரையின்>:
+
+<வேரை>:
+வேர் < Noun > ஐ < Accusative Case > 
+<மைபோல>:
+மை < Noun > போல < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கொட்டைப்>:
+கொட்டை < Noun > ப் < Sandhi > 
+<பாக்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<விழுதை>:
+விழு < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<விழு+த்+உ+ஐ>
+
+<உள்ளுக்குக்>:
+உள்ளுக்கு < Adverb > க் < Sandhi > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<விட்டால்>:
+விடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<விடு+ட்+உ+ஆல்>
+
+<உடனே>:
+உடனே < Particle > 
+<உடனே>
+உடனே < Adverb > 
+<உடனே>
+
+<விஷம்>:
+விஷம் < Noun > 
+<முறியும்>:
+முறி < Verb > ய் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<முறி+ய்+உம்>
+
+<.>:
+<unknown>
+
+<மற்ற>:
+மற்ற < Adjective > 
+<விஷக்>:
+அ < Infinitive Suffix > க் < Sandhi > 
+<அ+க்>
+<unknown>
+
+<கடிகளுக்கும்>:
+கடி < Noun > கள் < Plural Suffix > உக்கு < Dative Case > உம் < Clitic > 
+<கொடுக்கலாம்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > லாம் < Permissive Suffix > 
+<கொடு+க்க்+அ+லாம்>
+
+<.>:
+<unknown>
+

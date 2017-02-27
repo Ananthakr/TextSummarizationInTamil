@@ -1,0 +1,113 @@
+<﻿வெந்நொச்சி(Vitex>:
+<Error>
+
+<Negundo>:
+<Error>
+
+<இதன்>:
+இதன் < Demonstrative Adjective > 
+<இலைகளை>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<வதக்கி>:
+வதக்கு < Verb > இ < Past Tense Marker > 
+<வதக்கு+இ>
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<வடிகட்டி>:
+வடிகட்டி < Noun > 
+<2>:
+2 < Numbers > 
+<பங்காக்கி>:
+பங்கு < Noun > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<பங்கு+ஆக்கு+இ>
+
+<காலை>:
+காலை < DateTime > 
+<மாலையாக>:
+மாலை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<மாலை+ய்+ஆக>
+
+<இரு>:
+இரு < Adjective > 
+<இரு>
+இரு < Verb > 
+<இரு>
+
+<வேளையும்>:
+வேளை < Noun > ய் < Sandhi > உம் < Clitic > 
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<குளிர்>:
+குளிர் < Verb > 
+<குளிர்>
+குளிர் < Noun > 
+<குளிர்>
+
+<காய்ச்சலைக்>:
+காய்ச்சல் < Noun > ஐ < Accusative Case > க் < Sandhi > 
+<குணப்படுத்தும்>:
+குணப்படுத்து < Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணப்படுத்து+உம்>
+
+<.>:
+<unknown>
+
+<கொதித்த>:
+கொதி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<கொதி+த்த்+உ+அ>
+
+<தண்ணீரில்>:
+தண்ணீர் < Noun > இல் < Locative Case > 
+<இலையைப்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > ப் < Sandhi > 
+<போட்டு>:
+போட்டு < Particle > 
+<அதிலிருந்து>:
+அது < Pronoun > இல் < Locative Case > இருந்து < Postposition > 
+<வரும்>:
+வரும் < Adjective > 
+<ஆவியை>:
+ஆவி < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<பிடித்தால்>:
+பிடித்து < Particle > ஆல் < Instrumental Case > 
+<வரும்>:
+வரும் < Adjective > 
+<வியர்வையை>:
+வியர்வை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<உடனே>:
+உடனே < Particle > 
+<உடனே>
+உடனே < Adverb > 
+<உடனே>
+
+<துடைத்துவிட>:
+துடை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > விட < Postposition > 
+<துடை+த்த்+உ+விட>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+

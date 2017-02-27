@@ -1,0 +1,217 @@
+<﻿சகல>:
+
+<கட்டுக்கும்>:
+கட்டு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+க்க்+உம்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<வெந்தோண்டிக்கிழங்கு>:
+<unknown>
+
+<தொடைவாழைவேரும்>:
+
+<கிழங்கும்>:
+கிழங்கு < Noun > உம் < Clitic > 
+<ஒலுக்கிழங்கும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<கற்றாளங்கிழங்கு>:
+<unknown>
+
+<கோடகசாலைக்>:
+ஐ < Accusative Case > க் < Sandhi > 
+<ஐ+க்>
+<unknown>
+
+<கிழங்கு>:
+கிழங்கு < Noun > 
+<களற்சித்>:
+இ < Past Tense Marker > த் < Sandhi > 
+<இ+த்>
+<unknown>
+
+<துளிர்>:
+துளிர் < Verb > 
+<துளிர்>
+துளிர் < Noun > 
+<துளிர்>
+
+<கோரைத்துளிர்>:
+கோரை < Noun > த் < Sandhi > துளிர் < Noun > 
+<கோரை+த்+துளிர்>
+<unknown>
+
+<கொவ்வைக்>:
+
+<கிழங்கு>:
+கிழங்கு < Noun > 
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<உப்பும்>:
+உப்பு < Noun > உம் < Clitic > 
+<சின்னட்டி>:
+
+<அரிசிமாவும்>:
+அரிசி < Noun > மா < Noun > வ் < Sandhi > உம் < Clitic > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<இலுப்பை>:
+இலுப்பை < Entity > 
+<இலை>:
+இலை < Noun > 
+<நொச்சியிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<குறிஞ்சாயிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<அமுக்கிராக்கிழக்கு>:
+<unknown>
+
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<பூசமாறும்>:
+பூசம் < Noun > ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<வெள்ளைப்பாஷாணம்>:
+வெள்ளை < Noun > ப் < Sandhi > பாஷாணம் < Noun > 
+<வெள்ளை+ப்+பாஷாணம்>
+
+<குதிரைப்பாஷாணம்>:
+குதிரை < Noun > ப் < Sandhi > பாஷாணம் < Noun > 
+<குதிரை+ப்+பாஷாணம்>
+
+<கௌரிபாஷாணம்>:
+<unknown>
+
+<சிவந்த>:
+இ < Past Tense Marker > வா < Auxiliary Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<இ+வா+ந்த்+உ+அ>
+<unknown>
+
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<வச்சநாபி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பெருங்குரும்பை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<அதிவிடயம்>:
+<unknown>
+
+<தேவதாரு>:
+தேவதாரு < Noun > 
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தேங்காய்பாலில்>:
+தேங்காய்பால் < Noun > இல் < Locative Case > 
+<அரைத்துக்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<அரை+த்த்+உ+க்>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<மெழுகுபதம்>:
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<கடுகைப்புண்ணுக்குப்>:
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<எண்ணெயை>:
+எண்ணெய் < Noun > ஐ < Accusative Case > 
+<மாறாத>:
+மாறு < Noun > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > 
+<மாறு+அ+ஆது+அ>
+
+<புண்ணுக்குப்>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > ப் < Sandhi > 
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<நீர்ப்பூலா>:
+ஆ < Clitic > 
+<ஆ>
+<unknown>
+
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<கோழிமுட்டையும்>:
+
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<பூவும்>:
+பூ < Noun > வ் < Sandhi > உம் < Clitic > 
+<கோடைக்கிழங்கும்>:
+கோடை < Noun > க் < Sandhi > கிழங்கு < Noun > உம் < Clitic > 
+<பச்சைமஞ்சளும்>:
+பச்சை < Noun > மஞ்சள் < Noun > உம் < Clitic > 
+<அரைத்துப்>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அரை+த்த்+உ+ப்>
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

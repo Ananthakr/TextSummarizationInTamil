@@ -1,0 +1,66 @@
+<﻿புண்ணுக்கு>:
+
+<மருந்து>:
+மருந்து < Noun > 
+<பேய்நொச்சியிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<அரைத்துப்பூச>:
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<பேய்க்>:
+பேய் < Noun > க் < Sandhi > 
+<கொம்மட்டி>:
+
+<இலைக்கு>:
+இலை < Noun > க்கு < Dative Case > 
+<சுண்ணாம்பு>:
+சுண்ணாம்பு < Noun > 
+<கொஞ்சம்>:
+கொஞ்சம் < Adverb > 
+<கொஞ்சம்>
+கொஞ்சம் < Noun > 
+<கொஞ்சம்>
+
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<அல்லது>:
+அல்லது < Conjunction > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<பாவட்டம்>:
+<unknown>
+
+<இலைவாட்டி>:
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

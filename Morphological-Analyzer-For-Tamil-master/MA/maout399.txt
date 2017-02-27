@@ -1,0 +1,56 @@
+<﻿பல்வலிக்கு>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கஸ்தூரி>:
+கஸ்தூரி < Entity > 
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<2.5கி.>:
+<unknown>
+
+<இலைக்கள்ளி>:
+இலை < Noun > க் < Sandhi > கள்ளி < Noun > 
+<இலை+க்+கள்ளி>
+<unknown>
+
+<எருக்கிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<தேசிப்ப்புளி>:
+
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வாயிலிடத்>:
+வாயில் < Noun > இடு < Auxiliary Verb > அ < Relative Participle Suffix > த் < Sandhi > 
+<வாயில்+இடு+அ+த்>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

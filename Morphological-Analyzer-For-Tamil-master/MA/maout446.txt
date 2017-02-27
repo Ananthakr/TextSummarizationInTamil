@@ -1,0 +1,78 @@
+<﻿நீரிழிவுக்கு>:
+
+<கியாழம்>:
+<unknown>
+
+<ஆவாரம்யிலைதூள்>:
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<கல்மதம்>:
+கல் < Noun > மதம் < Noun > 
+<கல்+மதம்>
+
+<1/4>:
+<unknown>
+
+<கொன்றைப்படை>:
+கொன்றை < Noun > ப் < Sandhi > படு < Auxiliary Verb > ஐ < Accusative Case > 
+<கொன்றை+ப்+படு+ஐ>
+
+<1/4>:
+<unknown>
+
+<மிளகு>:
+மிளகு < Noun > 
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<தட்டி>:
+தட்டி < Noun > 
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலத்தில்>:
+ஜலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கால்படியாக>:
+கால் < Noun > ப் < Sandhi > அடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<கால்+ப்+அடி+ய்+ஆக>
+
+<வற்றக்>:
+வற்று < Verb > அ < Relative Participle Suffix > க் < Sandhi > 
+<வற்று+அ+க்>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<யிருவெளையும்>:
+வ் < Future Tense Marker > ய் < Verbal Participle Suffix > உம் < Clitic > 
+<வ்+ய்+உம்>
+<unknown>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<நீரிழிவு>:
+நீரிழிவு < Noun > 
+<நீங்கும்>:
+நீங்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நீங்கு+உம்>
+
+<.>:
+<unknown>
+

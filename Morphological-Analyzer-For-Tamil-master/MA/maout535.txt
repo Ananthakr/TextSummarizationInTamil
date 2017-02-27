@@ -1,0 +1,55 @@
+<﻿பவுந்திரத்துக்கு>:
+அத்து < Oblique > உக்கு < Dative Case > 
+<அத்து+உக்கு>
+<unknown>
+
+<மருந்து>:
+மருந்து < Noun > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சிறங்கை>:
+
+<கொடிவேலிவேரும்>:
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<சிறகை>:
+சிறகு < Noun > ஐ < Accusative Case > 
+<காக்கணம்>:
+<unknown>
+
+<வேரும்>:
+வேர் < Noun > உம் < Clitic > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சிறங்கை>:
+
+<உள்ளியும்>:
+உள்ளி < Noun > ய் < Sandhi > உம் < Clitic > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<நீர்விட்டு>:
+நீர் < Noun > விட்டு < Postposition > 
+<உள்ளி>:
+உள்ளி < Noun > 
+<நசியக்>:
+நசி < Verb > ய் < Sandhi > அ < Relative Participle Suffix > க் < Sandhi > 
+<நசி+ய்+அ+க்>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<சிறங்கை>:
+
+<வீதம்>:
+வீதம் < Noun > 
+<குடிக்கவும்>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<குடி+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

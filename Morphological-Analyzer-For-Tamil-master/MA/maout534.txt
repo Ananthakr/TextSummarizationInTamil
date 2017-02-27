@@ -1,0 +1,99 @@
+<﻿பித்ததிற்கு>:
+இ < Past Tense Marker > த்த் < Past Tense Marker > அது < Neuter OR Pronominal > இன் < Euphonic > கு < Dative Case > 
+<இ+த்த்+அது+இன்+கு>
+<unknown>
+
+<கியாழம்>:
+<unknown>
+
+<சீரகம்>:
+சீரகம் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<1/4>:
+<unknown>
+
+<பேய்பீர்க்கு>:
+பேய் < Noun > ப் < Future Tense Marker > ஈர் < Second Person Singular Suffix > க்கு < Dative Case > 
+<பேய்+ப்+ஈர்+க்கு>
+
+<1/4>:
+<unknown>
+
+<சீந்தில்கொடி>:
+கொடு < Auxiliary Verb > இ < Past Tense Marker > 
+<கொடு+இ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<பர்ப்படாகம்>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<கொத்தமல்லி>:
+கொத்தமல்லி < Noun > 
+<1/4>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<அறு>:
+அறு < Verb > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<தட்டிப்போட்டு>:
+தட்டு < Verb > இ < Past Tense Marker > ப் < Sandhi > போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தட்டு+இ+ப்+போடு+ட்+உ>
+
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலம்>:
+ஜலம் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<காப்படியாக>:
+
+<சுண்டகாய்ச்சி>:
+
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<சாப்பிட்டு>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சாப்பிடு+ட்+உ>
+
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<தலை>:
+தலை < Noun > 
+<சுற்றலானப்>:
+
+<பித்தமானது>:
+பித்தம் < Noun > ஆன < Adjectival Suffix > து < Pronominal Neuter Singular > 
+<பித்தம்+ஆன+து>
+
+<அகன்றுபோகும்>:
+அகல் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > போ < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<அகல்+ற்+உ+போ+உம்>
+
+<.>:
+<unknown>
+

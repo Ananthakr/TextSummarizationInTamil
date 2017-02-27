@@ -1,0 +1,99 @@
+<﻿கொருக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+<unknown>
+
+<முதலிய>:
+முதலிய < Adjective > 
+<புண்களுக்கு>:
+புண் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<மேற்பூசும்>:
+
+<முலாம்>:
+முலாம் < Noun > 
+<மிருதாருசிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<விரானிகடை>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ட்+உ+ஐ>
+<unknown>
+
+<11/4>:
+<unknown>
+
+<கெந்தி>:
+கெந்து < Verb > இ < Past Tense Marker > 
+<கெந்து+இ>
+
+<பூரம்>:
+பூரம் < Noun > 
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<பால்துத்தம்>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஐந்து>:
+ஐந்து < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<நெய்>:
+நெய் < Verb > 
+<நெய்>
+நெய் < Noun > 
+<நெய்>
+
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கழுவி>:
+கழுவு < Verb > இ < Past Tense Marker > 
+<கழுவு+இ>
+
+<வழித்தெடுத்து>:
+வழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வழி+த்த்+உ+எடு+த்த்+உ>
+
+<வைத்துக்கொண்டு>:
+வைத்து < Particle > க் < Sandhi > கொண்டு < Postposition > 
+<அரையாப்பு>:
+
+<கொருக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+<unknown>
+
+<முதலிய>:
+முதலிய < Adjective > 
+<இரணங்களுக்கு>:
+இரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<மேல்பூச>:
+
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

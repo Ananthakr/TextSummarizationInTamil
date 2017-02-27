@@ -1,0 +1,64 @@
+<﻿நெடு>:
+எடு < Auxiliary Verb > 
+<எடு>
+<unknown>
+
+<நாள்பட்ட>:
+நாள்பட்ட < DateTime > 
+<விரணம்>:
+<unknown>
+
+<ஆறமருந்து>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ந்த்+உ>
+<unknown>
+
+<நெடு>:
+எடு < Auxiliary Verb > 
+<எடு>
+<unknown>
+
+<நாள்>:
+நாள் < DateTime > 
+<பட்ட>:
+பட்டர் < Entity > 
+<இரணங்களின்>:
+இரணம் < Noun > கள் < Plural Suffix > இன் < Genitive Case > 
+<மீது>:
+மீது < Particle > 
+<விளிம்பைச்>:
+விளிம்பு < Noun > ஐ < Accusative Case > ச் < Sandhi > 
+<சுற்றிலும்>:
+சுற்று < Noun > இல் < Locative Case > உம் < Clitic > 
+<மெதுவாய்>:
+மெதுவாய் < Adverb > 
+<துரிசை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<பூசிக்கொண்டு>:
+பூசி < Verb > க் < Sandhi > கொண்டு < Postposition > 
+<பூசி+க்+கொண்டு>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<கூடிய>:
+கூடு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<கூடு+இ+ய்+அ>
+
+<சீக்கிரத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

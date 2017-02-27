@@ -1,0 +1,92 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<வற்ற>:
+வற்று < Verb > அ < Relative Participle Suffix > 
+<வற்று+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<வாழைக்காம்பு>:
+<unknown>
+
+<சுட்டுக்>:
+சுட்டு < Verb > க் < Sandhi > 
+<சுட்டு+க்>
+சுட்டு < Noun > க் < Sandhi > 
+<சுட்டு+க்>
+
+<கரியாக்கி>:
+கரியாக்கு < Verb > இ < Past Tense Marker > 
+<கரியாக்கு+இ>
+
+<அதனுடன்>:
+அதன் < Demonstrative Adjective > உடன் < Particle > 
+<அதன்+உடன்>
+அதன் < Demonstrative Adjective > உடன் < Particle > 
+<அதன்+உடன்>
+அது < Pronoun > அன் < Euphonic > உடன் < Associative Case > 
+<அது+அன்+உடன்>
+
+<சுண்ணாம்பு>:
+சுண்ணாம்பு < Noun > 
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<தழும்பில்>:
+தழும்பு < Noun > இல் < Locative Case > 
+<வைக்கவும்>:
+வை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<வை+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<நெற்பொரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<ஆமணக்கம்>:
+<unknown>
+
+<விதை>:
+விதை < Verb > 
+<விதை>
+விதை < Noun > 
+<விதை>
+
+<எள்ளுப்பொரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<சேர்த்தரைத்து>:
+
+<நெய்யிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<வற்றும்>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வற்று+உம்>
+
+<அல்லது>:
+அல்லது < Conjunction > 
+<உடைக்கும்>:
+உடை < Noun > க்கு < Dative Case > உம் < Clitic > 
+<.>:
+<unknown>
+

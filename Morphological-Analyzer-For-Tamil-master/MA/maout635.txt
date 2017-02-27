@@ -1,0 +1,115 @@
+<﻿மூளை>:
+
+<விழுந்த>:
+விழு < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<விழு+ந்த்+உ+அ>
+
+<கறுப்பு>:
+கறுப்பு < Noun > 
+<காரசீலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<கவுரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பாஷாணம்>:
+பாஷாணம் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1>:
+1 < Numbers > 
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<1>:
+1 < Numbers > 
+<சுண்ணம்>:
+சுண்ணம் < Noun > 
+<1>:
+1 < Numbers > 
+<பால்துத்தம்>:
+<unknown>
+
+<1>:
+1 < Numbers > 
+<மிருதார்சிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<1>:
+1 < Numbers > 
+<வெள்ளைபாஷாணம்>:
+வெள்ளை < Noun > பாஷாணம் < Noun > 
+<வெள்ளை+பாஷாணம்>
+
+<1>:
+1 < Numbers > 
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<1>:
+1 < Numbers > 
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஏழு>:
+ஏழு < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<இதற்கு>:
+இது < Pronoun > அன் < Euphonic > கு < Dative Case > 
+<சமகை>:
+ஐ < Accusative Case > 
+<ஐ>
+சம < Adjectival Noun > கை < Noun > 
+<சம+கை>
+
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<பொடி>:
+பொடி < Verb > 
+<பொடி>
+பொடி < Noun > 
+<பொடி>
+
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<சீலையில்>:
+சீலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<மூளையின்>:
+மூளை < Noun > ய் < Sandhi > இன் < Genitive Case > 
+<மீது>:
+மீது < Particle > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்ட>:
+கட்டு < Verb > அ < Relative Participle Suffix > 
+<கட்டு+அ>
+
+<மூளையானது>:
+மூளை < Noun > ய் < Sandhi > ஆன < Adjectival Suffix > து < Pronominal Neuter Singular > 
+<மூளை+ய்+ஆன+து>
+
+<அற்றுவிழும்>:
+
+<உபாதைதீரும்>:
+உபாதை < Noun > த் < Sandhi > ஈர் < Adjective > உம் < Clitic > 
+<.>:
+<unknown>
+

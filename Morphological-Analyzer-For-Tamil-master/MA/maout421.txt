@@ -1,0 +1,31 @@
+<﻿முள்ளு>:
+<unknown>
+
+<விழ>:
+விழு < Verb > அ < Infinitive Suffix > 
+<விழு+அ>
+
+<பழப்புளியும்>:
+
+<சுண்ணாம்பும்>:
+சுண்ணாம்பு < Noun > உம் < Clitic > 
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<குழைத்து>:
+குழை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<குழை+த்த்+உ>
+
+<முட்தைத்த>:
+
+<வாயிற்பூச>:
+
+<விழும்>:
+விழு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<விழு+உம்>
+
+<.>:
+<unknown>
+

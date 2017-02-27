@@ -1,0 +1,93 @@
+<﻿போர்மாதத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<கியாழம்>:
+<unknown>
+
+<நுணா>:
+நுணா < Entity > 
+<வேலிப்பருத்தி>:
+
+<பொடுதலை>:
+
+<வெற்றிலை>:
+வெற்றிலை < Noun > 
+<இவைகள்>:
+இவைகள் < Pronoun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<வரானிகடை>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ட்+உ+ஐ>
+<unknown>
+
+<1>:
+1 < Numbers > 
+<ஆமைஓடு>:
+ஆமை < Noun > ஓடு < Associative Case > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<பூண்டு>:
+பூண்டு < Noun > 
+<ஓமம்>:
+<unknown>
+
+<கிராம்பு>:
+கிராம்பு < Noun > 
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<சமமாய்>:
+சமம் < Noun > ஆய் < Adverbial Suffix > 
+<சமம்+ஆய்>
+
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<வெதுப்பி>:
+
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலத்தில்>:
+ஜலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<யெட்டொன்றாய்>:
+ற் < Past Tense Marker > ஆய் < Second Person Singular Suffix > 
+<ற்+ஆய்>
+<unknown>
+
+<வற்றக்>:
+வற்று < Verb > அ < Relative Participle Suffix > க் < Sandhi > 
+<வற்று+அ+க்>
+
+<காச்சிய>:
+இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<இ+ய்+அ>
+<unknown>
+
+<கியாழத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<சங்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<கொடுக்கத்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > த் < Sandhi > 
+<கொடு+க்க்+அ+த்>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,60 @@
+<﻿தண்டுக்கு>:
+
+<மேலே>:
+மேலே < Adverb > 
+<கட்டும்>:
+கட்டு < Verb > உம் < Clitic > 
+<கட்டு+உம்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<புளியம்>:
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<உருவி>:
+உருவு < Verb > இ < Past Tense Marker > 
+<உருவு+இ>
+
+<அவித்து>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அவி+த்த்+உ>
+
+<அந்த>:
+அந்த < Demonstrative Adjective > 
+<நீரினாலேயே>:
+நீர் < Noun > இன் < Euphonic > ஆல் < Instrumental Case > ஏ < Clitic > ய் < Sandhi > ஏ < Clitic > 
+<தண்டைக்>:
+தண்டை < Noun > க் < Sandhi > 
+<கழுவி>:
+கழுவு < Verb > இ < Past Tense Marker > 
+<கழுவு+இ>
+
+<பின்>:
+பின் < Adjective > 
+<பின்>
+பின் < Postposition > 
+<பின்>
+பின் < Adverb > 
+<பின்>
+பின் < Noun > 
+<பின்>
+
+<அந்த>:
+அந்த < Demonstrative Adjective > 
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<விதானத்தின்>:
+விதானம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<மேலே>:
+மேலே < Adverb > 
+<மூடிக்கட்டவும்>:
+மூடி < Noun > க் < Sandhi > கட்டு < Auxiliary Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<மூடி+க்+கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

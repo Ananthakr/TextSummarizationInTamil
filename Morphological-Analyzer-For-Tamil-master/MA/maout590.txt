@@ -1,0 +1,49 @@
+<﻿மஞ்சட்>:
+
+<காமாலைக்கு>:
+காமாலை < Noun > க்கு < Dative Case > 
+<வெள்ளைப்>:
+வெள்ளை < Noun > ப் < Sandhi > 
+<புல்லாந்திந்>:
+<unknown>
+
+<கொழுந்து>:
+கொழுந்து < Noun > 
+<எலுமிச்சங்காயளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<எருமைத்>:
+எருமை < Noun > த் < Sandhi > 
+<தயிர்வார்த்து>:
+தயிர் < Noun > வார் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தயிர்+வார்+த்த்+உ>
+
+<மேற்படி>:
+மேற்படி < Adjective > 
+<தயிரிற்கூட்டி>:
+ற் < Past Tense Marker > கூடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<ற்+கூடு+ட்+உ+இ>
+<unknown>
+
+<3-நாள்>:
+ஆள் < Third Person Femime Singular Suffix > 
+<ஆள்>
+<unknown>
+
+<கொள்ளவும்.உப்பு>:
+
+<புளி>:
+புளி < Verb > 
+<புளி>
+புளி < Noun > 
+<புளி>
+
+<நீக்கவும்>:
+நீ < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<நீ+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

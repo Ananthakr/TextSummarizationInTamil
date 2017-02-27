@@ -1,0 +1,269 @@
+<﻿வேறுவிதசிங்கித்>:
+இ < Past Tense Marker > த் < Sandhi > 
+<இ+த்>
+<unknown>
+
+
+<தைலம்>:
+தைலம் < Noun > 
+
+<கஸ்தூரிமஞ்சள்>:
+கஸ்தூரி < Noun > மஞ்சள் < Noun > 
+<கஸ்தூரி+மஞ்சள்>
+
+
+<விரானிகடை>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ட்+உ+ஐ>
+<unknown>
+
+
+<1/2>:
+<unknown>
+
+
+<நிமிளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+
+<1/2>:
+<unknown>
+
+
+<காந்தக்கல்>:
+<unknown>
+
+
+<1/2>:
+<unknown>
+
+
+<பாதரசம்>:
+பாதரசம் < Noun > 
+
+<1/2>:
+<unknown>
+
+
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+
+<1/2>:
+<unknown>
+
+
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+
+<1/2>:
+<unknown>
+
+
+<வெள்ளைபாஷாணம்>:
+வெள்ளை < Noun > பாஷாணம் < Noun > 
+<வெள்ளை+பாஷாணம்>
+
+
+<1/2>:
+<unknown>
+
+
+<வசம்பு>:
+வசம்பு < Noun > 
+
+<1/2>:
+<unknown>
+
+
+<வெங்காயம்>:
+வெங்காயம் < Noun > 
+
+<1/2>:
+<unknown>
+
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+
+<ஒன்பது>:
+ஒன்பது < charNumbers > 
+
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+
+<பச்சை>:
+பச்சை < Noun > 
+
+<வெட்டாக>:
+வெட்டு < Noun > ஆக < Adverbial Suffix > 
+<வெட்டு+ஆக>
+
+
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+
+<ஓர்>:
+ஓர் < Adjective > 
+
+<பாண்டத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+
+<புங்கால்>:
+ஆல் < Instrumental Case > 
+<ஆல்>
+<unknown>
+
+
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+
+<அரை>:
+அரை < Verb > 
+
+<ஒதியின்பால்>:
+ஆல் < Instrumental Case > 
+<ஆல்>
+<unknown>
+
+
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+
+<அரை>:
+அரை < Verb > 
+
+<நல்லெண்ணை>:
+ண் < Sandhi > ஐ < Accusative Case > 
+<ண்+ஐ>
+<unknown>
+
+
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+
+<ஒன்று>:
+ஒன்று < charNumbers > 
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+
+<வார்த்து>:
+வார்த்து < DateTime > 
+
+<எண்ணைப்பதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+
+<காய்ச்சியிறக்கி>:
+அ < Infinitive Suffix > க்க் < Sandhi > இ < Past Tense Marker > 
+<அ+க்க்+இ>
+<unknown>
+
+
+<வைத்துக்கொண்டு>:
+வைத்து < Particle > க் < Sandhi > கொண்டு < Postposition > 
+
+<சிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+
+<பிளவை>:
+பிளவை < Noun > 
+
+<இரணம்>:
+இரணம் < Noun > 
+
+<புத்து>:
+த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<த்த்+உ>
+<unknown>
+
+
+<அரையாப்பு>:
+
+
+<பவுத்திரம்>:
+<unknown>
+
+
+<சூலை>:
+சூலை < Noun > 
+
+<இவைக்ளுக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+<unknown>
+
+
+<சீளையில்>:
+ய் < Sandhi > இல் < Locative Case > 
+<ய்+இல்>
+<unknown>
+
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+
+<தைலத்தை>:
+தைலம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+
+<தோய்த்து>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தோய்+த்த்+உ>
+
+
+<மேலே>:
+மேலே < Adverb > 
+
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+
+<.>:
+<unknown>
+
+

@@ -1,0 +1,119 @@
+<﻿கன்னம்>:
+<unknown>
+
+<கொடுப்பு>:
+
+<அண்ணாக்கு>:
+அண்ணா < Entity > க்கு < Dative Case > 
+<முரசு>:
+முரசு < Noun > 
+<நாக்கு>:
+நாக்கு < Noun > 
+<உதடு>:
+உதடு < Noun > 
+<பல்>:
+பல் < Adjective > 
+<பல்>
+பல் < Noun > 
+<பல்>
+
+<தொண்டை>:
+தொண்டை < Entity > 
+<விதனம்>:
+<unknown>
+
+<புண்ணுக்கும்>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > உம் < Clitic > 
+<புகை>:
+புகை < Verb > 
+<புகை>
+புகை < Noun > 
+<புகை>
+
+<பொரிக்காரம்>:
+பொரி < Noun > க் < Sandhi > காரம் < Noun > 
+<பொரி+க்+காரம்>
+
+<அக்ரா>:
+அக்ரா < Entity > 
+<சாதிக்காய்>:
+சாதிக்காய் < Noun > 
+<2.5>:
+<unknown>
+
+<கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<பொடி>:
+பொடி < Verb > 
+<பொடி>
+பொடி < Noun > 
+<பொடி>
+
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<புதுச்சுங்கானிலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<அந்தி>:
+அந்தி < Noun > 
+<சந்தி>:
+சந்தி < Verb > 
+<சந்தி>
+சந்தி < Noun > 
+<சந்தி>
+
+<புகைக்கவும்>:
+புகை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<புகை+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<விழுங்காமல்>:
+விழுங்கு < Verb > அ < Infinitive Suffix > ஆமல் < Negative Conditional Suffix Suffix > 
+<விழுங்கு+அ+ஆமல்>
+
+<முழுக்கப்>:
+முழுக்க < Adverb > ப் < Sandhi > 
+<புகைக்கவும்>:
+புகை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<புகை+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பல்>:
+பல் < Adjective > 
+<பல்>
+பல் < Noun > 
+<பல்>
+
+<விரணம்>:
+<unknown>
+
+<முரசு>:
+முரசு < Noun > 
+<விதனம்>:
+<unknown>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

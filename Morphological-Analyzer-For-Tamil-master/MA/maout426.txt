@@ -1,0 +1,222 @@
+<﻿நாய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<கடித்தால்>:
+கடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<கடி+த்த்+உ+ஆல்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<வாய்>:
+வாய் < Verb > 
+<வாய்>
+வாய் < Noun > 
+<வாய்>
+
+<பேசாது>:
+பேசு < Verb > அ < Infinitive Suffix > ஆது < Future Negative Suffix > 
+<பேசு+அ+ஆது>
+
+<ஊமத்தம்>:
+<unknown>
+
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<சுண்ணாம்பும்>:
+சுண்ணாம்பு < Noun > உம் < Clitic > 
+<சேர்த்தரைத்து>:
+
+<தழும்பிற்>:
+தழும்பு < Noun > இ < Past Tense Marker > ற் < Past Tense Marker > 
+<தழும்பு+இ+ற்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<வீங்கினால்>:
+வீங்கு < Verb > இன் < Euphonic > ஆல் < Instrumental Case > 
+<வீங்கு+இன்+ஆல்>
+
+<ஊமத்தஞ்சாறும்>:
+சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<சா+ற்+உ+உம்>
+<unknown>
+
+<ஒட்டறையும்>:
+அ < Infinitive Suffix > ற் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<அ+ற்+உ+ஐ+ய்+உம்>
+<unknown>
+
+<சுண்ணாம்புத்>:
+சுண்ணாம்பு < Noun > த் < Sandhi > 
+<தண்ணீரும்>:
+தண்ணீர் < Noun > உம் < Clitic > 
+<கொதிக்க>:
+கொதி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொதி+க்க்+அ>
+
+<வைத்துப்>:
+வைத்து < Particle > ப் < Sandhi > 
+<வைத்து+ப்>
+வைத்து < Postposition > ப் < Sandhi > 
+<வைத்து+ப்>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<மிக>:
+மிக < Adjective > 
+<மிக>
+மிக < Intensifier > 
+<மிக>
+மிக < Adverb > 
+<மிக>
+
+<வருந்தினால்>:
+வருந்து < Verb > இன் < Euphonic > ஆல் < Instrumental Case > 
+<வருந்து+இன்+ஆல்>
+
+<குதிரைவாலி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<தலைக்கு>:
+தலைக்கு < Particle > 
+<வைக்கவும்>:
+வை < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<வை+க்க்+அ+வ்+உம்>
+
+<அல்லது>:
+அல்லது < Conjunction > 
+<சின்ன>:
+சின்ன < Adjective > 
+<மாவிலங்கமெண்ணெய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+<தலைக்கும்>:
+தலைக்கு < Particle > உம் < Clitic > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<சர்வாங்கமும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<நகக்காளான்>:
+
+<குளிகையை>:
+குளிகை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<வேப்பெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<குளிர்>:
+குளிர் < Verb > 
+<குளிர்>
+குளிர் < Noun > 
+<குளிர்>
+
+<கண்டால்>:
+கண்டு < Noun > ஆல் < Instrumental Case > 
+<வாதமடக்கி>:
+வாதம் < Noun > அடு < Verb > அ < Infinitive Suffix > க்க் < Sandhi > இ < Past Tense Marker > 
+<வாதம்+அடு+அ+க்க்+இ>
+
+<நொச்சி>:
+நொச்சி < Noun > 
+<ஊமத்தை>:
+ஊமத்தை < Noun > 
+<களற்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<மாவிலங்கை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<இவற்றின்>:
+இ < Pronoun > அற்று < Oblique > இன் < Genitive Case > 
+<இலைகளை>:
+இலை < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<அரிந்து>:
+அரி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரி+ந்த்+உ>
+
+<வேடுகட்டி>:
+வே < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > கட்டு < Auxiliary Verb > இ < Past Tense Marker > 
+<வே+ட்+உ+கட்டு+இ>
+
+<அவித்துச்>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ச் < Sandhi > 
+<அவி+த்த்+உ+ச்>
+
+<சர்வாங்கமும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<கொடுக்கவும்>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கொடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<இத்துடன்>:
+த்த் < Past Tense Marker > உ < Verbal Participle Suffix > உடன் < Associative Case > 
+<த்த்+உ+உடன்>
+
+<வேப்பம்>:
+<unknown>
+
+<விதை>:
+விதை < Verb > 
+<விதை>
+விதை < Noun > 
+<விதை>
+
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<பிடிப்பது>:
+பிடிப்பு < Noun > அது < Genitive Case > 
+<நன்று>:
+நன்று < Noun > 
+<.>:
+<unknown>
+

@@ -1,0 +1,125 @@
+<﻿சகல>:
+
+<இரணங்களுக்கு>:
+இரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<தைலம்>:
+தைலம் < Noun > 
+<பாதரசம்>:
+பாதரசம் < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<காந்தபாஷாணம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<கெந்தகம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<1/2>:
+<unknown>
+
+<லிங்கம்>:
+லிங்கம் < Entity > 
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஜந்து>:
+ஜந்து < Noun > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<பரித்திப்பாலும்>:
+
+<நல்லெண்ணெ>:
+<unknown>
+
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோலரைத்து>:
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<ஆறாதவிரணம்>:
+<unknown>
+
+<ரத்தங்கட்டி>:
+கட்டு < Auxiliary Verb > இ < Past Tense Marker > 
+<கட்டு+இ>
+<unknown>
+
+<கொண்டிருக்கும்>:
+கொண்டிரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<கொண்டிரு+க்க்+உம்>
+
+<சதைகள்>:
+சதை < Noun > கள் < Plural Suffix > 
+<பிளவை>:
+பிளவை < Noun > 
+<பவுத்திரம்>:
+<unknown>
+
+<குஷ்டம்>:
+குஷ்டம் < Noun > 
+<இவைகட்கு>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<தைலத்தை>:
+தைலம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+<சீலையிற்றடவி>:
+
+<மேலே>:
+மேலே < Adverb > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<சகல>:
+சகல < Adjectival Noun > 
+<ரணங்களும்>:
+ரணம் < Noun > கள் < Plural Suffix > உம் < Clitic > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<முளை>:
+முளை < Verb > 
+<முளை>
+முளை < Noun > 
+<முளை>
+
+<ஆனி>:
+ஆனி < Noun > 
+<யிவைகள்>:
+இ < Past Tense Marker > வை < Auxiliary Verb > கள் < Plural Suffix > 
+<இ+வை+கள்>
+<unknown>
+
+<வெளியாகும்>:
+வெளியாகு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வெளியாகு+உம்>
+
+<.>:
+<unknown>
+

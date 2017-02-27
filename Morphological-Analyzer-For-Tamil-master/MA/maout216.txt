@@ -1,0 +1,82 @@
+<﻿வெந்தயக்கீரை(Trigonella>:
+<Error>
+
+<Foenum>:
+<Error>
+
+<Graecum>:
+<Error>
+
+<இதில்>:
+இது < Pronoun > இல் < Locative Case > 
+<வைட்டமின்>:
+இன் < Genitive Case > 
+<இன்>
+<unknown>
+
+<B>:
+<Error>
+
+<உயிர்ச்சத்தும்>:
+உயிர்ச்சத்து < Noun > உம் < Clitic > 
+<சுண்ணாம்புச்>:
+சுண்ணாம்பு < Noun > ச் < Sandhi > 
+<சத்தும்>:
+சத்து < Noun > உம் < Clitic > 
+<உள்ளது>:
+உள்ளது < Finite Verb > 
+<.>:
+<unknown>
+
+<இது>:
+இது < Pronoun > 
+<நல்ல>:
+நல்ல < Adjective > 
+<ஜீரண>:
+ஜீரண < Adjectival Noun > 
+<சக்தியைத்>:
+சக்தி < Noun > ய் < Sandhi > ஐ < Accusative Case > த் < Sandhi > 
+<தரும்>:
+தா < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தா+உம்>
+
+<.>:
+<unknown>
+
+<இதை>:
+இது < Pronoun > ஐ < Accusative Case > 
+<தினசரி>:
+தினசரி < Adjective > 
+<தினசரி>
+தினசரி < Noun > 
+<தினசரி>
+
+<சாப்பிட்டு>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சாப்பிடு+ட்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<இது>:
+இது < Pronoun > 
+<படை>:
+படை < Verb > 
+<படை>
+படை < Noun > 
+<படை>
+
+<சொரி>:
+சொரி < Verb > 
+<சிரங்கு>:
+சிரங்கு < Noun > 
+<யாவும்>:
+யாவும் < Noun > 
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,37 @@
+<﻿வேறு>:
+
+<புங்கம்பாலும்>:
+ஆல் < Instrumental Case > உம் < Clitic > 
+<ஆல்+உம்>
+<unknown>
+
+<மஞ்சளும்>:
+மஞ்சள் < Noun > உம் < Clitic > 
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெயும்>:
+எண்ணெய் < Noun > உம் < Clitic > 
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<சூரியபுடம்>:
+<unknown>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<புண்ணிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 

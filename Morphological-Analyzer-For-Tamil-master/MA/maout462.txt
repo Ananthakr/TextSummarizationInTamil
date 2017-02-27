@@ -1,0 +1,45 @@
+<﻿புரை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<விழுந்த>:
+விழு < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<விழு+ந்த்+உ+அ>
+
+<புண்ணுக்கு>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<அரக்கு>:
+அரக்கு < Verb > 
+<அரக்கு>
+அரக்கு < Noun > 
+<அரக்கு>
+
+<தேசிப்புளி>:
+
+<ஊமத்தஞ்சாறு>:
+சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<சா+ற்+உ>
+<unknown>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<மெழுகுபதம்>:
+<unknown>
+
+<காய்ச்சிப்>:
+காய்ச்சு < Verb > இ < Past Tense Marker > ப் < Sandhi > 
+<காய்ச்சு+இ+ப்>
+
+<புரையில்>:
+
+<இடவும்>:
+இட < Adjectival Noun > வ் < Sandhi > உம் < Clitic > 
+<இட+வ்+உம்>
+

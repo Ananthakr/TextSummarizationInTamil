@@ -1,0 +1,81 @@
+<﻿கரப்பானுக்கு>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<தேங்காய்>:
+தேங்காய் < Noun > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<களிப்பாக்கு>:
+களிப்பாக்கு < Noun > 
+<வேம்பாடல்>:
+
+<செங்கத்தாரிவேர்>:
+
+<அத்திவேர்>:
+அத்தி < Noun > வேர் < Verb > 
+<அத்தி+வேர்>
+
+<புங்கம்>:
+புங்கம் < Entity > 
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<ஆவாரை>:
+ஆ < Verb > வ் < Future Tense Marker > ஆர் < Pronominal Third Person Singular > ஐ < Accusative Case > 
+<ஆ+வ்+ஆர்+ஐ>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<துடரிவேர்>:
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<தூள்>:
+தூள் < Noun > 
+<பண்ணி>:
+பண்ணு < Verb > இ < Past Tense Marker > 
+<பண்ணு+இ>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<தூள்>:
+தூள் < Noun > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பொன்னிறமாக>:
+பொன்னிறம் < Noun > ஆக < Adverbial Suffix > 
+<பொன்னிறம்+ஆக>
+
+<இறக்கி>:
+இறக்கு < Verb > இ < Past Tense Marker > 
+<இறக்கு+இ>
+
+<பஞ்சில்>:
+பஞ்ச் < Entity > இல் < Locative Case > 
+<தோய்த்துப்போடவும்>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > போடு < Auxiliary Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<தோய்+த்த்+உ+ப்+போடு+அ+வ்+உம்>
+

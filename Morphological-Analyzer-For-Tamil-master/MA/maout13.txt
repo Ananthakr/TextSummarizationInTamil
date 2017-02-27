@@ -1,0 +1,127 @@
+<﻿அரையாப்புக்கு>:
+
+<களிம்பு>:
+களிம்பு < Noun > 
+<வெள்ளைபாஷாணம்>:
+வெள்ளை < Noun > பாஷாணம் < Noun > 
+<வெள்ளை+பாஷாணம்>
+
+<விரானிகடை>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+ட்+உ+ஐ>
+<unknown>
+
+<11/4>:
+<unknown>
+
+<கெவுரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<11/4>:
+<unknown>
+
+<இரசம்>:
+<unknown>
+
+<11/4>:
+<unknown>
+
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<11/4>:
+<unknown>
+
+<மிருதார்சிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<11/4>:
+<unknown>
+
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<1>:
+1 < Numbers > 
+<இம்மருந்துகளை>:
+இ < Demonstrative Adjective > ம் < Sandhi > மருந்து < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<இ+ம்+மருந்து+கள்+ஐ>
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > கள் < Plural Suffix > ஐ < Accusative Case > 
+<ந்த்+உ+கள்+ஐ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<நன்றாய்>:
+நன்று < Noun > ஆய் < Adverbial Suffix > 
+<நன்று+ஆய்>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<ஜலத்திற்கழுவி>:
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<வழித்து>:
+வழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வழி+த்த்+உ>
+
+<வைத்துக்கொண்டு>:
+வைத்து < Particle > க் < Sandhi > கொண்டு < Postposition > 
+<துணியிற்பூசி>:
+
+<பறங்கிப்புண்>:
+பறங்கி < Noun > ப் < Sandhi > புண் < Noun > 
+<பறங்கி+ப்+புண்>
+<unknown>
+
+<கடி>:
+கடி < Verb > 
+<கடி>
+கடி < Noun > 
+<கடி>
+
+<விஷம்>:
+விஷம் < Noun > 
+<சூலை>:
+சூலை < Noun > 
+<அரையாப்பு>:
+
+<பிளவை>:
+பிளவை < Noun > 
+<பவுந்தி>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<அ+வ்+ந்த்+உ+இ>
+<unknown>
+
+<பாம்புக்கடி>:
+பாம்பு < Noun > உக்கு < Dative Case > அடி < Clitic > 
+<மேற்போடயாவுந்தீரும்>:
+
+<இதை>:
+இது < Pronoun > ஐ < Accusative Case > 
+<ஏழுமுறை>:
+ஏழுமுறை < charNumbers > 
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<வார்த்து>:
+வார்த்து < DateTime > 
+<வார்த்துக்>:
+வார்த்துக் < DateTime > 
+<கழுவவும்>:
+கழு < Noun > வ் < Sandhi > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கழு+வ்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

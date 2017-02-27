@@ -1,0 +1,125 @@
+<﻿தந்த>:
+தா < Auxiliary Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<தா+ந்த்+உ+அ>
+<unknown>
+
+<ரோகத்துக்கு>:
+ரோகம் < Noun > அத்து < Oblique > உக்கு < Dative Case > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<செங்கோட்டை>:
+செங்கோட்டை < Entity > 
+<180கி.>:
+<unknown>
+
+<வெள்ளுள்ளி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<180கி.>:
+<unknown>
+
+<கருஞ்சீரகம்>:
+கருஞ்சீரகம் < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<கோட்டம்>:
+கோட்டம் < Noun > 
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<அக்கரா>:
+அர் < Third Person Plural Suffix > ஆ < Clitic > 
+<அர்+ஆ>
+
+<ஆலம்பால்>:
+ஆல் < Instrumental Case > 
+<ஆல்>
+<unknown>
+
+<எருக்கம்>:
+<unknown>
+
+<பால்>:
+பால் < Particle > 
+<பால்>
+பால் < Postposition > 
+<பால்>
+பால் < Noun > 
+<பால்>
+
+<சிவனார்>:
+சிவ < Verb > ன் < Past Tense Marker > ஆர் < Pronominal Third Person Singular > 
+<சிவ+ன்+ஆர்>
+
+<வேம்பு>:
+வேம்பு < Noun > 
+<வகை>:
+வகை < Noun > 
+<ஒவ்வொரு>:
+ஒவ்வொரு < Adjective > 
+<சிறங்கை>:
+
+<கள்ளிச்சாறு>:
+கள்ளு < Noun > இ < Past Tense Marker > ச் < Sandhi > சா < Auxiliary Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கள்ளு+இ+ச்+சா+ற்+உ>
+
+<கற்றாளஞ்சோறு>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ற்+உ>
+<unknown>
+
+<சமன்>:
+சமன் < Noun > 
+<சரக்குகளை>:
+சரக்கு < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<கியாளம்>:
+<unknown>
+
+<போட்டு>:
+போட்டு < Particle > 
+<3>:
+3 < Numbers > 
+<ஆழாக்கு>:
+ஆழாக்கு < Noun > 
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<சேர்த்துக்>:
+சேர்த்து < Adverb > க் < Sandhi > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<மெழுகுபதம்>:
+<unknown>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<வாயில்>:
+வாயில் < Noun > 
+<அடக்க>:
+அட < Particle > க்க் < Sandhi > அ < Infinitive Suffix > 
+<அட+க்க்+அ>
+
+<வியாதி>:
+வியாதி < Noun > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

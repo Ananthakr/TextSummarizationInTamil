@@ -1,0 +1,138 @@
+<﻿வாடாத>:
+வா < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > ஆது < Future Negative Suffix > அ < Relative Participle Suffix > 
+<வா+ட்+உ+அ+ஆது+அ>
+<unknown>
+
+<பன்னீர்>:
+பன்னீர் < Noun > 
+<ரோஜா>:
+ரோஜா < Noun > 
+<பூவை>:
+பூவை < Entity > 
+<கைப்பிடி>:
+கைப்பிடி < Verb > 
+<கைப்பிடி>
+கைப்பிடி < Noun > 
+<கைப்பிடி>
+
+<இருவேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<சாப்பிட்டால்>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<சாப்பிடு+ட்+உ+ஆல்>
+
+<சீதபேதி>:
+சீதபேதி < Noun > 
+<வயிற்றுக்கடுப்பு>:
+வயிற்றுக்கடுப்பு < Noun > 
+<மூலச்சூடு>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ட்+உ>
+<unknown>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<குங்குமம்>:
+குங்குமம் < Entity > 
+<பூவை>:
+பூவை < Entity > 
+<நசுக்கி>:
+நசுக்கு < Verb > இ < Past Tense Marker > 
+<நசுக்கு+இ>
+
+<நெற்றியில்>:
+நெற்றி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<பற்றுப்>:
+பற்று < Verb > ப் < Sandhi > 
+<பற்று+ப்>
+பற்று < Noun > ப் < Sandhi > 
+<பற்று+ப்>
+
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<தலைவலி>:
+தலைவலி < Noun > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+
+<அகத்திக்>:
+அ < Infinitive Suffix > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > க் < Sandhi > 
+<அ+த்த்+உ+இ+க்>
+<unknown>
+
+<கொழுந்தை>:
+கொழுந்து < Noun > ஐ < Accusative Case > 
+<கைப்பிடி>:
+கைப்பிடி < Verb > 
+<கைப்பிடி>
+கைப்பிடி < Noun > 
+<கைப்பிடி>
+
+<அளவு>:
+அளவு < Noun > 
+<காலையில்>:
+காலையில் < DateTime > 
+<தின்று>:
+தின் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தின்+ற்+உ>
+
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<வாய்ப்புண்>:
+வாய் < Noun > ப் < Sandhi > புண் < Noun > 
+<வாய்+ப்+புண்>
+<unknown>
+
+<வாய்நாற்றம்>:
+வாய் < Noun > நாற்றம் < Noun > 
+<வாய்+நாற்றம்>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+
+<சிற்றாமணக்கு>:
+<unknown>
+
+<விதையை>:
+விதை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<தீப்புண்கள்>:
+தீப்புண் < Noun > கள் < Plural Suffix > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<பூசிவர>:
+பூசி < Verb > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<பூசி+வா+அ>
+
+<தீப்புண்கள்>:
+தீப்புண் < Noun > கள் < Plural Suffix > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

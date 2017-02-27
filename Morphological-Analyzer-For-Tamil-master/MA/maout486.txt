@@ -1,0 +1,98 @@
+<﻿சிரங்குக்கு>:
+
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<லிங்கம்>:
+லிங்கம் < Entity > 
+<நெல்லிக்காய்க்>:
+நெல்லிக்காய் < Noun > க் < Sandhi > 
+<கெந்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<நேர்வாளம்>:
+<unknown>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<10கி.>:
+<unknown>
+
+<சாதிக்காய்>:
+சாதிக்காய் < Noun > 
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<களிப்பாக்கு>:
+களிப்பாக்கு < Noun > 
+<கராம்பு>:
+<unknown>
+
+<மதுரம்>:
+மதுரம் < Noun > 
+<கைப்பு>:
+கைப்பு < Verb > 
+<கைப்பு>
+கைப்பு < Noun > 
+<கைப்பு>
+
+<கருஞ்சீரகம்>:
+கருஞ்சீரகம் < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5>:
+5 < Numbers > 
+<கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<5>:
+5 < Numbers > 
+<கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<கோழியரைச்சாறு>:
+
+<தேசிப்புளி>:
+
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<மூன்றும்>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<ற்+உ+உம்>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<பதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<இறங்கவும்>:
+இறங்கு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<இறங்கு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

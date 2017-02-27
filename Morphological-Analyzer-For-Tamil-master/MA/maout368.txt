@@ -1,0 +1,73 @@
+<﻿சர்வ>:
+வ் < Future Tense Marker > அ < Relative Participle Suffix > 
+<வ்+அ>
+<unknown>
+
+<வீக்கங்க்களுக்கு>:
+க்கள் < Plural Suffix > உக்கு < Dative Case > 
+<க்கள்+உக்கு>
+<unknown>
+
+<கூழு>:
+<unknown>
+
+<சங்கன்வேர்>:
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<பச்சரிசி>:
+பச்சரிசி < Noun > 
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+<1/2>:
+<unknown>
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<இரண்டையுமிடித்து>:
+
+<கூழுபோல்>:
+போல் < Postposition > 
+<போல்>
+<unknown>
+
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<குடிக்க>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<குடி+க்க்+அ>
+
+<சகலமான>:
+சகலம் < Noun > ஆன < Adjectival Suffix > 
+<வீக்கங்களுக்கு>:
+வீக்கம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<வாடும்>:
+வாடு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வாடு+உம்>
+
+<ஆனால்>:
+ஆனால் < Conjunction > 
+<மோர்விட்டுக்>:
+மோர் < Noun > விட்டு < Postposition > க் < Sandhi > 
+<காய்ச்சவும்>:
+காய்ச்சு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<காய்ச்சு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

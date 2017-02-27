@@ -1,0 +1,46 @@
+<﻿பதினெட்டுப்>:
+இன் < Past Tense Marker > எடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<இன்+எடு+ட்+உ+ப்>
+<unknown>
+
+<புண்ணுக்கும்>:
+புண் < Noun > ண் < Sandhi > உக்கு < Dative Case > உம் < Clitic > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<சித்திரப்பாலாவி>:
+
+<இலை>:
+இலை < Noun > 
+<ஈரவெங்காயம்>:
+<unknown>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரித்து>:
+அரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரி+த்த்+உ>
+
+<நல்லெண்ணெயயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<போட>:
+போடு < Verb > அ < Relative Participle Suffix > 
+<போடு+அ>
+
+<புண்ணும்>:
+புண் < Noun > ண் < Sandhi > உம் < Clitic > 
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

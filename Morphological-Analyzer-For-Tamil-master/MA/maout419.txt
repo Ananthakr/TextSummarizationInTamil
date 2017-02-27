@@ -1,0 +1,59 @@
+<﻿கண்ணில்>:
+ண் < Sandhi > இல் < Locative Case > 
+<ண்+இல்>
+<unknown>
+
+<முள்ளுத்>:
+த் < Sandhi > 
+<த்>
+<unknown>
+
+<தைத்தால்>:
+தை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<தை+த்த்+உ+ஆல்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<செந்நாயுருவியிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<கீழ்க்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+கீழ் < Noun > க் < Sandhi > காய் < Noun > 
+<கீழ்+க்+காய்>
+
+<நெல்லி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<சிறுநீர்>:
+சிறுநீர் < Noun > 
+<விட்டுப்>:
+விட்டு < Postposition > ப் < Sandhi > 
+<பிசைந்து>:
+பிசை < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிசை+ந்த்+உ>
+
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<கண்ணில்>:
+கண் < Noun > ண் < Sandhi > இல் < Locative Case > 
+<விட>:
+விட < Particle > 
+<விட>
+விட < Postposition > 
+<விட>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

@@ -1,0 +1,118 @@
+<﻿வேறுமுறை>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<ற்+உ+ஐ>
+<unknown>
+
+<குளிர்ந்த>:
+குளிர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<குளிர்+ந்த்+உ+அ>
+
+<நீலநீர்>:
+ஈர் < Second Person Singular Suffix > 
+<ஈர்>
+<unknown>
+
+<சங்கு>:
+சங்கு < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<படிகாரம்>:
+படிகாரம் < Noun > 
+<1/4>:
+<unknown>
+
+<வெண்கலம்>:
+வெண்கலம் < Noun > 
+<1/4>:
+<unknown>
+
+<பால்துத்தம்>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<சாம்பிராணி>:
+சாம்பிராணி < Noun > 
+<1/4>:
+<unknown>
+
+<வெந்ததலைமண்டைஓடு>:
+ஓடு < Associative Case > 
+<ஓடு>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+<1/4>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஏழு>:
+ஏழு < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<கள்வார்த்து>:
+
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<வழித்து>:
+வழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வழி+த்த்+உ>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<எரிச்சலுடைய>:
+எரிச்சல் < Noun > உடைய < Genitive Case > 
+<இரணங்களின்>:
+இரணம் < Noun > கள் < Plural Suffix > இன் < Genitive Case > 
+<மீது>:
+மீது < Particle > 
+<போட்டு>:
+போட்டு < Particle > 
+<கொண்டுவரக்>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > க் < Sandhi > 
+<கொண்டுவா+அ+க்>
+
+<குளிர்ச்சியாக>:
+குளிர்ச்சி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<குளிர்ச்சி+ய்+ஆக>
+
+<விருக்கும்>:
+உக்கு < Dative Case > உம் < Clitic > 
+<உக்கு+உம்>
+<unknown>
+
+<சகலமான>:
+சகலம் < Noun > ஆன < Adjectival Suffix > 
+<இரணங்களையும்>:
+இரணம் < Noun > கள் < Plural Suffix > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஆற்றிவிடும்>:
+ஆற்று < Verb > இ < Past Tense Marker > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஆற்று+இ+விடு+உம்>
+
+<.>:
+<unknown>
+

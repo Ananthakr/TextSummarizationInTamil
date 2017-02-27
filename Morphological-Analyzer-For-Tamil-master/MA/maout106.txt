@@ -1,0 +1,93 @@
+<﻿திருகுக்>:
+
+<கள்ளி>:
+கள்ளி < Noun > 
+<கை>:
+கை < Verb > 
+<கை>
+கை < Noun > 
+<கை>
+
+<கால்>:
+கால் < Particle > 
+<கால்>
+கால் < Noun > 
+<கால்>
+
+<கடுப்பு>:
+கடுப்பு < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<திருகுக்>:
+திருகு < Verb > க் < Sandhi > 
+<திருகு+க்>
+திருகு < Noun > க் < Sandhi > 
+<திருகு+க்>
+
+<கள்ளியின்>:
+கள்ளி < Noun > ய் < Sandhi > இன் < Genitive Case > 
+<உள்>:
+உள் < Postposition > 
+<உள்>
+உள் < Noun > 
+<உள்>
+
+<சதையை>:
+சதை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<டம்ளர்>:
+டம்ளர் < Noun > 
+<அளவு>:
+அளவு < Noun > 
+<சதையை>:
+சதை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<சூடேற்றி>:
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<துணியில்>:
+துணி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<கொட்டி>:
+கொட்டி < Entity > 
+<கடுப்பு>:
+கடுப்பு < Noun > 
+<உள்ள>:
+உள்ள < Postposition > 
+<இடத்தில்>:
+இடம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<சூடாக>:
+சூடு < Noun > ஆக < Adverbial Suffix > 
+<சூடு+ஆக>
+
+<ஒத்தடம்>:
+ஒத்தடம் < Noun > 
+<கொடுத்தால்>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<கொடு+த்த்+உ+ஆல்>
+
+<கைகால்>:
+ஆல் < Instrumental Case > 
+<ஆல்>
+கை < Noun > க் < Sandhi > ஆல் < Noun > 
+<கை+க்+ஆல்>
+
+<கடுப்பு>:
+கடுப்பு < Noun > 
+<நீங்கும்>:
+நீங்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நீங்கு+உம்>
+
+<.>:
+<unknown>
+

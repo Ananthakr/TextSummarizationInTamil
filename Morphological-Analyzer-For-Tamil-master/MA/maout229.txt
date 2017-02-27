@@ -1,0 +1,301 @@
+<﻿பனை>:
+அ < Relative Participle Suffix > ன் < Past Tense Marker > ஐ < Accusative Case > 
+<அ+ன்+ஐ>
+<unknown>
+
+<ஓலை(B.N:BORASSIS>:
+<Error>
+
+<FLABALLIFOTRMIS>:
+<Error>
+
+<வாந்தி>:
+வாந்தி < Noun > 
+<நிற்க>:
+நிற்க < Conjunction > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<சிலருக்கு>:
+சிலர் < Noun > உக்கு < Dative Case > 
+<அடிக்கடி>:
+அடிக்கடி < Adverb > 
+<குமட்டலும்>:
+குமட்டல் < Noun > உம் < Clitic > 
+<வாந்தியும்>:
+வாந்தி < Noun > ய் < Sandhi > உம் < Clitic > 
+<உண்டாகும்.இப்படிப்பட்டவர்களுக்கு>:
+அ < Relative Participle Suffix > வ் < Sandhi > அர் < Pronominal Third Person Singular > கள் < Plural Suffix > உக்கு < Dative Case > 
+<அ+வ்+அர்+கள்+உக்கு>
+<unknown>
+
+<முற்றின>:
+முற்று < Verb > இன் < Euphonic > அ < Relative Participle Suffix > 
+<முற்று+இன்+அ>
+
+<பனை>:
+பனை < Noun > 
+<ஒலையை>:
+ய் < Sandhi > ஐ < Accusative Case > 
+<ய்+ஐ>
+<unknown>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வ்ந்து>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ந்த்+உ>
+<unknown>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<தணலில்>:
+தணல் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<சுட்டுக்>:
+சுட்டு < Verb > க் < Sandhi > 
+<சுட்டு+க்>
+சுட்டு < Noun > க் < Sandhi > 
+<சுட்டு+க்>
+
+<கரியாக்கி>:
+கரியாக்கு < Verb > இ < Past Tense Marker > 
+<கரியாக்கு+இ>
+
+<அந்த>:
+அந்த < Demonstrative Adjective > 
+<கரியை>:
+கரி < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<மை>:
+மை < Noun > 
+<போல>:
+போல < Particle > 
+<போல>
+போல < Postposition > 
+<போல>
+
+<தூள்>:
+தூள் < Noun > 
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<வாயகன்ற>:
+வாய் < Noun > அகல் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<வாய்+அகல்+ற்+உ+அ>
+
+<சீசாவில்>:
+சீசா < Noun > வ் < Sandhi > இல் < Locative Case > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு,குமட்டல்>:
+அ < Infinitive Suffix > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ட் < Past Tense Marker > அல் < Relative Participle Suffix > 
+<அ+ட்+உ+ட்+அல்>
+<unknown>
+
+<வாந்தி>:
+வாந்தி < Noun > 
+<வரும்>:
+வரும் < Adjective > 
+<சமயம்>:
+சமயம் < Entity > 
+<தேக்கரண்டியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<தூளில்>:
+தூள் < Noun > இல் < Locative Case > 
+<அதே>:
+அதே < Demonstrative Adjective > 
+<அளவு>:
+அளவு < Noun > 
+<சுத்தமான>:
+சுத்தம் < Noun > ஆன < Adjectival Suffix > 
+<தேன்>:
+தேன் < Noun > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<குழப்பி>:
+குழப்பு < Verb > இ < Past Tense Marker > 
+<குழப்பு+இ>
+
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<குமட்டல்>:
+குமட்டல் < Noun > 
+<வாந்தி>:
+வாந்தி < Noun > 
+<நின்றுவிடும்>:
+நில் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<நில்+ற்+உ+விடு+உம்>
+
+<.>:
+<unknown>
+
+<சிறுநீர்>:
+சிறுநீர் < Noun > 
+<சரியாக>:
+சரியாக < Adverb > 
+<இறங்கா>:
+இறங்கு < Verb > ஆ < Clitic > 
+<இறங்கு+ஆ>
+
+<விட்டால்>:
+விடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<விடு+ட்+உ+ஆல்>
+
+<பனை>:
+பனை < Noun > 
+<மரத்தின்>:
+மரம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<பூவைக்>:
+பூவை < Noun > க் < Sandhi > 
+<பூவை+க்>
+பூவை < Entity > க் < Sandhi > 
+<பூவை+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<அடுப்புத்>:
+அடுப்பு < Noun > த் < Sandhi > 
+<தணலில்>:
+தணல் < Noun > இல் < Locative Case > 
+<போட்டுச்>:
+போட்டு < Particle > ச் < Sandhi > 
+<சுட்டுக்>:
+சுட்டு < Verb > க் < Sandhi > 
+<சுட்டு+க்>
+சுட்டு < Noun > க் < Sandhi > 
+<சுட்டு+க்>
+
+<கரியாக்கி>:
+கரியாக்கு < Verb > இ < Past Tense Marker > 
+<கரியாக்கு+இ>
+
+<அம்மியில்>:
+அம்மி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அம்மி+ய்+இல்>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<பட்டுபோல>:
+பட்டு < Noun > போல < Postposition > 
+<தூள்>:
+தூள் < Noun > 
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<வாயகன்ற>:
+வாய் < Noun > அகல் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<வாய்+அகல்+ற்+உ+அ>
+
+<சீசாவில்>:
+சீசா < Noun > வ் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<தினசரி>:
+தினசரி < Adjective > 
+<தினசரி>
+தினசரி < Noun > 
+<தினசரி>
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<தேக்கரண்டியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<தூளை>:
+தூள் < Noun > ஐ < Accusative Case > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அதே>:
+அதே < Demonstrative Adjective > 
+<அளவு>:
+அளவு < Noun > 
+<சுத்த்மான>:
+
+<தேனும்>:
+தேன் < Noun > உம் < Clitic > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<குழப்பி>:
+குழப்பு < Verb > இ < Past Tense Marker > 
+<குழப்பு+இ>
+
+<கொடுக்க>:
+கொடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொடு+க்க்+அ>
+
+<வேண்டும்.ஒரு>:
+<unknown>
+
+<நாளைக்கு>:
+நாளைக்கு < DateTime > 
+<காலை>:
+காலை < DateTime > 
+<பகல்>:
+பகல் < DateTime > 
+<மாலையாக>:
+மாலை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<மாலை+ய்+ஆக>
+
+<தொடர்ந்து>:
+தொடர்ந்து < Adverb > 
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<சிறுநீர்>:
+சிறுநீர் < Noun > 
+<அளவாக>:
+அளவு < Noun > ஆக < Adverbial Suffix > 
+<அளவு+ஆக>
+
+<இறங்கும்>:
+இறங்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<இறங்கு+உம்>
+

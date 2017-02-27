@@ -1,0 +1,112 @@
+<﻿புண்>:
+
+<பெலத்த>:
+அத்து < Oblique > அ < Relative Participle Suffix > 
+<அத்து+அ>
+<unknown>
+
+<புண்கள்>:
+புண் < Noun > கள் < Plural Suffix > 
+<மீறிய>:
+மீறு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<மீறு+இ+ய்+அ>
+
+<வியாதியானால்>:
+விய < Verb > ஆது < Future Negative Suffix > இ < Past Tense Marker > ய் < Sandhi > ஆனால் < Conjunction Suffix > 
+<விய+ஆது+இ+ய்+ஆனால்>
+
+<உடனே>:
+உடனே < Particle > 
+<உடனே>
+உடனே < Adverb > 
+<உடனே>
+
+<புகைக்கு>:
+புகை < Noun > க்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<சாதிலிங்கம்>:
+சாதி < Noun > லிங்கம் < Noun > 
+<சாதி+லிங்கம்>
+
+<இரசகர்ப்பூரம்>:
+<unknown>
+
+<இரசம்>:
+<unknown>
+
+<வெள்ளைப்பாஷாணம்>:
+வெள்ளை < Noun > ப் < Sandhi > பாஷாணம் < Noun > 
+<வெள்ளை+ப்+பாஷாணம்>
+
+<5>:
+5 < Numbers > 
+<கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<மற்ற>:
+மற்ற < Adjective > 
+<மருந்துகளை>:
+மருந்து < Noun > கள் < Plural Suffix > ஐ < Accusative Case > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<பாயாலே>:
+பாய் < Noun > ஆல் < Noun > ஏ < Clitic > 
+<கட்டு>:
+கட்டு < Verb > 
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<புடவையாலே>:
+புடவை < Noun > ய் < Sandhi > ஆல் < Instrumental Case > ஏ < Clitic > 
+<சுற்றி>:
+சுற்றி < Postposition > 
+<சட்டியில்>:
+சட்டி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<புளியந்தணல்>:
+<unknown>
+
+<போட்டு>:
+போட்டு < Particle > 
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<தூள்>:
+தூள் < Noun > 
+<மருந்து>:
+மருந்து < Noun > 
+<போட்டு>:
+போட்டு < Particle > 
+<புகை>:
+புகை < Verb > 
+<புகை>
+புகை < Noun > 
+<புகை>
+
+<ஓய்ந்ததும்>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அது < Genitive Case > உம் < Clitic > 
+<ந்த்+உ+அது+உம்>
+<unknown>
+
+<நோயாளியை>:
+நோயாளி < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<வெளியே>:
+வெளியே < Postposition > 
+<வெளியே>
+வெளியே < Adverb > 
+<வெளியே>
+
+<எடுக்கவும்>:
+எடு < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<எடு+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

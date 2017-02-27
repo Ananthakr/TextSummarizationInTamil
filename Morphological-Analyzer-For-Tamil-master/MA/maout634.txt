@@ -1,0 +1,114 @@
+<﻿மூலத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<குளிர்ந்த>:
+குளிர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<குளிர்+ந்த்+உ+அ>
+
+<பச்சை>:
+பச்சை < Noun > 
+<காரசீலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<மிருதார்சிங்கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<கெவுரிபாஷாணம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<அரிதாரம்>:
+அரிதாரம் < Noun > 
+<1/2>:
+<unknown>
+
+<வெள்ளைபாஷாணம்>:
+வெள்ளை < Noun > பாஷாணம் < Noun > 
+<வெள்ளை+பாஷாணம்>
+
+<1/2>:
+<unknown>
+
+<மயில்துத்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஐந்து>:
+ஐந்து < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<அதற்குச்>:
+அது < Pronoun > அன் < Euphonic > கு < Dative Case > ச் < Sandhi > 
+<சமன்>:
+சமன் < Noun > 
+<பழந்துணி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<நொருங்க>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<பொடியாக்கி>:
+பொடி < Verb > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<பொடி+ஆக்கு+இ>
+
+<பவுந்திரம்>:
+பவுந்திரம் < Noun > 
+<மூலம்>:
+மூலம் < Postposition > 
+<மூலம்>
+மூலம் < Noun > 
+<மூலம்>
+
+<குஷ்டம்>:
+குஷ்டம் < Noun > 
+<இவைகளுக்கு>:
+இவைகள் < Pronoun > உக்கு < Dative Case > 
+<மேல்போட்டுக்>:
+மேல் < Noun > போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<மேல்+போடு+ட்+உ+க்>
+
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<சீக்கிரத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<ஆறும்>:
+ஆறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

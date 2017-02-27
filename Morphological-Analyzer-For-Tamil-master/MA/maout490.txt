@@ -1,0 +1,75 @@
+<﻿பக்கவாதத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<கியாழம்>:
+<unknown>
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<முக்காவேளை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<இரண்டையும்>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ட்+உ+ஐ+ய்+உம்>
+<unknown>
+
+<தட்டி>:
+தட்டி < Noun > 
+<அரைபடி>:
+ஐ < Accusative Case > படி < Postposition > 
+<ஐ+படி>
+<unknown>
+
+<ஜலத்தில்>:
+ஜலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<அரைக்கால்>:
+அரைக்கால் < Noun > 
+<படியாய்>:
+படி < Noun > ய் < Sandhi > ஆய் < Adverbial Suffix > 
+<படி+ய்+ஆய்>
+
+<வற்றக்காய்ச்சி>:
+
+<வடித்து>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வடி+த்த்+உ>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<பக்க>:
+பக்க < Adjectival Noun > 
+<வாய்வு>:
+வாய்வு < Noun > 
+<குன்மம்>:
+<unknown>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

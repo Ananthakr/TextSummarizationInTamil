@@ -1,0 +1,46 @@
+<﻿பவுந்திரத்துக்குப்>:
+அத்து < Oblique > உக்கு < Dative Case > ப் < Sandhi > 
+<அத்து+உக்கு+ப்>
+<unknown>
+
+<பற்பம்>:
+<unknown>
+
+<இரசம்>:
+<unknown>
+
+<லிங்கம்>:
+லிங்கம் < Entity > 
+<பொன்னரிதாரம்>:
+<unknown>
+
+<காந்தம்அப்பிரகம்>:
+<unknown>
+
+<நெல்லிக்காய்க்>:
+நெல்லிக்காய் < Noun > க் < Sandhi > 
+<கெந்தம்>:
+<unknown>
+
+<கடுகு>:
+கடுகு < Noun > 
+<சரிநிறை>:
+இ < Past Tense Marker > ற் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<இ+ற்+உ+ஐ>
+<unknown>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<தேனில்>:
+தேன் < Noun > இல் < Locative Case > 
+<தின்னவும்>:
+தின் < Verb > ன் < Past Tense Marker > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<தின்+ன்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

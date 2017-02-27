@@ -1,0 +1,50 @@
+<﻿அட்டைக்>:
+
+<கடிக்கு>:
+கடி < Noun > க்கு < Dative Case > 
+<மருந்து>:
+மருந்து < Noun > 
+<அட்டையானது>:
+அட்டை < Noun > ய் < Sandhi > ஆன < Adjectival Suffix > து < Pronominal Neuter Singular > 
+<அட்டை+ய்+ஆன+து>
+
+<கடித்தவாயில்>:
+கடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > வ் < Future Tense Marker > ஆய் < Second Person Singular Suffix > இல் < Locative Case > 
+<கடி+த்த்+உ+அ+வ்+ஆய்+இல்>
+
+<நின்று>:
+நில் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நில்+ற்+உ>
+
+<இரத்தம்>:
+இரத்தம் < Noun > 
+<போகிறதற்கு>:
+போ < Verb > கிறு < Present Tense Marker > அதற்கு < Dative Case > 
+<போ+கிறு+அதற்கு>
+
+<கொஞ்சம்>:
+கொஞ்சம் < Adverb > 
+<கொஞ்சம்>
+கொஞ்சம் < Noun > 
+<கொஞ்சம்>
+
+<துரிசை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<தூள்செய்து>:
+தூள் < Noun > செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தூள்+செய்+த்+உ>
+
+<கடிவாயில்>:
+கடிவாய் < Noun > இல் < Locative Case > 
+<வைக்க>:
+வைக்கம் < Entity > 
+<நிற்கும்>:
+நில் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நில்+உம்>
+
+<.>:
+<unknown>
+

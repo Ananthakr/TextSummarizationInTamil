@@ -1,0 +1,68 @@
+<﻿எலும்பு>:
+<unknown>
+
+<முறிவு>:
+முறிவு < Noun > 
+<பிசகுதலுக்கு>:
+பிசகு < Verb > த் < Past Tense Marker > அல் < Relative Participle Suffix > உக்கு < Dative Case > 
+<பிசகு+த்+அல்+உக்கு>
+
+<மருந்து>:
+மருந்து < Noun > 
+<நாவற்பட்டை>:
+
+<ஒதியம்பட்டை>:
+பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<பட்டு+ஐ>
+<unknown>
+
+<உருக்கு>:
+உருக்கு < Verb > 
+<உருக்கு>
+உருக்கு < Noun > 
+<உருக்கு>
+
+<மருந்து>:
+மருந்து < Noun > 
+<கொடியும்>:
+கொடி < Noun > ய் < Sandhi > உம் < Clitic > 
+<பட்டையும்>:
+பட்டை < Noun > ய் < Sandhi > உம் < Clitic > 
+<எருக்கம்>:
+<unknown>
+
+<பூ>:
+பூ < Noun > 
+<சிரட்டைக்கரி>:
+இ < Past Tense Marker > 
+<இ>
+சிரட்டை < Noun > க் < Sandhi > கரி < Noun > 
+<சிரட்டை+க்+கரி>
+
+<புழுங்கல்>:
+புழுங்கல் < Noun > 
+<அரிசிச்சோறு>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ற்+உ>
+அரிசி < Noun > ச் < Sandhi > சோறு < Noun > 
+<அரிசி+ச்+சோறு>
+
+<என்பனவற்றைச்>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > அற்று < Oblique > ஐ < Accusative Case > ச் < Sandhi > 
+<என்+ப்+அன+அற்று+ஐ+ச்>
+
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்துக்>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<இடி+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

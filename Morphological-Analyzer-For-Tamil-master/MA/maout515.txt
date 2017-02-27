@@ -1,0 +1,73 @@
+<﻿கழுத்தைச்>:
+
+<சுற்றிய>:
+சுற்று < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<சுற்று+இ+ய்+அ>
+
+<கண்ட>:
+கண்ட < Adjective > 
+<மாலைக்கு>:
+மாலை < Noun > க்கு < Dative Case > 
+<பூச்சு>:
+பூச்சு < Noun > 
+<மருந்து>:
+மருந்து < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<பழம்>:
+பழம் < Adjective > 
+<பழம்>
+பழம் < Noun > 
+<பழம்>
+
+<நாய்க்குடம்>:
+நாய் < Noun > க் < Sandhi > குடம் < Noun > 
+<நாய்+க்+குடம்>
+
+<பருத்தியிலை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<பசுப்பால்>:
+
+<விட்டரைத்து>:
+
+<ஒரு>:
+ஒரு < charNumbers > 
+<தேசிக்காயளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரைவாசி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கழுத்திற்கும்>:
+கழுத்து < Noun > இன் < Euphonic > கு < Dative Case > உம் < Clitic > 
+<பூசவும்>:
+பூசு < Verb > அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<பூசு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<அரைவாசி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<உள்ளுக்குக்>:
+உள்ளுக்கு < Adverb > க் < Sandhi > 
+<கொடுக்கவும்தீரும்>:
+த் < Past Tense Marker > ஈர் < Second Person Singular Suffix > உம் < Clitic > 
+<த்+ஈர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,99 @@
+<﻿இரணங்களுக்குப்>:
+கள் < Plural Suffix > உக்கு < Dative Case > ப் < Sandhi > 
+<கள்+உக்கு+ப்>
+<unknown>
+
+<பிளாஸ்திரி>:
+பிளாஸ்திரி < Noun > 
+<ஒருபலம்>:
+ஒரு < Adjectival Noun > பலம் < Noun > 
+<ஒரு+பலம்>
+
+<குங்கிலியத்தை>:
+குங்கிலியம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+<வெண்ணையில்>:
+ய் < Sandhi > இல் < Locative Case > 
+<ய்+இல்>
+<unknown>
+
+<கலந்து>:
+கல < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கல+ந்த்+உ>
+
+<கடைய>:
+கடையம் < Entity > 
+<வெண்ணையானது>:
+
+<திரளும்>:
+திரள் < Noun > உம் < Clitic > 
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<வழித்து>:
+வழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வழி+த்த்+உ>
+
+<டப்பியில்>:
+டப்பி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<அடக்கஞ்செய்து>:
+செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+<unknown>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<இரணங்களுக்கு>:
+இரணம் < Noun > கள் < Plural Suffix > உக்கு < Dative Case > 
+<சீலையிற்றடவிப்>:
+
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<ரத்தம்>:
+ரத்தம் < Noun > 
+<சீழ்>:
+சீழ் < Noun > 
+<போகும்>:
+போ < Verb > உம் < Third Future Neuter Singular OR RP > 
+<போ+உம்>
+
+<எரிச்சல்>:
+எரிச்சல் < Noun > 
+<புடைச்சல்>:
+<unknown>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<நரம்பு>:
+நரம்பு < Noun > 
+<வலியுடன்>:
+வலி < Noun > ய் < Sandhi > உடன் < Associative Case > 
+<இசுவானதும்>:
+வா < Auxiliary Verb > ன் < Past Tense Marker > அது < Neuter OR Pronominal > உம் < Clitic > 
+<வா+ன்+அது+உம்>
+<unknown>
+
+<போகும்>:
+போ < Verb > உம் < Third Future Neuter Singular OR RP > 
+<போ+உம்>
+
+<இரணம்>:
+இரணம் < Noun > 
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+

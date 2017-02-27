@@ -1,0 +1,23 @@
+<﻿கல்லடைப்புக்கு>:
+
+<12-தேத்தாங்கொட்டையை>:
+ய் < Sandhi > ஐ < Accusative Case > 
+<ய்+ஐ>
+<unknown>
+
+<கறுப்பு>:
+கறுப்பு < Noun > 
+<வெள்ளாட்டின்>:
+வெள்ளாடு < Noun > இன் < Genitive Case > 
+<பாலிலரைத்து>:
+பால் < Noun > இல் < Locative Case > அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பால்+இல்+அரை+த்த்+உ>
+<unknown>
+
+<நாழிகையில்>:
+நாழி < Noun > கையில் < Postposition > 
+<கல்முறிந்துவிழும்>:
+
+<.>:
+<unknown>
+

@@ -1,0 +1,69 @@
+<﻿நாக்குப்பிளவைக்குச்>:
+அ < Infinitive Suffix > வை < Auxiliary Verb > க்கு < Dative Case > ச் < Sandhi > 
+<அ+வை+க்கு+ச்>
+<unknown>
+
+<சூடும்>:
+சூடு < Noun > உம் < Clitic > 
+<மருந்தும்>:
+மருந்து < Noun > உம் < Clitic > 
+<எருக்கம்>:
+<unknown>
+
+<பூவும்>:
+பூ < Noun > வ் < Sandhi > உம் < Clitic > 
+<நெல்லிக்காய்க்>:
+நெல்லிக்காய் < Noun > க் < Sandhi > 
+<கெந்தமும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<7.5>:
+<unknown>
+
+<கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<வேப்பெண்ணையிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கொதிப்பித்து>:
+கொதிப்பு < Noun > இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொதிப்பு+இ+த்த்+உ>
+
+<துணியிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<பூசி>:
+பூசி < Verb > 
+<நாக்கில்>:
+நாக்கு < Noun > இல் < Locative Case > 
+<அடக்கியிருக்கவும்>:
+அடக்கு < Verb > இ < Past Tense Marker > ய் < Sandhi > இரு < Auxiliary Verb > க்க < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அடக்கு+இ+ய்+இரு+க்க+வ்+உம்>
+
+<.>:
+<unknown>
+
+<உமிஞ்ச>:
+
+<துப்பவும்>:
+துப்பு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<துப்பு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

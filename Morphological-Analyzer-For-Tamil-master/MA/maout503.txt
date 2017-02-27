@@ -1,0 +1,56 @@
+<﻿ஒடு>:
+
+<புரைக்குத்>:
+
+<திரி>:
+திரி < Verb > 
+<திரி>
+திரி < Noun > 
+<திரி>
+
+<துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<இந்துப்பு>:
+இந்து < Noun > ப்பு < Verb > 
+<இந்து+ப்பு>
+
+<எலுமிச்சம்>:
+<unknown>
+
+<புளி>:
+புளி < Verb > 
+<புளி>
+புளி < Noun > 
+<புளி>
+
+<விட்டரைத்து>:
+
+<திரியில்>:
+திரி < Noun > ய் < Sandhi > இல் < Locative Case > 
+<திரிந்து>:
+திரி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<திரி+ந்த்+உ>
+
+<புரையில்>:
+
+<வைக்க>:
+வைக்கம் < Entity > 
+<கனன்று>:
+கனல் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கனல்+ற்+உ>
+
+<அறுந்து>:
+அறு < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அறு+ந்த்+உ>
+
+<விழும்>:
+விழு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<விழு+உம்>
+
+<.>:
+<unknown>
+

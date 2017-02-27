@@ -1,0 +1,47 @@
+<﻿புண்ணுக்கு>:
+
+<எண்ணெய்(கையாட்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<கைப்பு>:
+கைப்பு < Verb > 
+<கைப்பு>
+கைப்பு < Noun > 
+<கைப்பு>
+
+<களிப்பாக்கு>:
+களிப்பாக்கு < Noun > 
+<கடுக்காய்>:
+கடுக்காய் < Noun > 
+<அல்லி>:
+அல்லி < Noun > 
+<சமன்>:
+சமன் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<சாறு>:
+சாறு < Noun > 
+<விட்டரைத்து>:
+
+<வேப்பெண்ணெய்>:
+வேப்பெண்ணெய் < Noun > 
+<காய்ச்சிக்>:
+காய்ச்சு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<காய்ச்சு+இ+க்>
+
+<கடுகுடன்>:
+கடுகு < Noun > உடன் < Associative Case > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+

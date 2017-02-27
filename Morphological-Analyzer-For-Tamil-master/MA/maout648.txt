@@ -1,0 +1,68 @@
+<﻿வாய்>:
+வ் < Future Tense Marker > ஆய் < Second Person Singular Suffix > 
+<வ்+ஆய்>
+<unknown>
+
+<நாற்றத்திற்கு>:
+நாற்றம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<கோஷ்டம்>:
+கோஷ்டம் < Entity > 
+<கருங்காலித்தோல்>:
+
+<செருப்படை>:
+ப் < Sandhi > படு < Auxiliary Verb > ஐ < Accusative Case > 
+<ப்+படு+ஐ>
+<unknown>
+
+<பொடுதலை>:
+
+<இவை>:
+இவை < Pronoun > 
+<இவை>
+இவை < Demonstrative Adjective > 
+<இவை>
+
+<நாங்கையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<சமனெடையாகப்>:
+சமன் < Noun > எடை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > ப் < Sandhi > 
+<சமன்+எடை+ய்+ஆக+ப்>
+
+<பொடி>:
+பொடி < Verb > 
+<பொடி>
+பொடி < Noun > 
+<பொடி>
+
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<காய்ச்சி>:
+காய்ச்சு < Verb > இ < Past Tense Marker > 
+<காய்ச்சு+இ>
+
+<கொப்பளிக்க>:
+கொப்பளி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > 
+<கொப்பளி+க்க்+அ>
+
+<வாய்>:
+வாய் < Verb > 
+<வாய்>
+வாய் < Noun > 
+<வாய்>
+
+<நாற்றம்>:
+நாற்றம் < Noun > 
+<நீங்கும்>:
+நீங்கு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<நீங்கு+உம்>
+
+<.>:
+<unknown>
+

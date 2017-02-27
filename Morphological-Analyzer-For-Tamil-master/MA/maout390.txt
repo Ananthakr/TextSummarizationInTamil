@@ -1,0 +1,108 @@
+<﻿சர்வ>:
+வ் < Future Tense Marker > அ < Relative Participle Suffix > 
+<வ்+அ>
+<unknown>
+
+<வீக்கத்திற்கு>:
+வீக்கம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<பற்று>:
+பற்று < Verb > 
+<பற்று>
+பற்று < Noun > 
+<பற்று>
+
+<அபின்>:
+அபின் < Noun > 
+<காசியிடை>:
+காசு < Noun > இ < Past Tense Marker > ய் < Sandhi > இடு < Auxiliary Verb > ஐ < Accusative Case > 
+<காசு+இ+ய்+இடு+ஐ>
+
+<1/2>:
+<unknown>
+
+<கடுகு>:
+கடுகு < Noun > 
+<1/2>:
+<unknown>
+
+<பெருங்காயம்>:
+பெருங்காயம் < Noun > 
+<1/2>:
+<unknown>
+
+<நேர்வாளம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<கம்பவளம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஐந்து>:
+ஐந்து < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிருத்தெடுத்து>:
+இரு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இரு+த்த்+உ+எடு+த்த்+உ>
+<unknown>
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<எருக்கன்>:
+எருக்கு < Noun > அ < Infinitive Suffix > ன் < Past Tense Marker > 
+<எருக்கு+அ+ன்>
+
+<சாறுவிட்டு>:
+சாறு < Noun > விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<வீக்கத்தின்>:
+வீக்கம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<மீது>:
+மீது < Particle > 
+<பூசிக்கொண்டு>:
+பூசி < Verb > க் < Sandhi > கொண்டு < Postposition > 
+<பூசி+க்+கொண்டு>
+
+<வர>:
+வா < Verb > அ < Infinitive Suffix > 
+<வா+அ>
+
+<பிளவை>:
+பிளவை < Noun > 
+<சூலை>:
+சூலை < Noun > 
+<பவுத்திரம்>:
+<unknown>
+
+<இவைகளின்>:
+இவைகள் < Pronoun > இன் < Genitive Case > 
+<வீக்கம்>:
+வீக்கம் < Noun > 
+<வாங்கி>:
+வாங்கு < Verb > இ < Past Tense Marker > 
+<வாங்கு+இ>
+
+<நோய்>:
+நோய் < Noun > 
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

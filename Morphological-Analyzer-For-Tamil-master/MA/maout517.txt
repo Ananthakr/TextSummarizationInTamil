@@ -1,0 +1,31 @@
+<﻿கரப்பான்>:
+அ < Infinitive Suffix > ப்ப் < Future Tense Marker > ஆன் < Third Person Masculine Singular Suffix > 
+<அ+ப்ப்+ஆன்>
+<unknown>
+
+<கட்டுக்குப்>:
+கட்டு < Verb > உக்கு < Dative Case > ப் < Sandhi > 
+<கட்டு+உக்கு+ப்>
+
+<பூச்சு>:
+பூச்சு < Noun > 
+<மருந்து>:
+மருந்து < Noun > 
+<பெருமருந்துவேர்>:
+
+<.>:
+<unknown>
+
+<கோழிமுட்டை>:
+
+<வெண்கரு>:
+<unknown>
+
+<விட்டரைத்துப்>:
+
+<பூச>:
+பூசு < Verb > அ < Infinitive Suffix > 
+<பூசு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 

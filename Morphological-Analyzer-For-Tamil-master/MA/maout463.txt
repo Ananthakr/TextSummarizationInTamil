@@ -1,0 +1,34 @@
+<﻿கட்டுப்>:
+கட்டு < Auxiliary Verb > ப் < Sandhi > 
+<கட்டு+ப்>
+<unknown>
+
+<பழுக்க>:
+பழுக்க < Adverb > 
+<மருந்து>:
+மருந்து < Noun > 
+<அரிசிமாக்குருணலும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<வட்டத்துத்தி>:
+த்த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<த்த்+உ+இ>
+<unknown>
+
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<மண்டிக்கள்ளி\ல்>:
+<Error>
+
+<அவித்துப்>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ப் < Sandhi > 
+<அவி+த்த்+உ+ப்>
+
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+

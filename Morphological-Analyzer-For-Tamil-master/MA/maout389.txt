@@ -1,0 +1,157 @@
+<﻿சகல>:
+
+<பிளவை>:
+பிளவை < Noun > 
+<கட்டுவகை>:
+
+<சிலந்திவகை>:
+சிலந்தி < Noun > வகு < Verb > ஐ < Accusative Case > 
+<சிலந்தி+வகு+ஐ>
+
+<படுவன்>:
+படு < Verb > வ் < Sandhi > அ < Relative Participle Suffix > ன் < Past Tense Marker > 
+<படு+வ்+அ+ன்>
+
+<வகை>:
+வகை < Noun > 
+<பவுந்திரவகை>:
+
+<அரையாப்புவகை>:
+
+<தொடை>:
+தொடை < Noun > 
+<வாழை>:
+வாழை < Noun > 
+<விற்புருதி>:
+த் < Past Tense Marker > உ < Verbal Participle Suffix > இ < Past Tense Marker > 
+<த்+உ+இ>
+<unknown>
+
+<சகல>:
+சகல < Adjectival Noun > 
+<வியாதிக்கும்>:
+வியாதி < Noun > க்கு < Dative Case > உம் < Clitic > 
+<பயமறச்>:
+அ < Infinitive Suffix > ற் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Infinitive Suffix > ச் < Sandhi > 
+<அ+ற்+உ+அ+ச்>
+<unknown>
+
+<செய்யக்>:
+செய் < Verb > ய் < Verbal Participle Suffix > அ < Infinitive Suffix > க் < Sandhi > 
+<செய்+ய்+அ+க்>
+
+<கூடிய>:
+கூடு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<கூடு+இ+ய்+அ>
+
+<கைகண்ட>:
+கைகண்ட < Adjective > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<செங்கத்தாரி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<வேர்>:
+வேர் < Verb > 
+<வேர்>
+வேர் < Noun > 
+<வேர்>
+
+<சாறணைவேர்>:
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<10கி.>:
+<unknown>
+
+<பச்சையாகச்>:
+பச்சை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > ச் < Sandhi > 
+<பச்சை+ய்+ஆக+ச்>
+
+<சீவி>:
+சீவி < Verb > 
+<இளக்கிக்>:
+இளக்கு < Verb > இ < Past Tense Marker > க் < Sandhi > 
+<இளக்கு+இ+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<அக்கரா>:
+அர் < Third Person Plural Suffix > ஆ < Clitic > 
+<அர்+ஆ>
+
+<கோட்டம்>:
+கோட்டம் < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<கருஞ்சீரகம்>:
+கருஞ்சீரகம் < Noun > 
+<கடுகு>:
+கடுகு < Noun > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<ஆமணக்கெண்ணெய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அடுப்பேற்றி>:
+
+<கொதிபதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<மருந்துத்தூள்>:
+மருந்து < Noun > த் < Sandhi > தூள் < Noun > 
+<மருந்து+த்+தூள்>
+
+<போட்டு>:
+போட்டு < Particle > 
+<நீர்ப்பூலாக்கிழங்கு>:
+<unknown>
+
+<தட்டிப்>:
+தட்டி < Noun > ப் < Sandhi > 
+<போட்டு>:
+போட்டு < Particle > 
+<இறக்கி>:
+இறக்கு < Verb > இ < Past Tense Marker > 
+<இறக்கு+இ>
+
+<உள்ளுக்குங்கொடுத்து>:
+கொடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+<unknown>
+
+<பஞ்சில்>:
+பஞ்ச் < Entity > இல் < Locative Case > 
+<தோய்த்து>:
+தோய் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தோய்+த்த்+உ>
+
+<மேலுக்கும்>:
+மேல் < Noun > உக்கு < Dative Case > உம் < Clitic > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

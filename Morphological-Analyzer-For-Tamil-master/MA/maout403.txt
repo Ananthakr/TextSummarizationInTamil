@@ -1,0 +1,53 @@
+<﻿பல்லரணை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<பல்வலிக்கு>:
+
+<மருந்து>:
+மருந்து < Noun > 
+<குளத்திலே>:
+குளம் < Noun > அத்து < Oblique > இல் < Locative Case > ஏ < Clitic > 
+<கிடக்கிற>:
+கிட < Verb > க்கிறு < Present Tense Marker > அ < Relative Participle Suffix > 
+<கிட+க்கிறு+அ>
+
+<பாசியை>:
+பாசி < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<எருக்கலம்>:
+எரு < Noun > க் < Sandhi > கலம் < Noun > 
+<எரு+க்+கலம்>
+
+<இலையில்>:
+இலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<பொதிந்து>:
+பொதி < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொதி+ந்த்+உ>
+
+<புழுங்க>:
+புழுங்கு < Verb > அ < Infinitive Suffix > 
+<புழுங்கு+அ>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<பல்லடியில்>:
+
+<ஒதுக்க>:
+க்க் < Sandhi > அ < Infinitive Suffix > 
+<க்க்+அ>
+<unknown>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

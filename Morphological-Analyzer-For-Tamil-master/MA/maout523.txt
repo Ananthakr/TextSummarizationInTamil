@@ -1,0 +1,100 @@
+<﻿பால்மந்தத்திற்கு>:
+அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<அத்து+இன்+கு>
+<unknown>
+
+<கியாழம்>:
+<unknown>
+
+<பொடுதலைக்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<இந்துப்பு>:
+இந்து < Noun > ப்பு < Verb > 
+<இந்து+ப்பு>
+
+<1/4>:
+<unknown>
+
+<வெள்ளைப்பூண்டு>:
+ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ட்+உ>
+வெள்ளை < Noun > ப் < Sandhi > பூண்டு < Noun > 
+<வெள்ளை+ப்+பூண்டு>
+
+<1/4>:
+<unknown>
+
+<மிளகு>:
+மிளகு < Noun > 
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<சட்டியிலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+<வெதுப்பிட>:
+
+<அதில்>:
+அது < Pronoun > இல் < Locative Case > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<படி>:
+படி < Postposition > 
+<படி>
+படி < Verb > 
+<படி>
+படி < Noun > 
+<படி>
+
+<ஜலம்விட்டு>:
+ஜலம் < Noun > விட்டு < Postposition > 
+<காற்படியாக>:
+
+<வற்றக்காச்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<வடித்தக்>:
+வடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > க் < Sandhi > 
+<வடி+த்த்+உ+அ+க்>
+
+<கியாழத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<காலையில்>:
+காலையில் < DateTime > 
+<சங்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<கொடுத்துவர>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<கொடு+த்த்+உ+வா+அ>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

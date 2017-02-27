@@ -1,0 +1,113 @@
+<﻿களாக்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<என்ன>:
+என்ன < Interrogative Noun > 
+<இருக்கு>:
+உக்கு < Dative Case > 
+<உக்கு>
+<unknown>
+
+<விட்டமின்>:
+விட்டம் < Noun > இன் < Genitive Case > 
+<ஏ>:
+<unknown>
+
+<சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<யாருக்கு>:
+யார் < Interrogative Noun > உக்கு < Dative Case > 
+<நல்லது>:
+நல்லது < Noun > 
+<மந்தமான>:
+மந்தம் < Noun > ஆன < Adjectival Suffix > 
+<பசி>:
+பசி < Verb > 
+<பசி>
+பசி < Noun > 
+<பசி>
+
+<மசக்கை>:
+மசக்கை < Noun > 
+<வாந்தி>:
+வாந்தி < Noun > 
+<அதிக>:
+அதிக < Adjectival Noun > 
+<பித்த>:
+பித்த < Adjectival Noun > 
+<எரிச்சல்>:
+எரிச்சல் < Noun > 
+<பித்த>:
+பித்த < Adjectival Noun > 
+<மயக்கத்தால்>:
+மயக்கம் < Noun > அத்து < Oblique > ஆல் < Instrumental Case > 
+<அவதிப்படுபவர்களுக்கு>:
+அ < Relative Participle Suffix > வ் < Sandhi > அர் < Pronominal Third Person Singular > கள் < Plural Suffix > உக்கு < Dative Case > 
+<அ+வ்+அர்+கள்+உக்கு>
+<unknown>
+
+<.>:
+<unknown>
+
+<யாருக்கு>:
+யார் < Interrogative Noun > உக்கு < Dative Case > 
+<வேண்டாம்>:
+வேண்டாம் < Negative Finite Verb > 
+<தொண்டைவலி>:
+
+<உள்ளவர்கள்>:
+உள்ளவர் < Noun > கள் < Plural Suffix > 
+<சாப்பிடக்கூடாது>:
+சாப்பிடு < Verb > அ < Infinitive Suffix > க் < Sandhi > கூடாது < Finite Verb Suffix > 
+<சாப்பிடு+அ+க்+கூடாது>
+
+<.>:
+<unknown>
+
+<பலன்கள்>:
+பலன் < Noun > கள் < Plural Suffix > 
+<கண்>:
+கண் < Particle > 
+<கண்>
+கண் < Noun > 
+<கண்>
+
+<பார்வையைத்>:
+பார்வை < Noun > ய் < Sandhi > ஐ < Accusative Case > த் < Sandhi > 
+<தெளிவாக்கும்>:
+தெளி < Verb > வா < Auxiliary Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<தெளி+வா+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<சாப்பாடு>:
+சாப்பாடு < Noun > 
+<ஏற்கும்>:
+உம் < Clitic > 
+<உம்>
+<unknown>
+
+<திறனை>:
+திறன் < Noun > ஐ < Accusative Case > 
+<அதிகரித்து>:
+அதிகரி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அதிகரி+த்த்+உ>
+
+<பித்தத்தை>:
+பித்தம் < Noun > அத்து < Oblique > ஐ < Accusative Case > 
+<கட்டுப்படுத்தும்>:
+கட்டுப்படுத்து < Verb > உம் < Third Future Neuter Singular OR RP > 
+<கட்டுப்படுத்து+உம்>
+
+<.>:
+<unknown>
+

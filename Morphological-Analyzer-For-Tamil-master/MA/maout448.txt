@@ -1,0 +1,54 @@
+<﻿கட்டிக்குப்>:
+கட்டு < Auxiliary Verb > இ < Past Tense Marker > க்கு < Dative Case > ப் < Sandhi > 
+<கட்டு+இ+க்கு+ப்>
+<unknown>
+
+<பூச்சுமருந்து>:
+ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<ந்த்+உ>
+பூச்சு < Noun > மருந்து < Noun > 
+<பூச்சு+மருந்து>
+
+<வேப்பெண்ணெய்>:
+வேப்பெண்ணெய் < Noun > 
+<ஆமணக்கெண்ணெய்>:
+ய் < Verbal Participle Suffix > 
+<ய்>
+<unknown>
+
+<எள்ளு>:
+<unknown>
+
+<தேன்>:
+தேன் < Noun > 
+<சுண்ணாம்பு>:
+சுண்ணாம்பு < Noun > 
+<என்பனவற்றை>:
+என் < En > ப் < Future Tense Marker > அன < Neuter Plural Suffix > அற்று < Oblique > ஐ < Accusative Case > 
+<என்+ப்+அன+அற்று+ஐ>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<நெட்டி>:
+நெட்டி < Noun > 
+<முறிகின்ற>:
+முறி < Verb > கின்று < Present Tense Marker > அ < Relative Participle Suffix > 
+<முறி+கின்று+அ>
+
+<பதத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<வழித்து>:
+வழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வழி+த்த்+உ>
+
+<கட்டியிற்பூச>:
+
+<வற்றும்>:
+வற்று < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வற்று+உம்>
+

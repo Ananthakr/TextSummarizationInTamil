@@ -1,0 +1,76 @@
+<﻿ஊதுமாந்த>:
+
+<கணத்திற்கு>:
+கணம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<கியாழம்>:
+<unknown>
+
+<ஊசிமல்லி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<சுக்கு>:
+சுக்கு < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<இவைகளாய்>:
+இவைகள் < Pronoun > ஆய் < Adverbial Suffix > 
+<இவைகள்+ஆய்>
+
+<ஓர்>:
+ஓர் < Adjective > 
+<நிறையாய்>:
+நிறை < Noun > ய் < Sandhi > ஆய் < Adverbial Suffix > 
+<நிறை+ய்+ஆய்>
+
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<ஜலத்தில்>:
+ஜலம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<போட்டுயெட்டொன்றாய்>:
+ற் < Past Tense Marker > ஆய் < Second Person Singular Suffix > 
+<ற்+ஆய்>
+<unknown>
+
+<வற்றக்காச்சியக்>:
+இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > க் < Sandhi > 
+<இ+ய்+அ+க்>
+<unknown>
+
+<கியாழத்தில்>:
+அத்து < Oblique > இல் < Locative Case > 
+<அத்து+இல்>
+<unknown>
+
+<சங்களவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<இருவேளையுங்கொடுத்துவர>:
+கொடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<கொடு+த்த்+உ+வா+அ>
+<unknown>
+
+<ஊதுமாந்த>:
+
+<கணந்தீரும்>:
+கண் < Noun > அ < Infinitive Suffix > ந்த் < Past Tense Marker > ஈர் < Second Person Singular Suffix > உம் < Clitic > 
+<கண்+அ+ந்த்+ஈர்+உம்>
+
+<.>:
+<unknown>
+

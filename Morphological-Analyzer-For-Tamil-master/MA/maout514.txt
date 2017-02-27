@@ -1,0 +1,135 @@
+<﻿குட்டவகை>:
+
+<சொறிவகை>:
+சொறி < Noun > வகு < Verb > ஐ < Accusative Case > 
+<சொறி+வகு+ஐ>
+
+<கரப்பான்>:
+கரப்பான் < Noun > 
+<வகை>:
+வகை < Noun > 
+<கிரந்தி>:
+கிரந்தி < Noun > 
+<வகை>:
+வகை < Noun > 
+<தண்டுப்புண்>:
+தண்டு < Noun > ப் < Sandhi > புண் < Noun > 
+<தண்டு+ப்+புண்>
+<unknown>
+
+<சலப்புண்>:
+
+<கட்டு>:
+கட்டு < Verb > 
+<பிளவை>:
+பிளவை < Noun > 
+<சகலத்துக்கும்>:
+சகலம் < Noun > அத்து < Oblique > உக்கு < Dative Case > உம் < Clitic > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<குக்கில்>:
+க்க் < Sandhi > இல் < Locative Case > 
+<க்க்+இல்>
+<unknown>
+
+<மிளகு>:
+மிளகு < Noun > 
+<திப்பிலி>:
+திப்பிலி < Noun > 
+<ஏலம்>:
+ஏலம் < Noun > 
+<கராம்பு>:
+<unknown>
+
+<மதுரம்>:
+மதுரம் < Noun > 
+<5கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<இரசகர்ப்பூரம்-10கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<நேர்வாளத்தைச்>:
+அத்து < Oblique > ஐ < Accusative Case > ச் < Sandhi > 
+<அத்து+ஐ+ச்>
+<unknown>
+
+<சுத்திபண்ணிக்>:
+சுத்தி < Noun > பண்ணு < Auxiliary Verb > இ < Past Tense Marker > க் < Sandhi > 
+<சுத்தி+பண்ணு+இ+க்>
+
+<கொள்ளவும்>:
+அ < Infinitive Suffix > வ் < Sandhi > உம் < Clitic > 
+<அ+வ்+உம்>
+<unknown>
+
+<.>:
+<unknown>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<ஓர்>:
+ஓர் < Adjective > 
+<ஆழாக்கிற்கரைத்து>:
+
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<வைத்துகாலையில்>:
+ய் < Sandhi > இல் < Locative Case > 
+<ய்+இல்>
+<unknown>
+
+<குடிக்கவும்>:
+குடி < Verb > க்க் < Sandhi > அ < Infinitive Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<குடி+க்க்+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<3>:
+3 < Numbers > 
+<நாள்>:
+நாள் < DateTime > 
+<அருந்தி>:
+அருந்து < Verb > இ < Past Tense Marker > 
+<அருந்து+இ>
+
+<ஓமம்>:
+<unknown>
+
+<தலையில்>:
+தலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<வெந்நீரில்>:
+ஈர் < Second Person Singular Suffix > இல் < Locative Case > 
+<ஈர்+இல்>
+<unknown>
+
+<முழுக>:
+முழுகு < Verb > அ < Infinitive Suffix > 
+<முழுகு+அ>
+
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

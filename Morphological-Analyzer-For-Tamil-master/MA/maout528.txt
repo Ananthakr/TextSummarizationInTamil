@@ -1,0 +1,67 @@
+<﻿அரையாப்புக்குச்>:
+
+<சேர்வை>:
+சேர் < Verb > வ் < Future Tense Marker > ஐ < Accusative Case > 
+<சேர்+வ்+ஐ>
+
+<குந்திருக்கம்>:
+<unknown>
+
+<வெங்காயம்>:
+வெங்காயம் < Noun > 
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<5கி.துத்தம்>:
+<unknown>
+
+<துருசு>:
+<unknown>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<2கி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<.>:
+<unknown>
+
+<காந்தம்>:
+காந்தம் < Noun > 
+<கைப்பு>:
+கைப்பு < Verb > 
+<கைப்பு>
+கைப்பு < Noun > 
+<கைப்பு>
+
+<வேப்பம்பட்டை>:
+பட்டு < Auxiliary Verb > ஐ < Accusative Case > 
+<பட்டு+ஐ>
+<unknown>
+
+<இவற்றுடன்>:
+இ < Pronoun > அற்று < Oblique > உடன் < Associative Case > 
+<நல்லெண்ணெய்>:
+நல்லெண்ணெய் < Noun > 
+<விட்டரைத்து>:
+
+<சேர்வையாக>:
+சேர் < Noun > வை < Verb > ய் < Sandhi > ஆகு < Auxiliary Verb > அ < Infinitive Suffix > 
+<சேர்+வை+ய்+ஆகு+அ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<போடவும்>:
+போடு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<போடு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

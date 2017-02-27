@@ -1,0 +1,211 @@
+<﻿நெட்டிலிங்கம்(B.N:POLYALTHIA>:
+<Error>
+
+<LONGIFOLIA>:
+<Error>
+
+<அசோக>:
+அசோக < Entity > 
+<மரத்திற்கு>:
+மரம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<நெட்டிலிங்க>:
+அ < Infinitive Suffix > 
+<அ>
+<unknown>
+
+<மரம்>:
+மரம் < Noun > 
+<என்ற>:
+என்ற < Particle > 
+<பெயரும்>:
+பெயர் < Noun > உம் < Clitic > 
+<உண்டு.இது>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இ+த்+உ>
+<unknown>
+
+<சிறு>:
+சிறு < Adjective > 
+<சிறு>
+சிறு < Verb > 
+<சிறு>
+
+<கிளைகளுடன்>:
+கிளை < Noun > கள் < Plural Suffix > உடன் < Associative Case > 
+<8>:
+8 < Numbers > 
+<முதல்>:
+முதல் < Particle > 
+<முதல்>
+முதல் < Postposition > 
+<முதல்>
+முதல் < Noun > 
+<முதல்>
+
+<10>:
+10 < Numbers > 
+<மீட்டர்>:
+மீட்டர் < Noun > 
+<உயரம்>:
+உயரம் < Noun > 
+<வரை>:
+வரை < Postposition > 
+<வரை>
+வரை < Verb > 
+<வரை>
+
+<வளரக்கூடியது.பரவலாக>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > 
+<ஆகு+அ>
+<unknown>
+
+<வளராமல்>:
+வளர் < Verb > அ < Infinitive Suffix > ஆமல் < Negative Conditional Suffix Suffix > 
+<வளர்+அ+ஆமல்>
+
+<கூர்மையாக>:
+கூர்மை < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<கூர்மை+ய்+ஆக>
+
+<வளரும்>:
+வளர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<வளர்+உம்>
+
+<.>:
+<unknown>
+
+<பெண்கள்>:
+பெண் < Noun > கள் < Plural Suffix > 
+<கர்ப்பப்பை>:
+கர்ப்பப்பை < Noun > 
+<சம்பந்தமான>:
+சம்பந்தம் < Noun > ஆன < Adjectival Suffix > 
+<கோளாறுகள்>:
+கோள் < Noun > ஆ < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > கள் < Plural Suffix > 
+<கோள்+ஆ+ற்+உ+கள்>
+
+<எதுவானாலும்>:
+த் < Past Tense Marker > உ < Verbal Participle Suffix > வ் < Future Tense Marker > ஆனால் < Conjunction Suffix > உம் < Clitic > 
+<த்+உ+வ்+ஆனால்+உம்>
+<unknown>
+
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<அசோக>:
+அசோக < Entity > 
+<மரத்தின்>:
+மரம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<உள்பட்டையும்,மாதுளம்>:
+<unknown>
+
+<பழத்>:
+பழு < Verb > அ < Infinitive Suffix > த் < Sandhi > 
+<பழு+அ+த்>
+
+<தோலையும்>:
+தோல் < Noun > ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<சேகரித்து,ஒவ்வொன்றிலும்>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > இல் < Locative Case > உம் < Clitic > 
+<ற்+உ+இல்+உம்>
+<unknown>
+
+<இரண்டு>:
+இரண்டு < charNumbers > 
+<ரூபாயெடை>:
+ரூபா < Entity > ய் < Verbal Participle Suffix > எடு < Auxiliary Verb > ஐ < Accusative Case > 
+<ரூபா+ய்+எடு+ஐ>
+
+<எடுத்து>:
+எடுத்து < Adverb > 
+<பொடியாக>:
+பொடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<பொடி+ய்+ஆக>
+
+<ந்றுக்கி>:
+க்க் < Sandhi > இ < Past Tense Marker > 
+<க்க்+இ>
+<unknown>
+
+<வெய்யிலில்>:
+வெய்யில் < Noun > இல் < Locative Case > 
+<சருகு>:
+சருகு < Noun > 
+<போல>:
+போல < Particle > 
+<போல>
+போல < Postposition > 
+<போல>
+
+<காயவைத்து>:
+காய் < Noun > அ < Infinitive Suffix > வைத்து < Postposition > 
+<காய்+அ+வைத்து>
+
+<உரலில்>:
+உரல் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<மாச்சல்லடையில்>:
+
+<சலித்து,ஒரு>:
+<unknown>
+
+<வாயகன்ற>:
+வாய் < Noun > அகல் < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<வாய்+அகல்+ற்+உ+அ>
+
+<சீசாவில்>:
+சீசா < Noun > வ் < Sandhi > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<தேக்கரண்டியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<வாயில்>:
+வாயில் < Noun > 
+<போட்டு>:
+போட்டு < Particle > 
+<வென்னீர்>:
+வென்னீர் < Noun > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<கர்ப்பப்பை>:
+கர்ப்பப்பை < Noun > 
+<சம்பந்தமான>:
+சம்பந்தம் < Noun > ஆன < Adjectival Suffix > 
+<சகல>:
+சகல < Adjectival Noun > 
+<கோளாறுகளும்>:
+கோள் < Noun > ஆ < Verb > ற் < Past Tense Marker > உ < Verbal Participle Suffix > கள் < Plural Suffix > உம் < Clitic > 
+<கோள்+ஆ+ற்+உ+கள்+உம்>
+
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

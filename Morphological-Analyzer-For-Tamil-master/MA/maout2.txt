@@ -1,0 +1,94 @@
+<﻿அரையாப்பு>:
+
+
+<இரணத்திற்கு>:
+இரணம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+
+<சீலை>:
+சீலை < Noun > 
+
+<குங்கிலியம்>:
+குங்கிலியம் < Noun > 
+
+<பலம்>:
+பலம் < Noun > 
+
+<1>:
+1 < Numbers > 
+
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+
+<கல்வத்திலிட்டு>:
+இடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடு+ட்+உ>
+<unknown>
+
+
+<பசும்>:
+பசும் < Adjective > 
+
+<வெண்ணெய்>:
+வெண்ணெய் < Entity > 
+
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+
+<சீலையில்>:
+சீலை < Noun > ய் < Sandhi > இல் < Locative Case > 
+
+<தடவி>:
+தடவு < Verb > இ < Past Tense Marker > 
+<தடவு+இ>
+
+
+<அரையாப்பு>:
+
+
+<முதலிய>:
+முதலிய < Adjective > 
+
+<இரணங்களின்>:
+இரணம் < Noun > கள் < Plural Suffix > இன் < Genitive Case > 
+
+<மீது>:
+மீது < Particle > 
+
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+
+<ஆறியுலரும்>:
+அர் < Third Person Plural Suffix > உம் < Clitic > 
+<அர்+உம்>
+<unknown>
+
+
+<.>:
+<unknown>
+
+

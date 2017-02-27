@@ -1,0 +1,124 @@
+<﻿கரப்பான்>:
+அ < Infinitive Suffix > ப்ப் < Future Tense Marker > ஆன் < Third Person Masculine Singular Suffix > 
+<அ+ப்ப்+ஆன்>
+<unknown>
+
+<வியாக்கும்>:
+
+<ரணத்திற்கும்>:
+ரணம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > உம் < Clitic > 
+<உள்ளுக்கும்>:
+உள் < Noun > ள் < Sandhi > உக்கு < Dative Case > உம் < Clitic > 
+<மேலுக்கும்>:
+மேல் < Noun > உக்கு < Dative Case > உம் < Clitic > 
+<எண்ணெய்>:
+எண்ணெய் < Noun > 
+<கருநொச்சியிலே>:
+இ < Past Tense Marker > ய் < Sandhi > இல் < Locative Case > ஏ < Clitic > 
+<இ+ய்+இல்+ஏ>
+<unknown>
+
+<பிடி>:
+பிடி < Verb > 
+<பிடி>
+பிடி < Noun > 
+<பிடி>
+
+<1>:
+1 < Numbers > 
+<சிறுகுறிஞ்சான்>:
+ஆன் < Third Person Masculine Singular Suffix > 
+<ஆன்>
+<unknown>
+
+<1>:
+1 < Numbers > 
+<சுன்னி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<1>:
+1 < Numbers > 
+<சாணாக்கி>:
+சாண் < Noun > ஆக்கு < Auxiliary Verb > இ < Past Tense Marker > 
+<சாண்+ஆக்கு+இ>
+
+<1>:
+1 < Numbers > 
+<சிவகரந்தையிலே>:
+
+<1>:
+1 < Numbers > 
+<வசம்பு>:
+வசம்பு < Noun > 
+<பலம்>:
+பலம் < Noun > 
+<1>:
+1 < Numbers > 
+<கடுகுருவி>:
+வ் < Future Tense Marker > இ < Past Tense Marker > 
+<வ்+இ>
+<unknown>
+
+<1>:
+1 < Numbers > 
+<பூண்டு>:
+பூண்டு < Noun > 
+<1>:
+1 < Numbers > 
+<பொடித்துபோட்டு>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > போடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ+போடு+ட்+உ>
+
+<காய்ச்சியிரக்கும்போது>:
+அ < Infinitive Suffix > க்க் < Sandhi > உம் < Clitic > போது < Postposition > 
+<அ+க்க்+உம்+போது>
+<unknown>
+
+<ரசகற்பூரம்>:
+<unknown>
+
+<2-விராகனெடை>:
+ஆகு < Auxiliary Verb > அ < Infinitive Suffix > ன் < Past Tense Marker > எடு < Auxiliary Verb > ஐ < Accusative Case > 
+<ஆகு+அ+ன்+எடு+ஐ>
+<unknown>
+
+<எண்ணெய்விட்டு>:
+எண்ணெய் < Noun > விட்டு < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<கலக்கியிறக்கவும்.உள்ளுக்கு>:
+ள் < Sandhi > உக்கு < Dative Case > 
+<ள்+உக்கு>
+<unknown>
+
+<கரண்டிவீதம்>:
+கரண்டி < Noun > வீதம் < Noun > 
+<கரண்டி+வீதம்>
+
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<பூசிவர>:
+பூசி < Verb > வா < Auxiliary Verb > அ < Infinitive Suffix > 
+<பூசி+வா+அ>
+
+<எவ்வித>:
+எவ்வு < Verb > இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<எவ்வு+இ+த்+உ+அ>
+
+<சிரங்கும்>:
+சிரங்கு < Noun > உம் < Clitic > 
+<ஆறிவிடும்>:
+ஆறு < Verb > இ < Past Tense Marker > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஆறு+இ+விடு+உம்>
+
+<.>:
+<unknown>
+

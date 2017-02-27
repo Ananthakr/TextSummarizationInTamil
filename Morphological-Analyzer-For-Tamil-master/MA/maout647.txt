@@ -1,0 +1,106 @@
+<﻿>:
+<unknown>
+
+<வெட்டுக்>:
+வெட்டு < Verb > க் < Sandhi > 
+<வெட்டு+க்>
+வெட்டு < Noun > க் < Sandhi > 
+<வெட்டு+க்>
+
+<காயத்திற்கு>:
+காயம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<வெட்டுகாய>:
+
+<மாறுவத்வ்வாறெனில்>:
+ன் < Past Tense Marker > இல் < Locative Case > 
+<ன்+இல்>
+<unknown>
+
+<இரசகர்பூரம்>:
+<unknown>
+
+<பேங்கொட்டை>:
+கொடு < Auxiliary Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<கொடு+ட்+உ+ஐ>
+<unknown>
+
+<யேலரிசி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<தேங்காய்பத்தை>:
+அ < Infinitive Suffix > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<அ+த்த்+உ+ஐ>
+<unknown>
+
+<இவைகளையிடித்து>:
+
+<தூள்செய்து>:
+தூள் < Noun > செய் < Auxiliary Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தூள்+செய்+த்+உ>
+
+<நல்லெண்ணெயிற்>:
+இ < Past Tense Marker > ற் < Past Tense Marker > 
+<இ+ற்>
+<unknown>
+
+<கூட்டி>:
+கூட்டு < Verb > இ < Past Tense Marker > 
+<கூட்டு+இ>
+
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<அதை>:
+அது < Pronoun > ஐ < Accusative Case > 
+<செப்புச்சிமிளியில்>:
+இ < Past Tense Marker > ய் < Sandhi > இல் < Locative Case > 
+<இ+ய்+இல்>
+<unknown>
+
+<வழித்தெடுத்து>:
+வழி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வழி+த்த்+உ+எடு+த்த்+உ>
+
+<வெய்யிலில்>:
+வெய்யில் < Noun > இல் < Locative Case > 
+<காயவைத்து>:
+காய் < Noun > அ < Infinitive Suffix > வைத்து < Postposition > 
+<காய்+அ+வைத்து>
+
+<காயங்களின்>:
+காயம் < Noun > கள் < Plural Suffix > இன் < Genitive Case > 
+<மேல்>:
+மேல் < Postposition > 
+<மேல்>
+மேல் < Noun > 
+<மேல்>
+
+<தடவினால்>:
+தடு < Verb > அ < Relative Participle Suffix > வ் < Sandhi > இன் < Euphonic > ஆல் < Instrumental Case > 
+<தடு+அ+வ்+இன்+ஆல்>
+
+<காய>:
+காய் < Noun > அ < Infinitive Suffix > 
+<காய்+அ>
+
+<ரணங்கனால்>:
+அ < Infinitive Suffix > ன் < Past Tense Marker > ஆல் < Instrumental Case > 
+<அ+ன்+ஆல்>
+<unknown>
+
+<ஏற்படும்>:
+ஏற்படு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<ஏற்படு+உம்>
+
+<வடுக்களும்>:
+வடு < Noun > க்கள் < Plural Suffix > உம் < Clitic > 
+<மாறிவிடும்>:
+மாறு < Verb > இ < Past Tense Marker > விடு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<மாறு+இ+விடு+உம்>
+
+<.>:
+<unknown>
+

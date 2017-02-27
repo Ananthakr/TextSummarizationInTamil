@@ -1,0 +1,130 @@
+<﻿இரத்த>:
+அத்து < Oblique > அ < Relative Participle Suffix > 
+<அத்து+அ>
+<unknown>
+
+<காசத்திற்கு>:
+காசம் < Noun > அத்து < Oblique > இன் < Euphonic > கு < Dative Case > 
+<குண்டை>:
+குண்டு < Noun > ஐ < Accusative Case > 
+<ஆலம்விரை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<அத்திவிரை>:
+ஐ < Accusative Case > 
+<ஐ>
+
+<1/4>:
+<unknown>
+
+<நாவல்>:
+நாவல் < Noun > 
+<1/4>:
+<unknown>
+
+<அரடுன்விதை>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > ஐ < Accusative Case > 
+<இ+த்+உ+ஐ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<நிலைப்பனங்கிழங்கு>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<மாங்கொம்பு>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<முருங்கைகொம்பு>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<தூதுளம்பூ>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<பசும்பால்>:
+பசும்பால் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<மைபோல்>:
+மை < Noun > போல் < Postposition > 
+<அரைத்து>:
+அரை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<அரை+த்த்+உ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கொண்டு>:
+கொண்டு < Postposition > 
+<கெச்சச்சக்காய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<பிரமாணம்>:
+பிரமாணம் < Noun > 
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<பத்து>:
+பத்து < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<தேன்>:
+தேன் < Noun > 
+<நெய்>:
+நெய் < Verb > 
+<நெய்>
+நெய் < Noun > 
+<நெய்>
+
+<இவைகளில்>:
+இவைகள் < Pronoun > இல் < Locative Case > 
+<மத்தித்துச்>:
+மத்து < Noun > இ < Past Tense Marker > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ச் < Sandhi > 
+<மத்து+இ+த்த்+உ+ச்>
+
+<சாப்பிட>:
+சாப்பிடு < Verb > அ < Relative Participle Suffix > 
+<சாப்பிடு+அ>
+
+<ரத்தகாசந்>:
+<unknown>
+
+<தீரும்>:
+தீர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<தீர்+உம்>
+
+<.>:
+<unknown>
+

@@ -1,0 +1,47 @@
+<﻿பற்பூச்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<விழ>:
+விழு < Verb > அ < Infinitive Suffix > 
+<விழு+அ>
+
+<மருந்து>:
+மருந்து < Noun > 
+<சித்தரத்தை>:
+சித்தரத்தை < Noun > 
+<சூடம்>:
+சூடம் < Noun > 
+<மிளகு>:
+மிளகு < Noun > 
+<பொரிக்காரம்>:
+பொரி < Noun > க் < Sandhi > காரம் < Noun > 
+<பொரி+க்+காரம்>
+
+<வெற்றிலைக்>:
+வெற்றிலை < Noun > க் < Sandhi > 
+<கொடிச்சாகம்>:
+<unknown>
+
+<விட்டரைத்து>:
+
+<குளிகை>:
+குளிகை < Noun > 
+<செய்து>:
+செய் < Verb > த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<செய்+த்+உ>
+
+<கொடுப்பில்>:
+
+<அடக்க>:
+அட < Particle > க்க் < Sandhi > அ < Infinitive Suffix > 
+<அட+க்க்+அ>
+
+<விழும்>:
+விழு < Verb > உம் < Third Future Neuter Singular OR RP > 
+<விழு+உம்>
+
+<.>:
+<unknown>
+

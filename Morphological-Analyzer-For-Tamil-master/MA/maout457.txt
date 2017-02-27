@@ -1,0 +1,98 @@
+<﻿நீர்>:
+ஈர் < Second Person Singular Suffix > 
+<ஈர்>
+<unknown>
+
+<கட்டுக்குக்>:
+கட்டு < Verb > உக்கு < Dative Case > க் < Sandhi > 
+<கட்டு+உக்கு+க்>
+
+<கியாழம்>:
+<unknown>
+
+<பூனைக்கீரை>:
+ஈர் < Second Person Singular Suffix > ஐ < Accusative Case > 
+<ஈர்+ஐ>
+பூனை < Noun > க் < Sandhi > கீரை < Noun > 
+<பூனை+க்+கீரை>
+
+<பலம்>:
+பலம் < Noun > 
+<1/4>:
+<unknown>
+
+<நெரிஞ்சல்>:
+<unknown>
+
+<1/4>:
+<unknown>
+
+<சிறுகீரை>:
+ஈர் < Second Person Singular Suffix > ஐ < Accusative Case > 
+<ஈர்+ஐ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<வெள்ளிரிவிரை>:
+ஐ < Accusative Case > 
+<ஐ>
+<unknown>
+
+<1/4>:
+<unknown>
+
+<இவைகளை>:
+இவைகள் < Pronoun > ஐ < Accusative Case > 
+<ஒருபடி>:
+ஒரு < Adjectival Noun > படி < Postposition > 
+<ஒரு+படி>
+
+<நீரில்>:
+நீர் < Noun > இல் < Locative Case > 
+<போட்டு>:
+போட்டு < Particle > 
+<கால்படியாக>:
+கால் < Noun > ப் < Sandhi > அடி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<கால்+ப்+அடி+ய்+ஆக>
+
+<சுண்டக்காய்ச்சி>:
+
+<காலை>:
+காலை < DateTime > 
+<மாலை>:
+மாலை < Noun > 
+<யிருவேளையும்>:
+ஐ < Accusative Case > ய் < Sandhi > உம் < Clitic > 
+<ஐ+ய்+உம்>
+<unknown>
+
+<மூன்று>:
+மூன்று < charNumbers > 
+<நாள்>:
+நாள் < DateTime > 
+<சாப்பிட்டுக்>:
+சாப்பிடு < Verb > ட் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<சாப்பிடு+ட்+உ+க்>
+
+<கொண்டுவர>:
+கொண்டுவா < Verb > அ < Infinitive Suffix > 
+<கொண்டுவா+அ>
+
+<நீர்கட்டானது>:
+
+<தீர்ந்து>:
+தீர் < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<தீர்+ந்த்+உ>
+
+<தாரளமாய்>:
+ஆய் < Second Person Singular Suffix > 
+<ஆய்>
+<unknown>
+
+<நீரானதுயிரங்கும்>:
+
+<.>:
+<unknown>
+

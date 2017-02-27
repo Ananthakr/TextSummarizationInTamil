@@ -1,0 +1,69 @@
+<﻿திருக்கை>:
+
+<முள்>:
+முள் < Noun > 
+<தைத்தால்>:
+தை < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<தை+த்த்+உ+ஆல்>
+
+<மருந்து>:
+மருந்து < Noun > 
+<நரிப்பயறுவேர்>:
+
+<சாயவேர்>:
+
+<கறியுப்பு>:
+
+<மிளகாய்>:
+மிளகாய் < Noun > 
+<மஞ்சள்>:
+மஞ்சள் < Noun > 
+<சுக்கு>:
+சுக்கு < Noun > 
+<வெங்காயம்>:
+வெங்காயம் < Noun > 
+<தட்டி>:
+தட்டி < Noun > 
+<கடிவாயில்>:
+கடிவாய் < Noun > இல் < Locative Case > 
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டி>:
+கட்டி < Noun > 
+<பச்சைத்>:
+பச்சை < Noun > த் < Sandhi > 
+<தண்ணீர்>:
+தண்ணீர் < Noun > 
+<ஊற்றவும்>:
+ஊற்று < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<ஊற்று+அ+வ்+உம்>
+
+<புண்>:
+புண் < Noun > 
+<இருந்தால்>:
+இரு < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<இரு+ந்த்+உ+ஆல்>
+
+<இயங்கம்வேர்>:
+
+<துருவி>:
+துருவு < Verb > இ < Past Tense Marker > 
+<துருவு+இ>
+
+<பால்பிழிந்து>:
+
+<சக்கையும்>:
+சக்கை < Noun > ய் < Sandhi > உம் < Clitic > 
+<சேர்த்துக்>:
+சேர்த்து < Adverb > க் < Sandhi > 
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+

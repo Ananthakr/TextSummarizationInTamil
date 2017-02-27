@@ -1,0 +1,86 @@
+<﻿வேறுவித>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<இ+த்+உ+அ>
+<unknown>
+
+<நீலக்காரம்>:
+<unknown>
+
+<பால்>:
+பால் < Particle > 
+<பால்>
+பால் < Postposition > 
+<பால்>
+பால் < Noun > 
+<பால்>
+
+<துத்தம்>:
+<unknown>
+
+<பலம்>:
+பலம் < Noun > 
+<1/2>:
+<unknown>
+
+<சங்கு>:
+சங்கு < Noun > 
+<1/2>:
+<unknown>
+
+<மயில்துத்தம்>:
+<unknown>
+
+<1/2>:
+<unknown>
+
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<ஐந்து>:
+ஐந்து < charNumbers > 
+<தினுசுகளையும்>:
+தினுசு < Noun > களை < Noun > ய் < Sandhi > உம் < Clitic > 
+<நிறுத்தெடுத்து>:
+நிறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > எடு < Auxiliary Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<நிறு+த்த்+உ+எடு+த்த்+உ>
+
+<அதற்குச்>:
+அது < Pronoun > அன் < Euphonic > கு < Dative Case > ச் < Sandhi > 
+<சமனாக>:
+சமன் < Noun > ஆக < Adverbial Suffix > 
+<சமன்+ஆக>
+
+<வெள்ளை>:
+வெள்ளை < Noun > 
+<துணிசேர்த்து>:
+துணி < Noun > சேர் < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<துணி+சேர்+த்த்+உ>
+
+<இடித்து>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<இடி+த்த்+உ>
+
+<பொடித்து>:
+பொடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பொடி+த்த்+உ>
+
+<எரிச்சலுடைய>:
+எரிச்சல் < Noun > உடைய < Genitive Case > 
+<இரணத்தின்>:
+இரணம் < Noun > அத்து < Oblique > இன் < Genitive Case > 
+<மேலே>:
+மேலே < Adverb > 
+<போட்டுக்>:
+போட்டு < Particle > க் < Sandhi > 
+<கொண்டுவரயெறிசிங்கிரெணமானது>:
+
+<ஆறி>:
+ஆறு < Verb > இ < Past Tense Marker > 
+<ஆறு+இ>
+
+<உலரும்>:
+உலர் < Verb > உம் < Third Future Neuter Singular OR RP > 
+<உலர்+உம்>
+
+<.>:
+<unknown>
+

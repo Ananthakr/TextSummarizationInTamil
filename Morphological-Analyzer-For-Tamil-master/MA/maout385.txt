@@ -1,0 +1,152 @@
+<﻿கட்டு>:
+கட்டு < Auxiliary Verb > 
+<கட்டு>
+<unknown>
+
+<பழுக்க>:
+பழுக்க < Adverb > 
+<மருந்து>:
+மருந்து < Noun > 
+<1>:
+1 < Numbers > 
+<.>:
+<unknown>
+
+<நீர்ப்பூலா>:
+ஆ < Clitic > 
+<ஆ>
+<unknown>
+
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<கோழி>:
+கோழி < Noun > 
+<முட்டை>:
+முட்டை < Entity > 
+<வெண்கரு>:
+<unknown>
+
+<விட்டரைத்துக்>:
+
+<கட்டவும்->:
+<unknown>
+
+<கட்டு>:
+கட்டு < Verb > 
+<பழுக்கும்>:
+பழு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<பழு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<2>:
+2 < Numbers > 
+<.>:
+<unknown>
+
+<குருவீச்சம்>:
+குரு < Noun > வீச்சம் < Noun > 
+<குரு+வீச்சம்>
+
+<பூவை>:
+பூவை < Entity > 
+<மண்டிக்கள்ளில்>:
+மண்டி < Noun > க்கள் < Plural Suffix > ள் < Sandhi > இல் < Locative Case > 
+<அவித்துக்>:
+அவி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<அவி+த்த்+உ+க்>
+
+<கட்ட>:
+கட்டு < Verb > அ < Relative Participle Suffix > 
+<கட்டு+அ>
+
+<பழுக்கும்>:
+பழு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<பழு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<3>:
+3 < Numbers > 
+<.>:
+<unknown>
+
+<வேப்பிலையை>:
+வேப்பிலை < Entity > ய் < Sandhi > ஐ < Accusative Case > 
+<இடித்துக்>:
+இடி < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<இடி+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பிறகு>:
+பிறகு < Postposition > 
+<பிறகு>
+பிறகு < Adverb > 
+<பிறகு>
+பிறகு < Noun > 
+<பிறகு>
+
+<வேப்பிலையை>:
+வேப்பிலை < Entity > ய் < Sandhi > ஐ < Accusative Case > 
+<வறுத்துக்>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<வறு+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<பிறகு>:
+பிறகு < Postposition > 
+<பிறகு>
+பிறகு < Adverb > 
+<பிறகு>
+பிறகு < Noun > 
+<பிறகு>
+
+<சிறுநீர்>:
+சிறுநீர் < Noun > 
+<விட்டு>:
+விட்டு < Postposition > 
+<வறுத்துக்>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<வறு+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<கட்டு>:
+கட்டு < Verb > 
+<பழுக்கும்>:
+பழு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<பழு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<எல்லா>:
+எல்லா < Demonstrative Adjective > 
+<வித>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > 
+<இ+த்+உ+அ>
+<unknown>
+
+<புண்ணும்>:
+புண் < Noun > ண் < Sandhi > உம் < Clitic > 
+<மாறும்>:
+மாறு < Noun > உம் < Clitic > 
+<.>:
+<unknown>
+

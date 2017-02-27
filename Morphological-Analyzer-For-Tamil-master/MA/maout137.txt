@@ -1,0 +1,193 @@
+<﻿கழற்சியிலை(B.N:CAESALPINIA>:
+<Error>
+
+<BONDUCELLA>:
+<Error>
+
+<கழற்சி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<பெறிய>:
+பெறு < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<பெறு+இ+ய்+அ>
+
+<மரமாக>:
+மரம் < Noun > ஆக < Adverbial Suffix > 
+<மரம்+ஆக>
+
+<அடர்த்தியாக>:
+அடர்த்தி < Noun > ய் < Sandhi > ஆக < Adverbial Suffix > 
+<அடர்த்தி+ய்+ஆக>
+
+<வளரும்.இதன்>:
+இ < Past Tense Marker > த் < Past Tense Marker > உ < Verbal Participle Suffix > அ < Relative Participle Suffix > ன் < Past Tense Marker > 
+<இ+த்+உ+அ+ன்>
+<unknown>
+
+<இலை>:
+இலை < Noun > 
+<வெற்றிலை>:
+வெற்றிலை < Noun > 
+<வடிவத்தில்>:
+வடிவம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<சற்று>:
+சற்று < Intensifier > 
+<சற்று>
+சற்று < Adverb > 
+<சற்று>
+
+<பெறியதாக>:
+பெறு < Verb > இ < Past Tense Marker > ய் < Sandhi > அது < Neuter OR Pronominal > ஆக < Postposition > 
+<பெறு+இ+ய்+அது+ஆக>
+
+<இருக்கும்>:
+இரு < Verb > க்க் < Sandhi > உம் < Third Future Neuter Singular OR RP > 
+<இரு+க்க்+உம்>
+
+<.>:
+<unknown>
+
+<நெஞ்சத்>:
+நெஞ்சு < Noun > அ < Infinitive Suffix > த் < Sandhi > 
+<நெஞ்சு+அ+த்>
+
+<தடுமன்>:
+தடுமன் < Noun > 
+<இந்த>:
+இந்த < Demonstrative Adjective > 
+<இலையைக்>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > க் < Sandhi > 
+<கொண்டு>:
+கொண்டு < Postposition > 
+<வந்து>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<வா+ந்த்+உ>
+
+<கசக்கி>:
+கசக்கு < Verb > இ < Past Tense Marker > 
+<கசக்கு+இ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<2>:
+2 < Numbers > 
+<தேக்கரண்டியளவு>:
+அ < Infinitive Suffix > வ் < Future Tense Marker > 
+<அ+வ்>
+<unknown>
+
+<சாற்றுடன்>:
+சாறு < Noun > உடன் < Associative Case > 
+<தேன்>:
+தேன் < Noun > 
+<சேர்த்து>:
+சேர்த்து < Adverb > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<விட>:
+விட < Particle > 
+<விட>
+விட < Postposition > 
+<விட>
+
+<வேண்டும்>:
+வேண்டும் < Finite Verb > 
+<.>:
+<unknown>
+
+<காலை,மாலையாக>:
+காலை,மாலையாக < DateTime > 
+<மூன்று>:
+மூன்று < charNumbers > 
+<வேளை>:
+வேளை < Noun > 
+<கொடுத்து>:
+கொடு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<கொடு+த்த்+உ>
+
+<வந்தால்>:
+வா < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > ஆல் < Instrumental Case > 
+<வா+ந்த்+உ+ஆல்>
+
+<நெஞ்சத்>:
+நெஞ்சு < Noun > அ < Infinitive Suffix > த் < Sandhi > 
+<நெஞ்சு+அ+த்>
+
+<தடுமன்>:
+தடுமன் < Noun > 
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+
+<தலைவலி>:
+தலைவலி < Noun > 
+<குணமாக>:
+குணம் < Noun > ஆக < Adverbial Suffix > 
+<குணம்+ஆக>
+
+<தலைவலி>:
+தலைவலி < Noun > 
+<தோன்றிய>:
+தோன்று < Verb > இ < Past Tense Marker > ய் < Sandhi > அ < Relative Participle Suffix > 
+<தோன்று+இ+ய்+அ>
+
+<நேரத்தில்>:
+நேரம் < Noun > அத்து < Oblique > இல் < Locative Case > 
+<கற்பூரவல்லி>:
+இ < Past Tense Marker > 
+<இ>
+<unknown>
+
+<இலையை>:
+இலை < Noun > ய் < Sandhi > ஐ < Accusative Case > 
+<உள்ளங்கையில்>:
+கையில் < Postposition > 
+<கையில்>
+<unknown>
+
+<வைத்து>:
+வைத்து < Particle > 
+<வைத்து>
+வைத்து < Postposition > 
+<வைத்து>
+
+<கசக்கி>:
+கசக்கு < Verb > இ < Past Tense Marker > 
+<கசக்கு+இ>
+
+<சாறு>:
+சாறு < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<அந்தச்>:
+அந்த < Demonstrative Adjective > ச் < Sandhi > 
+<சாற்றைப்>:
+சாறு < Noun > ஐ < Accusative Case > ப் < Sandhi > 
+<பொட்டில்>:
+பொட்டு < Noun > இல் < Locative Case > 
+<கனமாக>:
+கனம் < Noun > ஆக < Adverbial Suffix > 
+<கனம்+ஆக>
+
+<பூசி>:
+பூசி < Verb > 
+<வைத்தால்>:
+வைத்து < Particle > ஆல் < Instrumental Case > 
+<தலைவலி>:
+தலைவலி < Noun > 
+<குணமாகும்>:
+குணம் < Noun > ஆகு < Auxiliary Verb > உம் < Third Future Neuter Singular OR RP > 
+<குணம்+ஆகு+உம்>
+
+<.>:
+<unknown>
+

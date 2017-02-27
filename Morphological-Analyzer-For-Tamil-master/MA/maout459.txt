@@ -1,0 +1,70 @@
+<﻿புண்ணுக்குத்>:
+
+<துவாலை>:
+துவாலை < Noun > 
+<வவ்விலொட்டித்துளிர்>:
+
+<முருங்கைத்துளிர்>:
+முருங்கை < Noun > த் < Sandhi > துளிர் < Noun > 
+<முருங்கை+த்+துளிர்>
+<unknown>
+
+<கொவ்வைத்துளிர்>:
+
+<இம்மூன்றும்>:
+ற் < Past Tense Marker > உ < Verbal Participle Suffix > உம் < Clitic > 
+<ற்+உ+உம்>
+
+<வகைக்கு>:
+வகை < Noun > க்கு < Dative Case > 
+<ஒரு>:
+ஒரு < charNumbers > 
+<பிடி>:
+பிடி < Verb > 
+<பிடி>
+பிடி < Noun > 
+<பிடி>
+
+<வீதம்>:
+வீதம் < Noun > 
+<எடுத்து>:
+எடுத்து < Adverb > 
+<புண்ணில்>:
+புண் < Noun > ண் < Sandhi > இல் < Locative Case > 
+<பிளந்து>:
+பிள < Verb > ந்த் < Past Tense Marker > உ < Verbal Participle Suffix > 
+<பிள+ந்த்+உ>
+
+<வைத்துக்>:
+வைத்து < Particle > க் < Sandhi > 
+<வைத்து+க்>
+வைத்து < Postposition > க் < Sandhi > 
+<வைத்து+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
+<மயிலடிக்குருந்தம்>:
+<unknown>
+
+<பட்டையும்>:
+பட்டை < Noun > ய் < Sandhi > உம் < Clitic > 
+<இலையும்>:
+இலை < Noun > ய் < Sandhi > உம் < Clitic > 
+<சிறுநீரில்>:
+சிறுநீர் < Noun > இல் < Locative Case > 
+<வறுத்துக்>:
+வறு < Verb > த்த் < Past Tense Marker > உ < Verbal Participle Suffix > க் < Sandhi > 
+<வறு+த்த்+உ+க்>
+
+<கட்டவும்>:
+கட்டு < Verb > அ < Relative Participle Suffix > வ் < Future Tense Marker > உம் < Third Future Neuter Singular OR RP > 
+<கட்டு+அ+வ்+உம்>
+
+<.>:
+<unknown>
+
