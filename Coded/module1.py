@@ -12,7 +12,7 @@ senCount  = 0
 def loadandPrepareDoc():
     gateway = JavaGateway()
     #entire document
-    file=open("dataset/doc2.txt",'r+')
+    file=open("dataset/doc1.txt",'r+')
     doc=file.read()
 
     #splitted as paragraphs

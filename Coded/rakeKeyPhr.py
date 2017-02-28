@@ -19,7 +19,7 @@ def getKeys(sent):
     keys = {}
 
     #get unigram and scores
-    uni=rake_obj_uni.run(sent)[0:10]
+    uni=rake_obj_uni.run(sent)[0:20]
 
     #get bigram and scores
     bi=rake_obj_bi.run(sent)[0:10]

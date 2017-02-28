@@ -1,23 +1,18 @@
 import io
 import itertools
-import os
-
-import click
 import networkx as nx
-import nltk
-from nltk.tokenize import RegexpTokenizer
+import matplotlib.pyplot as plt
+import matplotlib
 
 '''@click.group()
 def cli():
     pass
 '''
-#nltk.download('punkt')
 
+graphFont = matplotlib.font_manager.FontProperties(fname='font/tabanna.ttf')
 
 def lDistance(firstString, secondString):
-    """Function to find the Levenshtein distance between two words/sentences -
-    gotten from http://rosettacode.org/wiki/Levenshtein_distance#Python
-    """
+
     if len(firstString) > len(secondString):
         firstString, secondString = secondString, firstString
     distances = range(len(firstString) + 1)
@@ -47,16 +42,18 @@ def buildGraph(nodes):
         levDistance = lDistance(firstString, secondString)
         gr.add_edge(firstString, secondString, weight=levDistance)
 
+
+    '''pos=nx.spring_layout(gr)
+    nx.draw(gr,pos,node_color='#A0CBE2',edge_color='#BB0000',width=2,fontproperties=graphFont,edge_cmap=plt.cm.Blues,with_labels=True)
+    plt.draw()
+    plt.show()'''
+
     return gr
 
 
 
 
 def extractSentences(text):
-    # sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
-    # print text
-    # sent_detector = RegexpTokenizer(r'\w+')
-    # sentenceTokens = sent_detector.tokenize(text.strip())
 
     sentenceTokens = text.split('. ')
 
@@ -100,4 +97,4 @@ if __name__=='__main__':
     summary = extractSentences(text)
     # keys=extractKeyphrases(text)
     print "Summary: " + summary
-    # print "Keys: "+keys
+    # print "Keys: "+keys.
