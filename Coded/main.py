@@ -80,3 +80,9 @@ print "Summary:\n"+summary
 
 info=extractInfo.analyseSummary(summary)
 print "Notes:\n"+info
+
+print "\n\nTotal no. of sentences in Given doc:"+str(module1.senCount)
+print "Total no. of words in Given doc:"+str(module1.wordsCount)
+
+print "\nTotal no. of sentences in summary:"+str(len(summary.split('. ')))
+print "Total no. of words in summary:"+str(len(summary.split()))

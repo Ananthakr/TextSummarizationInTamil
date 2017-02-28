@@ -11,7 +11,7 @@ def extractData(sen):
     sen=re.sub(r"[<>]",'',sen)
     for word in sen.split():
         #print word
-        if(word=="Noun" and prev!="Interrogative"):
+        if(word=="Noun" and prev!="Interrogative" and prev!="Adjectival"):
             result+=prev+"-"
 
         if(word=="Verb" and prev!="Auxiliary" and prev!="Finite"):
@@ -20,7 +20,13 @@ def extractData(sen):
         if(word=="Entity"):
             result += prev + "-"
 
+        if(word=="Unknown"):
+            result += prev + "-"
+
         if(word=="Auxiliary"):
+            result += prev + "-"
+
+        if(word=="Adjectival"):
             result += prev + "-"
 
         if(word=="Finite" and prev!="Negative"):

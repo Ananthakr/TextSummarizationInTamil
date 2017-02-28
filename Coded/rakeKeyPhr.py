@@ -4,8 +4,8 @@ import operator
 #data/docs/fao_test/w2167e.txt
 
 rake_obj_uni = rake.Rake("tamilStopList.txt",6,1,2)
-rake_obj_bi = rake.Rake("tamilStopList.txt",6,2,1)
-rake_obj_tri = rake.Rake("tamilStopList.txt",6,3,1)
+rake_obj_bi = rake.Rake("tamilStopList.txt",8,2,1)
+rake_obj_tri = rake.Rake("tamilStopList.txt",12,3,1)
 
 '''
 ***use RAKE to extract keywords
