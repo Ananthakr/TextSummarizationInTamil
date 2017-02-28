@@ -20,7 +20,8 @@ public class Analyser {
 
     public static String analyseF(String input, boolean analysePart) {
         //System.out..println("The input is"+input);
-        String output = "<" + input + ">" + ":\n";
+        //String output = "<" + input + ">" + ":\n";
+        String output="";
         //System.out..println("The input is"+output);
         try {
             Stack allStk = new Stack();
